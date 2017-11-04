@@ -36,4 +36,4 @@ In RStudio run the following code to make sure that the Docker RSelenium server 
 
 ## Stopping Docker images when you are done
 
-To stop all docker containers you can use `docker stop $(docker ps -q)`
+To stop all docker containers in the Quickstart Terminal you can use `docker stop $(docker ps -q)`
