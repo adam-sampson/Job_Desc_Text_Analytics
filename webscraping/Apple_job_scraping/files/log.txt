@@ -1,0 +1,22 @@
+Getting values from page: 5
+Starting to collect jobs from Apple
+Writting job desc: Job_Number_113110538
+Writting job desc: Job_Number_113110538
+Writting job desc: Job_Number_99607161
+Writting job desc: Job_Number_113135484
+Writting job desc: Job_Number_113135484
+Writting job desc: Job_Number_86503432
+Writting job desc: Job_Number_86503432
+Writting job desc: Job_Number_113004870
+Writting job desc: Job_Number_113052556
+Writting job desc: Job_Number_113021470
+Writting job desc: Job_Number_53206745
+Writting job desc: Job_Number_53206745
+Writting job desc: Job_Number_112954300
+Writting job desc: Job_Number_112954300
+Writting job desc: Job_Number_53940748
+Writting job desc: Job_Number_53940748
+Writting job desc: Job_Number_112890985
+Writting job desc: Job_Number_58240326
+Writting job desc: Job_Number_112968561
+Writting job desc: Job_Number_112968561

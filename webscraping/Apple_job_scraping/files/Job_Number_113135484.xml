@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113135484">Data Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113135484</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 31, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Fraud, Engineering, Algorithms and Risk group is responsible for combating fraud and abuse for Internet Software and Services at Apple. The FEAR engineering team is tasked with building mission-critical, robust and scalable distributed systems that can keep pace with data across a number of high-profile and large-volume Apple cloud properties. We are building the next-generation libraries, platforms and data pipelines to empower our data scientists to rapidly build and deploy complex models to production. 
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>MS or BS in Computer Science or related field</li>
+<li>3 or more years experience building large-scale distributed systems</li>
+<li>Skilled in Scala or Java</li>
+<li>Working knowledge with at least two of: Spark, MapReduce, HDFS, Cassandra, Kafka</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">We engineer high-quality, scalable and resilient distributed systems that power data exploration, model building and production models. Our core systems need to work seamlessly across different execution contexts (real-time, near real-time and batch) and support diverse big data stacks such as Spark, Hadoop, Kafka, Cassandra and beyond.
+
+We work at a unique intersection of huge data volumes and adversaries that are continuously adapting, which means we are operating at and beyond the limits of conventional big data systems. On our team you can be sure that every commit you make will come with the satisfaction that you are helping protect and improve the user experience of hundreds of millions of users.
+
+This role requires in-depth knowledge with cutting-edge big data technologies. Tuning, troubleshooting and scaling these big data technologies are a key part of our work, where having a curiosity with the internal workings of these systems is key to being successful. This is a hard-core software engineering role, where a large part of an engineer's time is spent writing code with the remainder being spent on designing and architecting systems, tuning and debugging big data systems, supporting production systems and supporting our data scientists.
+</p>
+<h3>Education</h3>
+<p class="preline">BS in Math, Computer Science, or equivalent experience</p>
+</div></body></html>

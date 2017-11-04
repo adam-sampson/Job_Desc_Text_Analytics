@@ -1,13 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><div id="requisitionDescriptions">				
-			<div class="requisition" style="display: block;" id="requisitionDesc-113110538">
-<div style="float:right;margin-top:-40px;" id="languageList-113110538"></div>
-<input value="None" id="requisitionErrorMessage-113110538" type="hidden"><input value="en_US" id="reqDescLang-113110538" type="hidden"><input value="CORPORATE_REQ" id="retailOrCorpReqType-113110538" type="hidden"><div id="job">
+<html><body><div id="job">
 <h2 id="title-113110538">Data Engineer</h2>
 <ul class="sosumi">
 <li>Job Number: 113110538</li>
 <li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
-<li>Posted: 17-Oct-2017</li>
+<li>Posted: Oct. 17, 2017</li>
 <li>Weekly Hours: 40.00</li>
 </ul>
 <h3>Job Summary</h3>
@@ -29,6 +26,4 @@
 <p class="preline">Data engineers at GBI are required to understand the business process, the relationship between various data elements, aspects of ETL, and logic behind a business solution. Various engineering solutions need the understanding of Hadoop platform capabilities and limitations. The solutions to be developed are to be on Hive on Map-Reduce, Tez or Spark. Day to day work involves analyzing various data products for the functional change, performance improvement, solutions that includes changing data structures and restating the data.  The candidate is considered a right fit if the person can demonstrate a fair amount of appreciation for working independently, yet enabling all team members by paying attention to overall details driving the application, delivering quality product modules on time.</p>
 <h3>Education</h3>
 <p class="preline">BS/MS CS/CE or equivalent. (Engineering degree in computer science preferred).</p>
-</div>
-</div>
 </div></body></html>
