@@ -63,6 +63,8 @@ saveJobsFromPage <- function() {
   write("Starting to collect jobs from Apple",file="log.txt",append = TRUE)
   
   # In case there is only one page first we should get all the items on the first page
+  print(paste0("Getting values from page: 0"))
+  write(paste0("Getting values from page: 0"),file="log.txt",append = TRUE)
   saveJobsFromPage()
   
   while(nextIsDisabled == FALSE) {

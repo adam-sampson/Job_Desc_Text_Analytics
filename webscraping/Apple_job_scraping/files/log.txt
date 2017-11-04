@@ -1,4 +1,3 @@
-Getting values from page: 5
 Starting to collect jobs from Apple
 Writting job desc: Job_Number_113110538
 Writting job desc: Job_Number_113110538
