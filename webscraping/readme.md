@@ -6,7 +6,7 @@ Instructions were followed from: [https://cran.r-project.org/web/packages/RSelen
 
 Method used for Windows:
 
-Getting [Docker toolbox for Windows](https://docs.docker.com/toolbox/toolbox_install_windows/)
+Get [Docker toolbox for Windows](https://docs.docker.com/toolbox/toolbox_install_windows/)
 
 Install Docker Toolbox
 
