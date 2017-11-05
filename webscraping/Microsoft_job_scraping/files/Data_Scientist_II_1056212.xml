@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=6">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=2&amp;sort=&amp;rw=59&amp;jid=325622&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 60 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=2&amp;sort=&amp;rw=61&amp;jid=321537&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Data Scientist II</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>The Identity security investigations team mission is to eliminate fraudulent accounts and prevent account compromise across all of Microsoft’s Identity systems - consumer and enterprise, on any device and service. <br></p>
+<p><br></p>
+<p>Identity is the new control plane: all Microsoft services rely on Azure Active Directory and Microsoft Account to authenticate their users, and our goal is to keep all users safe. Every single day, our detection systems and machine learning algorithms evaluate and risk score more than 10 billion logins for more than 700 million users, stopping more than 30 million account hacks every day. Users on Office 365, Xbox, OneDrive, Outlook, Azure, and at millions of enterprise desks around the world rely on us to keep their identities - and all the services and assets they allow access to - safe from cyber criminals. <br></p>
+<p><br></p>
+<p>We are looking for a talented individual to join our team who is passionate about data and security. Your job would entail diving through mountains of data and extracting insights to help us understand the ever-changing environment of identity compromise and abuse. Take a blank canvas made of terabytes of information and create smart algorithms that can detect the bad actors trying to sneak through the holes while maximizing the good users’ productivity and usability. <br></p>
+<p><br></p>
+<p>Do you love big data and the challenges it entails? Do you like the idea of applying your technical skills to protect millions of Microsoft customers from malicious hackers? Would you like be part of team of smart, talented and mission driven people? Then this job is for you! <br></p>
+<p><br></p>
+<p>Responsibilities:         <br></p>
+<p><br></p>
+<p>•Improving existing algorithms and create new ones to detect and prevent identity compromise and abuse. Analyze new data sources and find new patterns that can be transformed into a new automated detection. <br></p>
+<p><br></p>
+<p>•Investigate security incidents and find patterns that would have caught what we missed, ensuring we adapt our systems so we can detect it automatically the next time.<br></p>
+<p><br></p>
+<p>•Set up metrics to assess the quality of our detections, so we can improve and adapt in real time. <br></p>
+<p><br></p>
+<p>•Collaborate with engineering and partner teams to build the Microsoft Security graph. Leverage data gathered by the different teams and services to build new detection algorithms.<br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>The ideal candidate will have:     <br></p>
+<p><br></p>
+<p>Minimum qualifications<br></p>
+<p><br></p>
+<p>•A bachelor’s degree in computer science or quantitative domain related technical field.<br></p>
+<p><br></p>
+<p>•2+ years' experience as a data scientist or software engineer or security researcher<br></p>
+<p><br></p>
+<p>Preferred qualifications:<br></p>
+<p><br></p>
+<p>•Background in machine learning, expert systems or data analytics    <br></p>
+<p><br></p>
+<p>•Proficiency in querying language/big data systems (SQL, Cosmos, Azure Data Lake, Hadoop, etc.)    <br></p>
+<p><br></p>
+<p>•Strong communication skills. Love for collaboration and team work.<br></p>
+<p><br></p>
+<p>•Graduate degree in computer science, machine learning, statistics or quantitative domain<br></p>
+<p><br></p>
+<p>•Knowledge of programming (C#, C++, Java) and data analytics languages (R, Python) <br></p>
+<p><br></p>
+<p>•Experience with statistical software (R, AzureML, etc.)<br></p>
+<p><br></p>
+<p>•Previous experience in any of the following: identity systems, security, threat intelligence, fraud or abuse.<br></p>
+<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:<br></p>
+<p><br></p>
+<p>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">290825</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1056212</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Program management (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trProduct" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobProductHeading">
+
+Products and technologies
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobProductText" style="font-weight: bold">Azure Active Directory</span>
+                                        </td>
+		</tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Cloud and enterprise</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

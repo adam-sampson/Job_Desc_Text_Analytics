@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=0">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 1 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=0&amp;sort=&amp;rw=2&amp;jid=325958&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Principal Data Scientist, Identity Data Experimentation, and Analysis</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Do you LOVE data science? Do you aspire to tell stories using data as well as Hans Rosling, the most popular TED speaker of all time? Join Azure Identity, the core of Microsoft’s on-line services and change the way data drives the business for customers and executive leadership. The Azure Identity Data Experimentation, and Analysis team is building on our big data foundation and expanding into Machine Learning.    Come reinvent how software is built on Azure by delivering tools to democratize Data Science and experimentation for Azure Identity apps.    We process more than 100 billion identity transactions per month and only the best Data Scientists can extract insights from this mountain of data and communicate those insights like Hans! <br></p>
+<p><br></p>
+<p>The Identity Data Experimentation, and Analysis team, IDEA, in Azure is looking for a Principal Data Scientist to lead the IDEA vision of delivering the most valuable insights and metrics imaginable. IDEA solutions support external application developers, enterprises building on Azure Identity, and internal product teams like Office by providing visibility into customer behavior, user engagement, predictive analytics, and many more scenarios. <br></p>
+<p><br></p>
+<p>Our Data Science and Engineering team focuses on the following high impact areas:    <br></p>
+<p>1.      Enable Azure Active Directory executives to make strategic decisions <br></p>
+<p>2.      Facilitate experimentations within Identity <br></p>
+<p>3.      Empower feature teams to understand data and make strategic data-driven decisions based on IDEA delivered insights <br></p>
+<p>4.      Operationalize data science analysis based on cutting edge techniques in machine learning, semantic analysis, data mining, experimentation, statistics, et al <br></p>
+<p><br></p>
+<p>We are looking for an experienced Data Scientist to lead efforts to improve insights. As a key member of IDEA you will help drive our expansion into machine learning, ingestion of new data science tools, and publishing the IDEA content via the Graph API. We need your just-get-it-done attitude in our fun and fast-paced environment (we ship every 2 weeks!) <br></p>
+<p><br></p>
+<p>The following skills and interests are helpful:    <br></p>
+<p>•      Machine Learning algorithms and technologies <br></p>
+<p>•      Experience with R, PowerBI, and other data analysis / visualization tools <br></p>
+<p>•      Proficiency in big data technologies such as Hadoop, ElasticSearch, Cosmos <br></p>
+<p>•      Some knowledge of modern storage tech: Mongo, Kafka, etc.    <br></p>
+<p><br></p>
+<p>Basic Qualifications:    <br></p>
+<p>•      BS, MS, or Ph.D. in Applied Math, Statistics, Data Science, Economics, or Computer Science<br></p>
+<p>•      7+ years of experience in data roles with a proven track record using data to drive business results<br></p>
+<p><br></p>
+<p>Preferred Qualifications:<br></p>
+<p>•      Excellent communication and collaboration skills    <br></p>
+<p>•      Strong analytical and data visualization skills    <br></p>
+<p>•      Demonstrated ability to work in ambiguous situations and across organizational boundaries <br></p>
+<p>•      Creative and innovative thinker <br></p>
+<p><br></p>
+<p>#identityjobs<br></p>
+<p><br></p>
+<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:<br></p>
+<p><br></p>
+<p>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">304272</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1061480</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Development (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Cloud and enterprise</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

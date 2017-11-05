@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=11">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=4&amp;sort=&amp;rw=111&amp;jid=321678&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 112 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=4&amp;sort=&amp;rw=113&amp;jid=272371&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Software Engineer II</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Are you passionate about data that makes decisions faster? Are you an excellent problem solver who is not afraid to cross domain barriers? Are you looking for an agile environment that solves customer problems but also provides opportunities to work on long term bets? Look no further. We are part of the larger C+E Division, and our D&amp;A (Data &amp; Analytics) team supports a variety of Rhythms of the Business (ROB) and ad hoc analyses for the C+E Division to examine recent and historical data, identify salient trends, develop statistical models, and deliver key insights. As the availability of data and the demand for analysis grows, Microsoft also increases its need for highly reliable and capably data analysis functionalities which can internal stakeholders across the C+E Division to make informed decisions about their Cloud offerings and the Enterprise customer experience.    Microsoft’s Biz Ops Data Analytics team is responsible to identify, source, and analyze new data to determine key information on customer behavior, system performance, or financial results to drive operational excellence. The results of these analyses are critical to Microsoft’s ability to make informed data-driven decision marking and deliver improvements in customer health and satisfaction which are consistent with those results. In addition to that, the D&amp;A team analyze and address unplanned events for Enterprise customers, including billing errors, SIEs    (Service Impacting Events), credits and mass communication. The team also builds a publisher portal for Azure Marketplace to enable self-service capability for payout recon and seller insights report. The team also monitors the data integrity of the Microsoft Azure Enterprise Portal and Marketplace Publisher Portal, ensuring the accuracy and consistency of data &lt;https://en.wikipedia.org/wiki/Data&gt; over its entire life cycle. We are looking for strong Software Engineer who are passionate about data analysis and cloud services. You will help analyze and design models for ensuring data integrity, anomalies detection, prototyping models for detecting unbilled usage (Revenue Leakage), and build cutting edge systems, algorithms and tools to detect and investigate data integrity and anomalies in Azure.     This is role will be instrumental in driving down the EA billing error rate and responsible to introduce new data integrity checks to uncover new scenarios and analyze the pattern of issues to derive insights for permanent fix. This role requires extensive collaboration with UST team and Billing team to ensure revenue leakage and billing anomalies are addressed to enable more accurate billing and no revenue left on the table (RLOT). This person should own rerating of all EA enrollments for every month end closure and publish the billing anomalies report to billing team to ensure customers are not overcharged as it has direct impact to CSAT/CPE. You’ll need a balance of technical and business acumen in order to frame broad issues &amp; risks in a compelling manner for decision makers. <br></p>
+<p>The ideal candidate will have: Key accountabilities:     Support execution and operational improvements of the Azure BG.     Enable automation to eliminate manual process.     Help drive insights into engineering and other parts of the Azure business.     Define and implement effective key performance indicators (KPIs) and other measurements to ensure business impact.        Gather and analyze qualitative and quantitative data to identify meaningful actions.     Design and drive implementation of reporting by interfacing with business, engineering, finance, operations, and systems teams to provide actionable insights.     Deliver on ambiguous projects with multiple stakeholders, unclear requirements and incomplete data    The ideal candidate is someone who has experience in SQL Server, Azure SQL Server, SSAS (Cube), SSIS (ETL), Azure SQL Data Warehouse, Azure Data Lake, and PowerBI. Also design, coding, debugging, time management, communication skills are essential.         <br></p>
+<p><br></p>
+<p>Basic Qualification: <br></p>
+<p><br></p>
+<p>• 6+ years of experience in applied data analysis    <br></p>
+<p>• Has solid experience in SQL Server, Azure SQL Server, SSAS <br></p>
+<p>    (Cube), SSIS (ETL), Cosmos, Azure SQL Data Warehouse, <br></p>
+<p>    Azure Data Lake, and PowerBI. Also design, coding, <br></p>
+<p>    debugging, time management, communication skills are <br></p>
+<p>    essential.        <br></p>
+<p>Nice to know: MDX, Blob storage, Spark on Azure, Stream Analytics, C#, RESTful web services.    <br></p>
+<p><br></p>
+<p>Preferred Qualification:     <br></p>
+<p><br></p>
+<p>• Team player, confident, independent and enthusiastic!    <br></p>
+<p>• Personal drive for impact: a desire to roll up your sleeves and <br></p>
+<p>    make things happen     <br></p>
+<p>• Strong critical thinking, problem solving and communication <br></p>
+<p>    skills     <br></p>
+<p>• Strong organizational skills with ability to consolidate and <br></p>
+<p>    integrate a wide range of inputs     <br></p>
+<p>• Experience working with customers and business planning <br></p>
+<p>    teams, with a strong customer satisfaction track record in a <br></p>
+<p>    customer facing role     <br></p>
+<p> <br></p>
+<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:<br></p>
+<p>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.    <br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">321628</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1070605</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Data &amp; applied sciences (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Cloud and enterprise</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

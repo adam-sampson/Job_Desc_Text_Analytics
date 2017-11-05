@@ -76,7 +76,7 @@ remDr$open()
       Sys.sleep(round(runif(n=1,min=2,max=7),digits = 3))
       remDr$screenshot(display = TRUE)
     } else {  ###Known bug, for some reason this else statement never runs even when the if statement is FALSE
-      nextIsDisabled == TRUE
+      nextIsDisabled = TRUE
       write("No more jobs in list. Exiting.",file="log.txt",append = TRUE)
     }
   }  

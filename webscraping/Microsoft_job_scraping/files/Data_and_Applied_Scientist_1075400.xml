@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=5">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=2&amp;sort=&amp;rw=55&amp;jid=324463&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 56 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=2&amp;sort=&amp;rw=57&amp;jid=320303&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Data and Applied Scientist</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Xbox is at the forefront of the services and tech used to drive improvements across all of Microsoft’s games and platforms. At Xbox, we are poised to develop incredible experiences. This role will combine skills from analytics, engineering, business, and game design to redefine how we use data to make Xbox the premier gaming experience across any device. We want to deliver such rich, engaging scenarios that users will wonder why they ever played games on any other platform. You will be responsible for both the creation of new insights as well as a sustainable, scalable program that works with partners with rapidly evolving requirements. You will work closely with business-critical partners across the entire Xbox organization to ensure the right insights are delivered.     To be successful in this role, you must be able to use rigorous analytical techniques combined with expert data skills to develop highly scalable and efficient analytical models across the gaming ecosystem, sometimes going deep into a title to ensure that the best insights are available before and after launch. In addition, you will lead the creation of a cooperative learning trust across the individual studios and feature and platform teams in order to define and implement best practices for modern analytics and machine learning techniques, and how they can be applied to enable the future of Xbox gaming. The right person in this role will help shape the entertainment experience for millions of players.     <br></p>
+<p><br></p>
+<p><b>Responsibilities:</b>    <br></p>
+<p>• Work directly with Xbox teams to develop analytical best practices for measurement and design of platform features and games.    <br></p>
+<p>• Establish core measurements and methods that can be used across multiple games, game services, and hardware.    <br></p>
+<p>• Use data mining, modeling, and statistical techniques to create new, scalable solutions to enable both business and end-user scenarios.    <br></p>
+<p>• Conduct predictive data analysis oriented towards player behavior. <br></p>
+<p>• Model player experiences using decision tree analysis and multivariate regression analysis.    <br></p>
+<p>• Deliver progression modeling, balance analysis, multiplayer performance and social impact analysis.    <br></p>
+<p>• Provide regular, timely reporting and performance monitoring to studio teams and key business stakeholders.    <br></p>
+<p>• Establish scalable, efficient, automated models for large scale data analyses. <br></p>
+<p>• Collaborate with data modeling and visualization teams to incorporate best practices into sprint planning.    <br></p>
+<p>• Recommend new architectural designs and enhancements to existing data systems in order to optimize for high speed, low latency reporting and self-service analytics for stakeholder clients.    <br></p>
+<p><br></p>
+<p><b> Qualifications:     </b><br></p>
+<p>• 3+ years of data science and/or business intelligence experience.    <br></p>
+<p>• A Bachelor’s or Master’s degree in Computer Science, Mathematics, Statistics, Machine Learning or related technical field     <br></p>
+<p><br></p>
+<p><b>Preferred Qualifications:    </b><br></p>
+<p>• 5+ years of data science and/or business intelligence experience    <br></p>
+<p>• Passion for games, the game community and game design.    <br></p>
+<p>• Excellent analytical and problem-solving skills, with hands-on experience applying it to big data.    <br></p>
+<p>• Ability to apply statistics, data mining and machine learning techniques to create new, scalable solutions for business problems.     <br></p>
+<p>• Creation and implementation of statistical predictive models including such algorithms as decision trees, regression, clustering, association, factor analytic techniques, etc.    <br></p>
+<p>• Advanced working knowledge of data mining using SQL, ETL and Data Warehouses. <br></p>
+<p>• Need to be able to formulate complex SQL queries and have experience working with BI and visualization tools.     <br></p>
+<p>• 2+ years of experience with R or Python scripting (or other platform-agnostic language).     <br></p>
+<p>• Excellent verbal, written and collaborative communication skills in a cross-team environment with the ability to translate complex information.    <br></p>
+<p><br></p>
+<p><b>Extra Preferred Qualifications:     </b><br></p>
+<p>• PhD in Computer Science, Mathematics, Statistics, Finance, Machine Learning or related technical field.    <br></p>
+<p>• Experience with Azure tools and technologies (Hadoop, HDFS, Hive/Pig, Spark).     <br></p>
+<p>• Ability to develop prototypes by compiling, manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources.     <br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">324052</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1075400</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Data &amp; applied sciences (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trProduct" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobProductHeading">
+
+Products and technologies
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobProductText" style="font-weight: bold">Xbox</span>
+                                        </td>
+		</tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Studios</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>
