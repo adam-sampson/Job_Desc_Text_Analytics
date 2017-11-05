@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=26">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=10&amp;sort=&amp;rw=260&amp;jid=306653&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 261 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=10&amp;sort=&amp;rw=262&amp;jid=291466&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Sr. Software Engineer</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Core Services Engineering builds and manages the critical products and services that Microsoft runs on. We boldly pursue big ideas that power transformational advances at Microsoft and for our customers, while helping Microsoft teams work smarter, faster and more securely every day. Core Services Engineering employees have deep technical and business expertise, customer insights, and a clear point of view that comes from first-hand, large-scale experience with Microsoft and industry solutions. We are engineers, technology leaders and experts, digital transformation change agents, and customer advocates.<br></p>
+<p><br></p>
+<p><br></p>
+<p>We have exciting opportunities for you to innovate, influence, transform, inspire and grow within our organization and we encourage you to apply to learn more!<br></p>
+<p><br></p>
+<p><br></p>
+<p>Are you excited about Big Data and Distributed Processing? Do you love figuring out how to apply the Apache Spark techniques? Are you passionate about working on finance data with complex business logic?<br></p>
+<p><br></p>
+<p><br></p>
+<p>We’re looking for an experienced Data Engineer who is enthusiastic about transforming data into action.<br></p>
+<p><br></p>
+<p><br></p>
+<p>Responsibilities: <br></p>
+<p>As a Software Engineer for Corporate Functions Engineering Finance, you will work on finance data to give deep insights to customers. It's your chance to:<br></p>
+<p><br></p>
+<p><br></p>
+<p>• Demonstrate strong interpersonal and communication skills, while working with diverse audiences including highly technical professionals, developers, architects and finance business process managers. <br></p>
+<p>• Understand complex business requirements.<br></p>
+<p>• To read complex T-SQL procedures to understand the existing process<br></p>
+<p>• Create new process in Apache Spark using Scala<br></p>
+<p>• Create orchestrations for different Spark jobs.<br></p>
+<p>• Create data marts for specific reporting requirements.<br></p>
+<p>• Collaborate with other technical teams at Microsoft to deliver product and solution level support.<br></p>
+<p><br></p>
+<p><br></p>
+<p>Skills and qualifications: <br></p>
+<p>• 5+ years of industry experience with Microsoft Server products, and Azure Platform technologies.<br></p>
+<p>• Demonstrable experience developing real-world Big Data solutions (Java, Scala) on Windows/Linux.<br></p>
+<p>• Big Data and Analytics platform: HDInsight (Hadoop, Spark, HBase).<br></p>
+<p>• Practical knowledge of common storage options including JSON, Parquet and ORC formats. <br></p>
+<p>• Working experience with Azure platform is strongly preferred/required<br></p>
+<p>• Working knowledge of Azure PowerShell.<br></p>
+<p>• Solid knowledge of the Hadoop ecosystem on one or more major distros (Horton Works, Cloudera)<br></p>
+<p>• Troubleshooting tools and techniques and data analytics jobs and workflows.<br></p>
+<p>• Use trace analysis, debug skills, source code, and other proprietary tools, to analyze problems and develop solutions to meet customer needs; this may involve writing code.<br></p>
+<p>• Solid understanding of client/server, networking, and Internet technologies fundamentals. <br></p>
+<p>• Understanding of n-tier solutions.<br></p>
+<p>Nice to have skills include any tools/technologies in the Spark related ecosystem (YARN, Livvy, Zookeeper, Kafka, etc.)<br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>Key Skills &amp; Knowledge: <br></p>
+<p>• Minimum 2 years of hands-on experience working on Big Data solutions in production using Apache Spark and related technologies<br></p>
+<p>• Candidates should have prior experience with Linux platform on Azure and Hadoop <br></p>
+<p>• Strong problem-solving and technical leadership skills <br></p>
+<p>• Works well in a global team environment<br></p>
+<p>• Excellent Communication and presentation skills <br></p>
+<p>• Effective learning skills, desired background in Microsoft technologies <br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>Basic Qualifications<br></p>
+<p>• 7+ years of experience with C# or Java <br></p>
+<p>• 5+ years of relational or NoSQL database experience <br></p>
+<p>•    5+ years of experience in software development<br></p>
+<p>• 3+ years of experience working with BI, Big Data/ Data Science or Machine Learning technologies <br></p>
+<p>• Bachelor's degree in Computer Science<br></p>
+<p><br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">324435</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1075229</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Core Services Engineering</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Core Services Engineering</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>
