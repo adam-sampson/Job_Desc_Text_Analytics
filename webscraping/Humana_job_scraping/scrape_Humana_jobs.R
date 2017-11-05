@@ -52,6 +52,8 @@ remDr$open()
       jobDescText <- htmlParse(jobDescRaw, asText = TRUE, encoding="UTF-8")
         jobName <- capture.output(xpathApply(jobDescText, "//span[@class=\"titlepage\"]")[[1]])
         jobName <- str_replace_all(jobName,"<[^>]+>","")
+        jobName <- str_replace_all(jobName,"[^A-z]"," ") # Fix issues with special characters in names
+        jobName <- str_replace_all(jobName,"\\W{2,}"," ") # Fix issues with multipe spaces
         jobName <- str_trim(jobName)
         jobName <- str_replace_all(jobName," ","_")
         jobID <- capture.output(xpathApply(jobDescText, "//*[@id=\"requisitionDescriptionInterface.reqContestNumberValue.row1\"]")[[1]])
