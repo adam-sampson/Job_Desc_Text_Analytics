@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112999582">Software/Data Engineer, Apple Media Products Data Engineering</h2>
+<ul class="sosumi">
+<li>Job Number: 112999582</li>
+<li title="SF - Corporate, California, United States">SF - Corporate, California, United States</li>
+<li>Posted: Oct. 3, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple Media Products is the team behind the App Store, Apple Music, iTunes, and many other high profile products on iPhone, Mac and AppleTV. Our Data Engineering team is looking for talented, performance-savvy, engineers to build out the big data platform and services which power many of these customer features — existing and new. This is your opportunity to help engineer highly visible global-scale systems with petabytes of data, supporting hundreds of millions of users.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Significant experience in designing, implementing and supporting highly scalable data systems and services in Java and/or Scala</li>
+<li>Experience in Hadoop/Spark, noSQL stores, and traditional relational DBs preferred </li>
+<li>Experience of any of the following is an advantage:</li>
+<li>Distributed Computing technologies in particular Hadoop MapReduce, Spark / Spark-SQL, YARN/MR2</li>
+<li>Building and running large-scale data pipelines, including distributed messaging such as Kafka, data ingest to/from multiple sources to feed batch and near-realtime/streaming compute components</li>
+<li>Data-modeling and data-architecture optimized for big data patterns (efficient storage and query on HDFS)</li>
+<li>Knowledgable about distributed storage and network resources, at the level of hosts, clusters and DCs, to troubleshoot and prevent performance issues.</li>
+<li>Experience with low-latency NoSQL datastores and traditional relational databases is a plus.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The candidate’s responsibilities include designing and implementing features that rely on processing and serving very large datasets, so an awareness on scalability is required. One of the concrete feature is to help surface popular contents across all our media stores, including, but not limited to, our App Stores, Apple Music or TV App. And not only the computed datasets need to be serviced to our customers, but it also need to be shared across many teams in our organization, such as Search team, Recommendation team, Reporting team, etc.
+
+Because the candidate will have to interact with other groups on an ongoing basis, good verbal and written communication skills are important to this position. You will also enjoy the benefits of working in a fast growing business where you are encouraged to “Think Different” to solve very interesting technical challenges and where your efforts play a key role in the success of Apple’s business.
+
+Candidate should have development and implementation experience of large scale mission critical applications. Engineer innovative solutions while playing a hands-on development role to deliver products in a rapid and dynamic environment. Leadership is important for this position as the candidate will be looked to for technical guidance and best practices.</p>
+<h3>Education</h3>
+<p class="preline">Bachelors/equivalent, or greater, in Computer Science or related discipline</p>
+</div></body></html>

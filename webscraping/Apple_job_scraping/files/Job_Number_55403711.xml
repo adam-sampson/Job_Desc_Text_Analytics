@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-55403711">Siri Operations - Site Reliability Engineer </h2>
+<ul class="sosumi">
+<li>Job Number: 55403711</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Apr. 17, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple is looking for talented engineers to help build the next generation Telemetry platform for Siri. Our team builds software and systems to provide easy data collection, real time data processing, and anomaly detection of Siri’s metrics and usage data. This is a highly technical and motivated team solving difficult distributed systems and big data systems problems.
+
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>7+ years of experience supporting high-volume customer-facing environments.</li>
+<li>Strong background in programming languages in either Python, Go, Java, or Scala.</li>
+<li>Strong background in the management of *nix systems.</li>
+<li>Strong background in configuration management systems such as Puppet. </li>
+<li>Experience in the management of monitoring tools such as Graphite, Splunk, and Elasticsearch.</li>
+<li>Strong communication skills and ability to work effectively across multiple teams.</li>
+<li>Strong background in statistics, predictive modeling, and algorithms.</li>
+<li>Experience in automation and system orchestration using tools such as Rundeck, Ansible, or StackStorm would be a plus.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a Siri Operations - Site Reliability Engineer, you will be engaging other engineering teams to obtain new data that provides insight into Siri’s reliability and usability. You must be able to quickly translate analytical concepts into running code and also act as an advocate of the data. Lastly, you will need to be comfortable in working in a fast paced environment that iterate over changes quickly. 
+</p>
+<h3>Education</h3>
+<p class="preline">Bachelor’s degree in Computer Science or Information Systems.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">- Mesos infrastructures 
+- JVM performance optimizations 
+- Unix/Linux systems administration experience</p>
+</div></body></html>

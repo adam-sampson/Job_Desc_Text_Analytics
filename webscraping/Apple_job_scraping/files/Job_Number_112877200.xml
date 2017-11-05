@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112877200">Site Reliability Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 112877200</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Aug. 23, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple is in the process of building hyper-scale infrastructure to support consumer services such as iCloud, iTunes, Maps, Siri etc to billions of devices. Our team is responsible for defining, innovating and building the software defined infrastructure (SDI) that can deliver the scale. The infrastructure scope covers our global Data Centers, Network Backbone and the Edge Internet. SDI defines the large scale distributed system for intelligent control and monitoring to achieve reliability and performance.
+
+ Building at such scale brings unique and fundamental challenges driving radical innovations. We are seeking key individuals who are passionate about building and operating a highly scalable, fault-tolerant and robust systems to support one of the largest infrastructures. 
+
+As a part of the SRE role, you will be responsible for the overall deployment and operation of SDI. Specifically, you will engage in system and platform design, scalable deployment automation and robust operation.   </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>10 years of experience in the following:</li>
+<li>Operation planning </li>
+<li>Launching internet software/services</li>
+<li>Deep involvement in large scale production environment</li>
+<li>Understanding of network architecture and management</li>
+<li>Deep understanding of network protocols such as MPLS, BGP, IPv6</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Continuously improve the network services from a deployment and operation standpoint
+Design process for continuous analysis and troubleshooting of large scale distributed system
+Drive the automations systems for large scale deployment, pushing changes, operational easiness
+Execute on the deployment plans with network operation and engineering team
+Maintain services once they are live by measuring and monitoring availability, latency and overall system health.
+Debug and root cause of analysis of production related issues</p>
+<h3>Education</h3>
+<p class="preline">BS in Computer science or related field</p>
+</div></body></html>

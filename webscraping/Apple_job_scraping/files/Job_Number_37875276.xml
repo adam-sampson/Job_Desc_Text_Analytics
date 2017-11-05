@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-37875276">CPU - Load-Store RTL Architect</h2>
+<ul class="sosumi">
+<li>Job Number: 37875276</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jul. 7, 2016</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple’s Silicon Engineering Group (SEG) designs high-performance, low power microprocessors that power iPhone and iPad. We are looking for an experienced engineer for Load-Store architecture and RTL development.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate should possess 10+ years of CPU RTL and architecture experience. </li>
+<li>Knowledge and experience with the following aspects of CPU architecture:</li>
+<li>Out-of-order execution</li>
+<li>Data address generation, translation, and memory management</li>
+<li>Load-Store microarchitectures, and memory ordering requirements.</li>
+<li>Advanced data prefetching strategies</li>
+<li>Cache designs</li>
+<li>Coherence protocols</li>
+<li>Knowledge of Verilog and/or VHDL. Experience with simulators and waveform debugging tools. </li>
+<li>Knowledge of logic design principles along with timing and power implications. </li>
+<li>Understanding of low power microarchitecture techniques. </li>
+<li>Understanding of high performance techniques and trade-offs in a CPU microarchitecture. </li>
+<li>Experience in C or C++ programming and interpretive languages such as Perl or Python.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a load-store architect you will own or participate in the following:
+RTL ownership. Development, assessment and refinement of RTL design to target power, performance, area and timing goals in the areas of out-of-order integer and memory op execution, memory management, data address generation and translation, store data forwarding and data caching.
+Microarchitecture development and specification.  From early high-level architectural exploration, through microarchitectural research and arriving at a detailed specification. 
+Performance exploration.  Explore high performance strategies and work with the verification team to validate that the RTL design meets targeted performance. 
+Design delivery. Work with cross-functional engineering team to implement and validate physical design on the aspects of timing, area, reliability, testability and power.
+</p>
+<h3>Education</h3>
+<p class="preline">Education:
+Required: Bachelor’s, Electrical or Computer Engineering
+Preferred: Master’s or PhD, Electrical or Computer Engineering
+
+</p>
+</div></body></html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-52394709">Performance Model Development and Analysis</h2>
+<ul class="sosumi">
+<li>Job Number: 52394709</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 26, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this highly visible role, you will be a member of an performance model development effort interfacing with many disciplines, with a critical impact on future architectural performance improvements and power savings.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>  • Strong problem solving and analytical skills</li>
+<li>  • Strong SW skills with good understanding of modular object oriented software development</li>
+<li>  • Knowledge of C/C++, Python, Lua, Perl preferred</li>
+<li>  • Outstanding written and verbal communications</li>
+<li>  • Excellent collaboration skills</li>
+<li>  • Proficiency in computer/SoC architecture and performance trade-offs</li>
+<li>  • Knowledge of Verilog and/or VHDL and experience with simulators and waveform debugging tools</li>
+<li>  • Model development and analysis experience preferred</li>
+<li>  • Ability to conduct experiments in all phases of design, gathering and analyzing data; and utilize scripting/spread sheet to document and present the results.</li>
+<li>* The ideal candidate will have 5+ years relevant experience.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a performance model developer for the IP blocks you will have responsibilities spanning all aspects of SOC performance and power trade offs:
+
+  • Working with Platform Architecture, SOC Microarchitecture, and design teams to plan and implement a high level performance model.  The performance model is minimal feature set to meet the model requirements yet modular and flexible enough to be adapted for new projects and experiments.
+  • Running trade off analysis for different options
+  • Providing early feedback to the design team regarding the design choices that may have been made.
+  • Developing and verifying tunable design configurations to maximize performance and minimize power.
+  • Correlating performance model against the RTL implementation to verify accuracy.
+  </p>
+<h3>Education</h3>
+<p class="preline">BS/MS in EE/CS is required</p>
+</div></body></html>

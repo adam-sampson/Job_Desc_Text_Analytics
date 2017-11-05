@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112867799">Software Engineer, Machine Learning Server</h2>
+<ul class="sosumi">
+<li>Job Number: 112867799</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 12, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">We’re looking for a talented server engineer to help us build systems for learning from the activities of the crowd while preserving individual privacy.
+
+In this role, you’ll implement novel machine learning algorithms, and deploy them in production at massive scale. These systems help us understand and improve Apple’s user experience, and are an important part of our strategic focus on privacy. You’ll work in a small and dynamic team, building new functionality and collaborating across groups. You’ll also participate in algorithm development, pushing the frontier of differential privacy and other forms of data privacy.
+
+This position requires a broad set of software engineering skills, with particular focus on machine learning algorithms and distributed implementations. You should have experience deploying at least one large production system with a massive dataset or a web-scale user population. An understanding of data privacy and a deep respect for users are also key.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>3+ years practical background in server software engineering and distributed systems</li>
+<li>Proven track record delivering production software</li>
+<li>Deep fluency in Java, C++, or another production language</li>
+<li>Experience with Spark, Hadoop, MPI, or other distributed frameworks</li>
+<li>Solid mathematical knowledge; understanding of machine learning or statistical inference a plus</li>
+<li>Strong initiative and independence</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Develop and implement new machine learning algorithms with a strong focus on data privacy
+Produce high quality code with excellent reliability and scalability
+Explore novel architectural solutions and communicate ideas clearly
+Collaborate in cross-functional teams to prototype new concepts and deliver end-to-end systems
+</p>
+<h3>Education</h3>
+<p class="preline">B.S. in Computer Science
+</p>
+</div></body></html>

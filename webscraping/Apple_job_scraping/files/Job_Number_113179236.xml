@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113179236">Full Stack Software Engineer, Siri</h2>
+<ul class="sosumi">
+<li>Job Number: 113179236</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 23, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile and desktop computing. Create groundbreaking technology for large scale systems, spoken language, big data, and artificial intelligence.  And work with the people who created the intelligent assistant that helps millions of people get things done — just by asking.  Join the Siri team at Apple.
+
+The Siri Metrics Platform team is in a unique position to align our quality initiatives to a singular platform. This will allow all performance, reliability, accuracy, and usability metrics to utilize the same methodology for dashboard/reporting creation and curation. This platform will also empower our developers to do ad-hoc queries into their problem space in order to troubleshoot or validate the effectiveness of their code from a quality perspective. 
+A successful candidate will have experience in data pipelines and data exploration as well as a strong ability to develop solutions in order to visualize and drill into data in near real-time.
+Build, implement, and manage a large scale metrics platform leveraged by all Siri teams.
+Create automated dashboard builder to allow end-user creation.
+Develop and contribute back to open source projects supporting the platform.
+Ensure the platform can handle all types of robust data exploration in real-time.
+Partner with all Siri teams and build features to enhance data analysis.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>3+ years of industry experience in developing interactive web-based applications for data visualization on large high-dimensional datasets.</li>
+<li>Proficient experience in Java or Python with strong understanding of object oriented programming principles. </li>
+<li>Practical experience with web technologies, such as HTML/CSS/JavaScript, UI frameworks and libraries (REACT, Angular, jQuery, D3, etc.).</li>
+<li>Experience in designing scalable backend storage systems by leveraging RDBMS and/or NoSQL technologies.</li>
+<li>Understanding of software development cycles and principles of User Interface design towards delivery of effective visualization tools.</li>
+<li>Strong understanding of securing user interfaces though authentication and access control.</li>
+<li>Familiar with current open-source and commercial tools in data visualization.</li>
+<li>Demonstrated creative and critical thinking capabilities.</li>
+<li>Self motivated and proactive.</li>
+<li>Strong communication skills and experience working on cross-functional project.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Siri Metrics Platform team is responsible for building a highly available and scalable system to ingest, process, and analyze billions of events generated daily from devices and our services. This system, along with the data visualization tooling we’re building, will allow our engineering teams to perform quick exploration with the overarching goal of improving the quality of Siri. 
+
+As a full-stack software engineer on the team, you will design and implement a front end platform, while working with the back-end storage systems for reporting and analysis. You will also build and maintain the data ingestion pipeline to keep the metrics flowing into this platform. You will interface with our quality initiative leaders to ensure the platform is meeting the needs and iterate as well as innovate based on observations and requirements gathering. 
+</p>
+<h3>Education</h3>
+<p class="preline">B.S. degree in Computer Science,  3+ years of programming experience or equivalent.</p>
+</div></body></html>

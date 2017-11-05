@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-57133686">DFT Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 57133686</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Apr. 21, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this highly visible role, you will be at the center of a System On Chip design effort interfacing with all disciplines, with a critical impact on getting functional products to millions of customers quickly.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate will have 5+ years of DFT experience, leading DFT efforts for large processor and/or SOC designs</li>
+<li>Knowledge of Verilog HDL and experience with simulators and waveform debugging tools</li>
+<li>Expertise in industrial standards and practices in DFT, including JTAG, ATPG, MBIST and trade-offs between test quality and test time</li>
+<li>Expertise in debugging ATPG patterns, MBIST setup/patterns, and JTAG/1500 related issues</li>
+<li>Experience on analog IP tests or test setup (PLL, high speed IO, ADC/DAC, and so on) will be a big plus</li>
+<li>Ability to conduct experiments during silicon debug, gathering and analyzing data; and utilize scripting to support efficient handling of ATE data</li>
+<li>Solid Understanding of design verification (DV) methodologies for validating DFT implementation in simulation pre-silicon</li>
+<li>Experience with front-end design methodology including STA, Formal Verification, Synthesis, Linting, CDC, and so on.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a DFT engineer, you will have responsibilities spanning various aspects:
+- implementing DFT infrastructure
+- Developing and implementing DFT architecture
+- Working with designers to integrate DFT implementations and run various checks
+- Working with the DV team to verify DFT implementations and review verification coverage
+- Managing schedules and supporting cross-functional engineering effort
+- Working with test engineers to bring up test patterns on silicon
+- Working with rest of the team to document DFT specifications
+- Generating structural test patterns and analyzing and improving coverage
+</p>
+<h3>Education</h3>
+<p class="preline">BSEE / MSEE is required</p>
+</div></body></html>

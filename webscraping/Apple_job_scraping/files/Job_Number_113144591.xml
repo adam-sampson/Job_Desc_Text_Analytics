@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113144591">ASIC Design Engineer - Fabric/Interconnect</h2>
+<ul class="sosumi">
+<li>Job Number: 113144591</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 12, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. 
+
+Apple is leading the charge in high performance mobile computing with state of the ART SOC's announced with each of its revolutionary new product offerings.  At the core of all Apple mobile SOC's, is an on-chip system interconnect bus that supplies the SOC agents with their requested load and store data from on chip and off chip memories.  With every generation the max bandwidth, lowest latency, lowest area, and lowest power requirements are more stringent and require complex planning in order to achieve on Apple's schedules.
+
+Be part of the team creating the architecture and design for the on-chip system interconnect bus for next generation Apple SOC's.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate will have the following background:</li>
+<li>Master’s degree in EE/CE/CS with 5+ years of work experience in ASIC design</li>
+<li>RTL Logic Design in multi-million gate ASICs with Verilog or System Verilog</li>
+<li>Hands on experience in all aspects of the ASIC development process with proficiency in front-end tools and methodologies</li>
+<li>Experience in writing specifications</li>
+<li>Experience with multiple clock domains and asynchronous interfaces</li>
+<li>Experience or knowledge of system architecture, CPU &amp; IP integration, power and clock domains</li>
+<li>Ability to communicate effectively across many internal groups</li>
+<li>Familiarity with software and operating systems concepts</li>
+<li>Expertise in:</li>
+<li>Computer Architecture concepts</li>
+<li>SoC system bus/fabric/interconnect design</li>
+<li>Memory controller design</li>
+<li>Networking packet based bus protocols</li>
+<li>Timing closure at high frequencies is a plus</li>
+<li>Familiarity with scripting languages such as Perl, Python</li>
+<li>Self-starter and highly motivated</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a member of the SoC Design team, you will be responsible for the following:
+
+Microarchitecture and design high-performance (low-latency, high-bandwidth, high-frequency), low-power on-chip fabric/interconnect and fabric components
+Analyze and configure fabric components to meet topology, bandwidth and latency needs of SoC
+Integrate fabric components at SoC level and sub-system level, including instantiation, connectivity, perform structural checks (such as Lint, CDC))
+Synthesis and timing closure
+Power analysis of design components (using industry standard tools)
+Optimize design components for power and performance
+Develop and maintain methodology/flows/checks for designs
+Work with multi-disciplinary groups to deliver designs on time with the highest quality</p>
+<h3>Education</h3>
+<p class="preline">BS/MS in EE/CS is required
+</p>
+</div></body></html>

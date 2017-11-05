@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-52783208">Platform Architect - SoC -Cache</h2>
+<ul class="sosumi">
+<li>Job Number: 52783208</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 10, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this role, you will be a member of a System-on-Chip team, working with various hardware and software engineering groups to shape the caching and memory architecture of Apple's future devices. 
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate will have 6-10 years experience/skills in several of the following areas:</li>
+<li>Usage of caches in SOC for different kinds of IP.</li>
+<li>C/C++ modeling of SOC for simulation of performance and power consumption.</li>
+<li>Graphics and camera subsystems and their data flows.</li>
+<li>Cache allocation and replacement policies.</li>
+<li>Memory technologies (SRAM, DRAM) and their performance/power trade-offs.</li>
+<li>Development of specifications working with engineers across different disciplines.</li>
+<li>Experience with gathering and analyzing data to evaluate and compare architectural design alternatives.</li>
+<li>Knowledge of the inner workings of gaming / camera Apps.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will have responsibilities for developing the architectural features of caches that will be critical for delivering the optimal memory bandwidth and power efficiency to the various IPs on the SOC:
+Documenting the cache performance targets together with Camera, Graphics, and iOS teams.
+Specifying the details of the cache architecture and feature set in collaboration with the hardware design engineers.
+Exploring thermal/power requirements with the power team and physical design team.
+C/C++ modeling at an architectural level of abstraction to analyze the trade-offs of design alternatives.
+Integration with SOC models from the architecture and design teams.
+Running simulations of a range of use cases, including complex Camera and Graphics scenarios.
+Careful analysis of the simulation results to enable data-driven design decisions.
+Writing of the architectural specification documents based on these findings.
+Supporting the subsequent stages of the SOC development process: design, verification, and silicon validation.
+</p>
+<h3>Education</h3>
+<p class="preline">EE/CS Masters or PhD Preferred
+</p>
+</div></body></html>

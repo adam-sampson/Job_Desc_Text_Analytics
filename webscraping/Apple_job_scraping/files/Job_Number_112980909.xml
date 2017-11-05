@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112980909">Sr. Software Engineer, Backend Big Data</h2>
+<ul class="sosumi">
+<li>Job Number: 112980909</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 11, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">
+We build systems that help improve the productivity of Apple engineers. We build device/system log analysis systems, searchable knowledge bases, bug triaging bots, workflow productivity applications and many more. We work on various web based technologies to build scalable and large data systems. As part of this group, your focus will be on the backend with petabytes of data, millions of queries per day, and have an opportunity to imagine and build services that further increase the productivities of the most creativity engineers in the world.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>5+ years experience of building scalable distributed systems.</li>
+<li>3+ years experience working with production data systems.</li>
+<li>Excellent programming and scripting skills.</li>
+<li>Sharp troubleshooting skills to identify and fix issues quickly.</li>
+<li>Strong Python skills in both data analytics and operational tasks.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">
+We collect millions of bugs and petabytes of logs into a unified platform which enable thousands of engineers to mine, understand the data, we work closely with various engineering teams to gather requirements and create generic workflows to benefit everyone, we collaborates with operational and other infrastructure teams ensure its high availability.
+
+We are seeking a small number of exceptional individuals to help get our platform ready to tackle the next order of magnitude. 
+</p>
+<h3>Education</h3>
+<p class="preline">Graduate degree required in Computer Science or related field.
+
+</p>
+<h3>Additional Requirements</h3>
+<p class="preline">This is a hands-on position, expect to write more code than documentation
+Good knowledge of Python workflow tooling - Airflow/Luigi/Celery/etc.
+Working experience with NLP, Machine Learning, Neural Network is a plus. </p>
+</div></body></html>

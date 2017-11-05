@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113188387">Senior GNSS Software Engineer (Location team)</h2>
+<ul class="sosumi">
+<li>Job Number: 113188387</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 30, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Senior engineer developing new GNSS measurement related algorithms and software on iOS and WatchOS.  Analyze and improve upon GNSS receiver performance at the measurement level, and work cross-functionally to improve the location experience for our customers.  
+
+Shape the next generation of location-aware mobile experiences by working on state-of-the-art technologies to seamlessly integrate people’s digital and physical lives.  If you're passionate about building technology that will make a difference, we may be the team for you.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong software development experiences and excellence in C++</li>
+<li>Significant experience and knowledge in software design paradigms and software development best practices</li>
+<li>Experience and knowledge in signal processing techniques for GNSS - code/carrier tracking, C/N0 estimation, acquisition and peak estimation</li>
+<li>Experience in the construction and use of GNSS observables - code phase, Doppler from code and carrier tracking, carrier phase tracking, navigation bit decoding</li>
+<li>Experience working with signals from GNSS constellations - GPS (L1/L5), Galileo (E1/E5), Glonass, Beidou</li>
+<li>Experience with the effects of mobile device oscillators on GNSS measurements</li>
+<li>Familiarity with satellite orbital models used in GNSS positioning</li>
+<li>Familiarity with PVT estimation techniques and their impact on measurement tracking and acquisition</li>
+<li>Familiarity with positioning assistance data available on connected mobile devices - extended ephemeris, position aiding, time aiding</li>
+<li>Knows how to debug complex systems</li>
+<li>A passion for building things, programming, and would do it anyway even if not for work</li>
+<li>iOS, OS X, application, and/or unix system development a plus</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Join a team which designs, implements, and powers brand new technologies and services on the world's fastest-growing mobile development platform.   We are looking for a highly motivated Software Engineer with a strong background in GNSS signal processing and passion for software development, algorithms, and new technologies.
+
+Invent and design systems to solve interesting problems in GNSS, WiFi/Cell based location services, indoor positioning, iBeacon, location based reminders, inertial sensor fusion, dead-reckoning, crowd-sourced analytics, and other location related technologies.
+</p>
+<h3>Education</h3>
+<p class="preline">Minimum requirements: 
+MS or PhD in relevant field and at least 8 years of equivalent experience.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Interested in creating new technologies and solving the algorithmic challenges that come with it.
+Desire to be exposed to all aspects of development; prototyping, planning, designing, productizing, launching, and scaling.
+Thrive in a collaborative environment and communicate effectively.
+Obsessively passionate and inquisitive, and seek to solve everyday problems in innovative ways.
+Laser-focused on the smallest details that are meaningful to our customers.</p>
+</div></body></html>

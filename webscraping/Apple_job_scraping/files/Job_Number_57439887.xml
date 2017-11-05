@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-57439887">Siri Metrics Platform Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 57439887</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 6, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">As an engineer on the Siri Metrics Platform team, you will design, develop and maintain a highly available and scalable system unifying a vast data set of metrics. This system will allow our engineering teams to perform quick exploration with the overarching goal of improving Siri quality.  
+
+You will build and implement back-end storage systems for these metrics as well as a front end platform for reporting and analysis. You will interface with our quality initiative leaders to ensure the platform is meeting the needs and iterate as well as innovate based on observations and requirements gathering. You will also build and maintain the data ingestion pipeline to keep the unified metrics flowing into this platform.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>5+ years of industry experience working with large-scale systems</li>
+<li>Engineering lead on at least three customer-facing features with year-long development cycles</li>
+<li>Expert knowledge of one or more object-oriented programming languages (Java, C++)</li>
+<li>Ability to leverage several scripting languages (Python, Ruby, Bash, etc.)</li>
+<li>Have developed the bring-up or expansion of large-scale backend storage systems</li>
+<li>Experience with Hadoop ecosystem (HBase, HDFS, Pig, Hive, MapReduce, Flume), Spark and Kafka Strong communication skills and experience working on cross-functional projects</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Siri Metrics Platform team is in a unique position to align our quality initiatives to a singular platform. This will allow all performance, reliability, accuracy, and usability metrics to utilize the same methodology for dashboard/reporting creation and curation. This platform will also empower our developers to do ad-hoc queries into their problem space in order to troubleshoot or validate the effectiveness of their code from a quality perspective. 
+ A successful candidate will have experience in data pipelines and data exploration as well as a strong ability to develop solutions in order to visualize and drill into data in near real-time. 
+ - Build, implement, and manage a large scale metrics platform leveraged by all Siri teams
+ - Create automated dashboard builder to allow end-user creation
+ - Develop and contribute back to open source projects supporting the platform
+ - Ensure the platform can handle all types of robust data exploration in real-time
+ - Partner with all Siri teams and build features to enhance data analysis
+</p>
+<h3>Education</h3>
+<p class="preline">B.S. degree in Computer Science or 3+ years of programming experience or equivalent.</p>
+</div></body></html>

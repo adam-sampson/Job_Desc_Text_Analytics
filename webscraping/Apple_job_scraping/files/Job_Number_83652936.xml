@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-83652936">Senior Systems Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 83652936</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jun. 22, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Come help us build the next generation cloud platform to support Internet services across Apple. Our Datacenter &amp; Infrastructure Runtime team evolves, designs and deploys and operates infrastructure which forms the foundation for some of our most exciting services, including Siri, iCloud, Maps, iTunes, and more.  The scale at which Apple operates requires the highest levels of automation and integration from the application through compute and the network, end to end.  The strongest candidates will have both solid Linux systems expertise and proven software development skills.  In this role you will have the unique opportunity to participate in delivering some of the world's largest-scale cloud services to the most-loved devices on Earth.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>5 or more years in systems engineering and operations.</li>
+<li>Extensive experience in configuration management and fleet orchestration via Puppet, Chef, Ansible, or others.</li>
+<li>Fundamental understanding of distributed systems including: the CAP Theorem, microservices, and the Twelve Factor App.</li>
+<li>Deep understanding of the Linux operating system, including kernel, memory, process, threads, cgroups, static / shared libraries, IPC, signals.</li>
+<li>Comfort with extremely large fleets, each composed of tens of thousands of containers.</li>
+<li>Demonstrated history in automating operations processes via services and tools.</li>
+<li>Fluency in one or more high-level programming languages like Python, Go, Ruby, or Rust.</li>
+<li>Mentor and lead-level troubleshooting skills and methods.</li>
+<li>Passion for learning new abilities in cross-functional environments.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Platform Infrastructure Engineering group designs, builds and operates the cloud infrastructure that hosts Apple’s consumer-facing applications.  We are looking for extremely capable systems engineers to join a team of highly experienced and effective individuals who are passionate and creative about delivering services.  Challenges of scale are solved through automation, attention to detail, and the strength of a fully-integrated data center, network, compute and application stack.  Your experience in understanding how applications operate across distributed resources in diverse geographies, willingness to personally support the platform, and create and tune the tools and monitoring will make you a successful candidate.  You will own projects for their full lifecycle. 
+
+Responsibilities will include:
+
+• Architect, author and deliver software to improve the availability, scalability and security of Apple's internal cloud infrastructure.
+• Build and manage systems, infrastructure and applications through automation.
+• Deploy, support and monitor new and existing services, platforms, and application stacks.
+• Use scale testing to measure, tune and optimize system performance.
+• Participate in periodic on-call duties.</p>
+<h3>Education</h3>
+<p class="preline">BS in computer science or equivalent experience.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">N/A</p>
+</div></body></html>

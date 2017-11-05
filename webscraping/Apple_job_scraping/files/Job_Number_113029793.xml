@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113029793"> Foundation Engineer - Cocoa Team</h2>
+<ul class="sosumi">
+<li>Job Number: 113029793</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 15, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Join the Cocoa team and help design the fundamental APIs for macOS, iOS, watchOS, and tvOS. Our team is responsible for key technologies including the AppKit, CoreData, and Foundation frameworks. We work on projects that focus on improving a broad range of developer and user experiences for all of Apple’s platforms.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong object oriented programming and design skills</li>
+<li>In-depth development experience with Objective-C or Swift</li>
+<li>Familiarity with Foundation and CoreFoundation libraries</li>
+<li>Excellent problem solving, critical thinking, and communication skills</li>
+<li>Familiarity with Linux</li>
+<li>Ability to work in a group</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Foundation team is looking for an engineer to help us design future Swift APIs. As a Foundation engineer, you will work closely with the rest of the Cocoa team, the Swift team, and the open source community to create API that makes it possible for developers to create great apps. You will guide this API through review processes, implementation, and testing. You will also help implement critical parts of the swift-corelibs-foundation project, along with coordinating and reviewing contributions from open source community.</p>
+<h3>Education</h3>
+<p class="preline">Bachelor’s Degree in Computer Science, Computer Engineering, or equivalent</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Experience developing cross-platform projects
+Development experience on Linux</p>
+</div></body></html>

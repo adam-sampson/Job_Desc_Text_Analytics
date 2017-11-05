@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113209875">Senior Software Engineer  </h2>
+<ul class="sosumi">
+<li>Job Number: 113209875</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Nov. 3, 2017</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple's Identity Management group is looking for a Senior software Engineer in provisioning space. We are seeking a skilled computer engineer who will design a solution that will be the provisioning backbone for the enterprise. Provisioning engine will support the deployment of rules for real-time evaluation allowing business units the ability to change access &amp; processes rapidly.  We desire a self-motivated individual who can thrive in an Agile environment, while interacting and communicating effectively with other team members. This position requires extensive experience implementing advanced Computer Science paradigms and sound analytical ability.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>BS in Computer Science or equivalent with 5+ years of relevant work experience</li>
+<li>4+ years experience with Data security and encryption techniques</li>
+<li>4+ years experience with Fault tolerant REST services </li>
+<li>Hands-on experience with Complex Event processing &amp; Rule engines</li>
+<li>Experience with Secure Data serialization and transport mechanisms  </li>
+<li>Experience with Data routing algorithms and techniques  </li>
+<li>Experience with Agile &amp; Test-driven Development</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Design and implement new functionality based on patterns of observed problems
+Develop state of the Art rules engine &amp; Complex Event processing engine 
+Develop effective messaging mechanism across distributed data centers
+Ensure that system exceeds the reliability, availability and scalability metrics
+Review design and implementation, while maintaining architectural consistency of the system
+Design high availability for provisioning service across multiple data centers
+</p>
+<h3>Education</h3>
+<p class="preline">Bachelor’s degree in Computer Science or Engineering  </p>
+<h3>Additional Requirements</h3>
+<p class="preline">*Desired but not required*
+Exposure with Identity Management, application Security and latest encryption technologies 
+Experience with NoSQL &amp; Search technologies 
+</p>
+</div></body></html>

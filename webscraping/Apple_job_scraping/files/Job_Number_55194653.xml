@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-55194653">HW Characterization Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 55194653</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jan. 31, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this role, you will perform lab characterization and validation of mixed-signal ICs and IPs, as well as developing board-level solutions for characterization and emulation platforms. You will work closely with the designers and cross-functional teams at the silicon and module levels. Responsibilities include: developing tests; obtaining test equipment; designing PCB schematics and layout and arranging for their fabrication; automating measurements; analyzing and reporting results; coordinating cross-functional test / debug activities; and maintaining the test lab.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>•5+ years of experience in test development, debug, and reporting for mixed-signal ICs and IPs.</li>
+<li>•Hands-on experience with lab equipment including digital multimeter, source meter, spectrum analyzer, signal generator, oscilloscope, power supply, logic analyzer, BERT, etc.</li>
+<li>•Hands-on experience in designing PCB schematics (Orcad) and layout (Allegro) for analog and mixed-signal applications including FPGA.</li>
+<li>•Hands-on experience with test automation and data analysis platforms.</li>
+<li>•Excellent coding / scripting skills (Python, Perl, Tcl, etc.).</li>
+<li>•Experience in test lab setup and maintenance, as well as rework.</li>
+<li>•Experience in testing of PLL, DLL, SERDES, memory interface, LDO, and voltage reference.</li>
+<li>•ADC / DAC testing experience is a plus.</li>
+<li>•Experience in SI / PI measurements is a plus.</li>
+<li>•Strong communication and interpersonal skills.</li>
+<li>•Leadership skills for driving cross-functional test plans and debug activities.</li>
+<li>•Analog circuit design experience is a plus.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">•Prepare silicon validation and characterization test plans in consultation with the design team.
+•Define requirements for test equipment and evaluation boards, design PCB schematics and layout, and arrange for their purchase or manufacture.
+•Set up and maintain test infrastructure.
+•Test, debug, and characterize mixed-signal ICs and IPs through a combination of FPGA, JTAG, and analog interfaces.
+•Perform and debug compliance tests of standard interfaces such as MIPI, DisplayPort, USB, etc.
+•Develop scripts to automate tests, extract results, and generate reports using database and analysis tools. Compare measured performance against design specifications.
+•Interface with the silicon design team, module and system HW / SW teams, Test Engineering, and Product Engineering.
+</p>
+<h3>Education</h3>
+<p class="preline">BSEE / MSEE required.</p>
+</div></body></html>

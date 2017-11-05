@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-53343302">SoC Embedded Software Engineer &amp; QA </h2>
+<ul class="sosumi">
+<li>Job Number: 53343302</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 3, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Responsible for designing and implementing embedded software for SoC test cases, and for verifying the quality of such implementations.  The successful candidate will also be responsible for helping to enhance and maintain the automated regression system that ensures consistently high quality software is delivered.  This candidate will work closely with the rest of the software engineering team to ensure the quality of all software deliverables.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Embedded software design experience.</li>
+<li>Strong embedded C programming skills.</li>
+<li>Proficient in scripting with Perl, Python, Bash, YAML, JSON</li>
+<li>Experience working with UNIX/Linux/OS X environments.</li>
+<li>Strong software design ability, data structures, and algorithms.</li>
+<li>Knowledge of RTOS embedded kernels, hardware BSP and embedded applications</li>
+<li>Experience writing firmware for device hardware.</li>
+<li>Experience using laboratory equipment (e.g., logic analyzer, digital oscilloscope)</li>
+<li>Experience reading and working from hardware schematics </li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">• Design and implementation of firmware for SoC validation and test.
+• Generating post-silicon directed diagnostic and stress test cases and debugging failure cases using multiple HW and low-level SW platforms.
+• Leveraging and porting of design verification and silicon validation tests to enable improved test coverage of IP in silicon test.
+• Support of test environment for device characterization, failure analysis, and mass production.
+• Maintain and enhance the automated regression-testing environment, develop new automation tools and manage/enhance our QA automation lab.
+• Triage test failures, including those found by our own regressing system and also those found outside of our team
+</p>
+<h3>Education</h3>
+<p class="preline">BS/MS in Computer Science or demonstrated equivalent experience.</p>
+</div></body></html>

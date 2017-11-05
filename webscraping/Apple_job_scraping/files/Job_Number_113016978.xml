@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113016978">Analog Mixed-Signal Design &amp; Modeling Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113016978</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 10, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple Silicon Engineering is seeking creative engineers to design the next generation of analog &amp; mixed-signal (AMS) circuits for Apple’s world-leading systems-on-chip (SOCs). Apple’s Ax SOCs are the brain of every iPhone and iPad.  Our AMS circuits connect them to the physical world.  Examples include SERDES for data communication, PLLs for clock generation, and sensors for measuring all sorts of physical quantities.  </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The following qualifications are required</li>
+<li>Proficiency writing software in Python </li>
+<li>Experience writing software in C / C++ </li>
+<li>Understand design specs and requirements for AMS circuits, including SERDES, PLLs, data converters, and/or sensor circuits </li>
+<li>AMS circuit modeling in MATLAB, Simulink, SystemVerilog, and/or VerilogA(MS) </li>
+<li>Object-oriented software design </li>
+<li>Simulation tools for analog, digital, and mixed-signal circuits </li>
+<li>The following qualifications are desired</li>
+<li>Logic design in Verilog, VHDL, or other HDL(s) </li>
+<li>Analog circuit design fundamentals </li>
+<li>System modeling in SystemC, SpecC, etc. </li>
+<li>Architectural design of SERDES, PLL, and/or sensor circuits </li>
+<li>Design of software for parallel and/or distributed execution </li>
+<li>Familiarity with modern software development practices </li>
+<li>Familiarity with SOC analyses and build processes: static timing, EM/ IR drop, formal verification, CDC, etc. </li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">AMS Design &amp; Modeling Engineers have two core responsibilities: 
+
+Design software to model the behavior and performance of AMS circuits
+Use this software to design better circuits - from architecture through design and verification</p>
+<h3>Education</h3>
+<p class="preline">BS, EE/ CE (or related fields), plus 2 years relevant experience, or
+MS/ PhD, EE/ CE (or related fields)</p>
+</div></body></html>

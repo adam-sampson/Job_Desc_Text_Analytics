@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-57156367">Early Silicon Bring-Up Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 57156367</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Apr. 25, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Mac Platform Team within Apple’s CoreOS organization is seeking a talented software engineer to help with pre-silicon simulation, early silicon support and development of the boot firmware and software for future generations of Macs. Weʼre looking for detail oriented engineers with exceptional problem solving skills and a passion for quality who want to define and build future Mac systems.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong software development methodology</li>
+<li>Extensive knowledge of hardware platforms, Intel processor architectures and Computer architecture</li>
+<li>Hands-on bring-up experience with Intel CPUs, memory controllers, IO Hubs</li>
+<li>Expertise in x86 Assembly, C and/or C++ programming.</li>
+<li>Good understanding of industry standards, including: PCIe, JEDEC DDR, ACPI</li>
+<li>Previous experience with platform bring-up or porting of operating systems</li>
+<li>Previous experience with kernel and device driver development and debugging</li>
+<li>Previous exposure to hardware and processor simulation / emulation environments.</li>
+<li>Previous experience in developing UEFI firmware (EDK/EDKII)</li>
+<li>Understanding of on-chip debug and trace facilities. Exposure to hardware logic analyzers, oscilloscopes is a plus.</li>
+<li>Demonstrated creative, critical thinking and troubleshooting skills</li>
+<li>Highly professional, with the ability to deliver solid work on tight schedules</li>
+<li>Excellent collaborative skills especially with silicon design, validation and board design engineers.</li>
+<li>Outstanding written and verbal communication</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will play a central role in building the support for early Mac system development during the pre-silicon and early silicon phases, including involvement in specification review for hardware platforms, work in system simulation and emulation technologies, boot firmware, low level device drivers, and new system bring up. Work closely with internal and external teams to enable firmware development long before first hardware availability. Design and implement software and firmware, and perform system level debug of hardware, silicon, and software. The successful candidate should be comfortable working on a large spectrum of issues ranging from hardware/silicon issues to overall system operation, performance and power management. In this role, you will be working closely with Intel silicon design, bring-up and validation teams and be responsible for all software and Boot firmware related issues during the planning, development, and validation stages of the program.</p>
+<h3>Education</h3>
+<p class="preline">BS or MS in Computer Engineering or Computer Science or equivalent experience/skills</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Workstation/Server class server chipset bring-up experience is highly preferred.  Knowledge of high speed interfaces (e.g., PCIe, memory) Knowledge of Intel CPU/PCH and device power management Experience with ITP and scripting language is highly preferred.  Experience with common embedded SOC architectures (ARM) would be an added advantage. Ability to understand board schematics OS kernel/userland experience (including threading and memory management) A working knowledge of various scripting languages: Perl*,Python*, Bash Shell* and Make is a plus. </p>
+</div></body></html>

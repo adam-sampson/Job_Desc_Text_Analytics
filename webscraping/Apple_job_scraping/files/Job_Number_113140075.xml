@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113140075">Siri Open Source Technologies Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113140075</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 23, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Siri Open Source Technologies team is focused on the progression of several open source technologies used within Siri.  These technologies are instrumental to the success of the Siri platform.  You will be exposed to projects such as HBase, HDFS, Kafka, Spark, and ZooKeeper at a scale that will test the limits and expose flaws only seen at Apple’s scale.  You will commit/contribute to these projects and build a continuous integration pipeline to test, validate, maintain, and patch issues in order to commit back upstream.  This will allow Siri to continue to live on the bleeding edge of these technologies and further the performance for our customers.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>3+ years experience as a contributor or committer</li>
+<li>Industry experience in similar roles at large scale companies</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Strong understanding of continuous integration and the infrastructure to support it</li>
+<li>Experience in system design/architecture and implementation</li>
+<li>Expert programming skills with committer rights on one or more Apache project(s)</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Siri Open Source Technologies team is in a unique position to help push how Siri leverages open source.  These contributions will also help other teams within Apple who utilize similar technology stacks.  The work executed by this team will be used in production supporting millions of customers in real-time.  The team will also be strengthening Siri’s data analytics platform for machine learning and ad-hoc analytics by fixing critical problems in projects such as Kafka and HDFS.
+
+A successful candidate will have experience with the Apache Hadoop stack and the development environment necessary to support it.
+
+- Create and manage internal repositories for all open source projects used in Siri 
+- Build out supporting infrastructure to handle continuous integration
+- Implement testing frameworks for pre-Siri adoption
+- Define workflow for upgrading versions without service interruption
+- Develop new tooling for interacting and maintaining open source projects
+- Contribute/commit critical fixes to open source projects both external and internal to Apple
+</p>
+<h3>Education</h3>
+<p class="preline">B.S. degree in Computer Science and 3+ years of programming experience or equivalent.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">(Nice to have items)
+
+Knowledge of core Linux fundamentals
+Scripting skills (Python, Bash, Ruby, etc.)
+Experience with compute containerization (i.e. - Mesos, Docker, schedulers)</p>
+</div></body></html>

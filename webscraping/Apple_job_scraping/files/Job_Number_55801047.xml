@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-55801047">Calendar and Reminders Frameworks Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 55801047</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Apr. 6, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Calendar and Reminders Frameworks team is focused on the efficient persistence, synchronization, migration, and transmission of calendar and reminders data.  Designing reliable, well-tested software architectures while supporting public API is very important for this role.  While we are focused on the lower levels of the application software stack, opportunities to work on UI are also available.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong object-oriented programming and design skills</li>
+<li>In-depth development experience at the application and user interface level with at least one of the following: iOS, macOS, watchOS, tvOS, Android, or Windows</li>
+<li>Performance analysis and tuning experience for memory, CPU, threading, and I/O utilization</li>
+<li>Excellent problem solving, critical thinking, and communication skills</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">This position involves working on the Reminders and Calendar applications and frameworks.   We are looking for a talented software engineer who is excited by the prospect of working on software for millions of users.  Our software engineers are creative, inspired, innovative, energetic, self motivated people who love making and shipping products.
+
+The ideal candidate will be a generalist who is comfortable doing a variety of tasks that could range from working on frameworks and libraries that support our applications as well as contributing to our user interfaces.  Diving into lower levels shouldn't scare you.  Demonstrable experience working on user interfaces of consumer-oriented applications is desired.  Experience developing concise, consistent, and developer-friendly APIs is also strongly desired.  
+
+You are expected to be equipped with excellent skills in object-oriented software design and programming and to have real-world experience creating applications for consumers.  You will be responsible for developing new features, maintaining existing code, fixing bugs, and contributing to overall design. 
+
+Performance analysis and tuning will also be a significant responsibility in your job.  Given the limited resources of mobile devices, we need to squeeze every last bit of performance we can get.  Experience developing software that performs well, uses as few resources as possible while still being responsive to users is expected.  You should be able to step back and look at a problem in a different light to identify an approach that improves performance.
+</p>
+<h3>Education</h3>
+<p class="preline">BS Degree in CS, EE, or equivalent.
+
+</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Knowledge of Objective-C 
+Knowledge of Apple’s development APIs (Cocoa Touch, Cocoa, UIKit, CoreFoundation, CoreGraphics, etc)
+Experience developing well-documented, reliable, efficient APIs
+Experience with concurrent programming
+Experience shipping consumer-oriented products
+Passion for writing elegant software that is easy and fun to use
+</p>
+</div></body></html>

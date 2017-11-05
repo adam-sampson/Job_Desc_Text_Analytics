@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-56184179">Mac Platform Test Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 56184179</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 27, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Mac Platform Software team is looking for a test engineer to join an innovative team responsible for ensuring the quality of key firmware and software technologies for the Mac product line. Mac Platform Software is responsible for bringing up macOS and Windows on all new Mac products, including the development and integration of firmware and systems software for macOS and Windows, the development of platform-level features for the Mac, and the leadership of cross-functional debug and optimization efforts across hardware and software teams.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>A passion for quality in consumer products</li>
+<li>Experience with the development and deployment of automated and white-box testing</li>
+<li>Experience with firmware, device driver, or kernel level test development</li>
+<li>Strong C/C++ and Python programming skills</li>
+<li>Hands-on approach and willingness to take on new challenges</li>
+<li>Desire to work in a highly collaborative team</li>
+<li>Strong written and verbal communication skills</li>
+<li>Bachelor’s degree in CS, CE, EE or equivalent industry experience required</li>
+<li>Understanding of the x86 platform and standards, including ACPI, SMM, PnP, PCIe, JEDEC DDR a plus</li>
+<li>Familiarity with both UNIX and Windows software development a plus</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The Windows Test Engineer is responsible for testing and ensuring the quality of Boot Camp software with shipping and pre-release versions of Microsoft Windows. Primary job responsibilities include:
+
+Setting up HLK-based test automation to to qualify Mac hardware and Boot Camp software
+Creating test plans with development engineers for specific features and Mac hardware programs
+Developing test frameworks and harnesses to enable comprehensive component-level test coverage
+Developing and executing automated and manual tests to fulfill tests plans
+Coordinating with cross-functional test engineering and QA teams to ensure adequate test coverage of complex features
+Identifying and vocalizing risks areas during product and technology development</p>
+<h3>Education</h3>
+<p class="preline">Bachelor's or Masters degree in computer science or related field</p>
+</div></body></html>

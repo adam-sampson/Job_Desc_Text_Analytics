@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-85995885">Silicon Validation Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 85995885</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jun. 30, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">As part of Silicon Validation Team, you will focus on silicon validation, debug and root cause related to anomalous behaviors using system work-loads.  (circuit marginalities, process-design interactions, logic bugs) </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Required:</li>
+<li>Exposures to post-Silicon validation, silicon bringup, testing/debug/root cause of circuit marginalities, product engineering, foundry manufacturing, etc. </li>
+<li>Understanding test execution through both functional mode and DFX hooks. </li>
+<li>Comfortable working primarily in a lab environment</li>
+<li>Strong scripting skills in one of the major languages: eg. Perl, python, Tcl, bash</li>
+<li>Good experimental technique, techniques of problem localization and root-cause</li>
+<li>System level understanding of CPU/SoC architecture, Memories (DDR, NAND), Systems</li>
+<li>Good data analysis skills and attention to details</li>
+<li>Nice-to-haves (in at least one and preferably several):</li>
+<li>Chip design background in circuit/physical design (timing closure, power, etc.) or DV (correlating SW signatures to block level tests). </li>
+<li>Post silicon physical debug background in speed-path/Vmin, memory arrays, clocking or yield improvements. </li>
+<li>Post silicon logic debug background in exercising various DFX features, analyzing scandump/memdump, suggesting tests in both system level or to DV</li>
+<li>Good understanding of boot process, boot-loaders, embedded software, micro-kernel and able to tweak system tests.  </li>
+<li>Product engineering background and familiarity with ATE coverage, margin, binning, scan pattern generation, etc.</li>
+<li>Good IP knowledge in some PHY blocks (eg. DDR, PCIe, USB, etc)</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">In this role, you will own and execute on the post silicon validation and characterization test plans across Process, Voltage and Temperature (PVT), debug various issues encountered along the way (setup artifacts, test code, logic bugs, physical design debugs, etc. Tasks will include:
+
+Understanding new chip features and define coverage applicable to our test environment
+Executing a validation test on large volume and analyze results (pass/failure/artifacts/surprises/etc.)
+Be the first line of defense when failure occurs to isolate (setup, code, artifacts, silicon issues, logic/physical, identify blocks, etc.). 
+Once isolated, working with domain experts to define debugs and come up with a root cause. Assisting in driving a fix.  
+Maintain and create automation scripts/flows for self consumption as well as others. 
+Able to summarize debugs/findings and think along the line of improvements in both DFX features and test coverage. </p>
+<h3>Education</h3>
+<p class="preline">BS/MS/PhD in EE or Computer Engineering</p>
+</div></body></html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-53827631">Systems Software Engineer, Distributed Systems</h2>
+<ul class="sosumi">
+<li>Job Number: 53827631</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Nov. 30, 2016</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Systems Software Engineer within the Platform Architecture distributed systems team will be responsible for designing and implementing software for a variety of scalable, reliable, and secure distributed computing systems for Apple’s internal engineering teams.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong systems programming skills</li>
+<li>Strong understanding of concurrency, parallelism, and distributed systems</li>
+<li>Deep knowledge of concurrency control, data structures, algorithms, distributed system architectures, and networking</li>
+<li>Experience with measuring, analyzing, and optimizing performance</li>
+<li>Comfortable with all aspects of software development from architecture to deployment and maintenance</li>
+<li>Experience running a large-scale production system</li>
+<li>Experience with virtualization, containerization, and system image management (Docker, KVM, LXC)</li>
+<li>Familiarity with distributed storage systems (HDFS, Amazon S3)</li>
+<li>Fluency in C/C++, Go (golang), Python, shell scripting</li>
+<li>Experience with Raft, SaltStack, Zookeeper</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Design, implement, and debug core components of internal distributed computing services
+Research and implement key technologies, architectures, and standards
+Work with other engineering teams to ensure that services meet scalability, availability, security, and performance goals
+</p>
+<h3>Education</h3>
+<p class="preline">BS degree in Computer Science or equivalent, MS or Ph.D. preferred.
+</p>
+</div></body></html>

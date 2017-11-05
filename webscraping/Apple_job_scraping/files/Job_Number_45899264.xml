@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-45899264">Monitoring and Metrics Engineer, Compute and Storage Group</h2>
+<ul class="sosumi">
+<li>Job Number: 45899264</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Aug. 25, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this highly visible role, you will have the responsibility of ensuring that Apple's world class Silicon Engineering Group will have the infrastructure and tools needed to engineer and design the worlds most advanced silicon devices and products. You will utilize your deep understanding of developing and maintaining monitoring, alerting, and metrics gathering/analysis systems for compute clusters, storage systems, networks, web infrastructure &amp; applications, database servers, and directory services. You will utilize your extensive communication skills to interface with internal teams, enabling Apple's world-class product development.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Typically requires at least 5+ years of experience in a large compute environment. Finance, Oil &amp; Gas, Scientific Research, or R&amp;D environments preferred.</li>
+<li>You will have demonstrated skills in the following areas:</li>
+<li>•Experience monitoring a large scale distributed computing environment</li>
+<li>•Ability to correlate event data between network, storage, and systems</li>
+<li>•Experience with Nagios/Ganglia or similar technologies like Zenoss, Groundwork, Solarwinds</li>
+<li>•Experience deploying networking monitoring tools for bandwidth, sflow, latency, and snmp alerts a plus</li>
+<li>•Experience automating the installation and configuration of monitoring systems / agents</li>
+<li>•Ability to scale monitoring solutions geographically</li>
+<li>•Experience with aggregation and visualization solutions such as Elasticsearch+Logstash+Kibana or Splunk</li>
+<li>•Proficient in Ruby, Python, Perl or other common high level scripting language</li>
+<li>•Experience using configuration management tools like Puppet, Chef, or CFengine</li>
+<li>•Familiarity with stream processing systems like Kafka, Spark, or Storm for large-scale data analytics</li>
+<li>•Familiarity with continuous integration / deployment systems such as Jenkins or Travis</li>
+<li>•Linux system administration experience (RHEL/CentOS preferred)</li>
+<li>•Understanding of NFS and NAS appliances (NetApp preferred)</li>
+<li>•Understanding of Layer 2 / Layer 3 networking (Arista or Cisco preferred)</li>
+<li>•Understanding of revision control systems (SVN, git, Perforce)</li>
+<li>•Understanding of LDAP (OpenLDAP, DSEE, OpenDirectory)</li>
+<li>Must be analytical and possess strong organizational / problem-solving skills.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will be responsible for supporting an internal CSE, SRE, and Architecture teams by deploying, enhancing, maintaining, and tuning monitoring, alerting, and metrics gathering / analysis tools. Your role will directly impact the development, enhancement and maintenance of compute clusters, storage systems, network interconnects, LAMP stacks, and directory services. </p>
+<h3>Education</h3>
+<p class="preline">MS/BS Degree or equivalent.</p>
+</div></body></html>

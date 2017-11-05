@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112934644">Sr. Hadoop DevOps Engineer </h2>
+<ul class="sosumi">
+<li>Job Number: 112934644</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Aug. 30, 2017</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">At Apple, we work every day to create products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work.
+
+Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy.
+
+We are looking to hire outstanding individuals to join our team of Site Reliability Engineers. Candidates should be able to troubleshoot various type of Network, System and Application related issues. Our team provides infrastructure and support by building and maintaining Hadoop clusters and application stack. We work in a high intensity environment with our end users and have very aggressive project delivery timelines. Great communication skills with Project Managers and engineers is an absolute must.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Sound knowledge of UNIX and TCP/IP network fundamentals</li>
+<li>Expertise with Hadoop and its ecosystem Hive, Pig, Spark, HDFS, HBase, Oozie, Sqoop, Flume, Zookeeper etc.</li>
+<li>5+ years managing clustered services, distributed systems, production data stores</li>
+<li>3+ years experience administering and operating Hadoop clusters</li>
+<li>Cloudera CHD4 /CDH5 cluster management and capacity planning experience</li>
+<li>Ability to code well in at least one language (Shell, Ruby, Python, Java, Perl, Go)</li>
+<li>Ability to rapidly learn new software languages, frameworks and APIs quickly</li>
+<li>Sharp and tenacious troubleshooting skills</li>
+<li>Experience scripting for automation and config management (Chef, Puppet)</li>
+<li>Multi-datacenter deployment experience a plus</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">•    Design and implement scalable data platforms for our customer facing services
+•    Deploy and scale Hadoop infrastructure
+•    Hadoop / HDFS maintenance and operations
+•    Data cluster monitoring and troubleshooting
+•    Hadoop capacity planning
+•    OS integration and application installation
+•    Create runbooks for Offshore teams
+•    Partner with program management, network engineering, site reliability operations, and other related groups
+•    Willingness to participate in a 24x7 on-call rotation for escalations</p>
+<h3>Education</h3>
+<p class="preline">Bachelor's degree in Computer Science or equivalent is required. 
+
+Master's degree preferred.</p>
+</div></body></html>

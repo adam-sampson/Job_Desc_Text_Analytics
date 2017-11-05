@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-48490826">CAD Engineer - HW/SW Interface</h2>
+<ul class="sosumi">
+<li>Job Number: 48490826</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Aug. 25, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this highly visible and cross-functional role as a member of our CAD team, you will be responsible for developing best in class methodologies and flows for Apple silicon for mobile products.
+
+You will interface with multiple Hardware and Software design teams to define and implement methodologies to enable tighter hardware/software design coupling.  These would include but not limited to: standardized hardware register specification, utilities for generating derived file views and automation for the chip specification process.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Architect, develop, maintain and enhance in-house configuration register management software</li>
+<li>Interface with multiple software, CAD, program management, hardware design and verification teams to gather specifications for enhancements and drive them to completion</li>
+<li>Maintain and develop automated release and regression system</li>
+<li>Develop utilities to unify register file generation and corresponding views (RTL, C, HTML, PDF, XML, etc.)</li>
+<li>Evaluate commercial and open-source tools for best-in-class HW/SW interface methodology</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline"> 
+•Solid programming experience with C/C++, Java and Perl/Python with emphasis on efficient data structures, software quality and robustness
+
+•Excellent communications skills, ability to bridge the hardware/software gap and work cross-functionally
+
+•Hands-on experience with revision control systems (e.g. Git, SubVersion, Perforce, CVS) and data management.  Emphasis on highly robust code, unit and system-level testing, regression and release methodology
+
+•Good understanding of chip design methodology and computer architecture.  Hands-on experience with RTL design (Verilog, VHDL) and design verification (SystemVerilog, SystemC, testbench generation and simulations) is a plus
+
+•Familiarity with one of the following is a big plus: IP-XACT, SystemRDL, UVM, VMM RAL
+
+•Typically requires 5+ experience in HW/SW interface domain
+</p>
+<h3>Education</h3>
+<p class="preline">MS or BS Degree in technical discipline. MS is preferred</p>
+</div></body></html>
