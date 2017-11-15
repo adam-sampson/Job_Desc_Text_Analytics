@@ -2,6 +2,10 @@
 Tools for retrieving and analyzing job postings by key-words
 
 Project by Bellarmine University MSA team for a semester project.
+* Adam Sampson
+* Jack Letcher
+* Taylor Maxson
+* Nathan Thomas
 
 # Goals
 This project is intended to programatically analyze series of online job postings to:
