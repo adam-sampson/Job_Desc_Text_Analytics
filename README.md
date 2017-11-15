@@ -46,44 +46,40 @@ At least 2 modeling techniques you’ll need to evaluate model performance to de
 ## Deliverables Project Proposal
 A Project Proposal (Due Date:  Monday October 23rd ) 
 
-*A clear description of the problem you are trying to solve, 
-
-*The data set you’ll use and how you’ll obtain it (such as APIs)
-
-*A high level description of the analytic approach you’ll use to solve the problem. 
-
-*Your intentions on how you’ll break up the work to complete the project
-
-*Your biggest concerns about completing the project
+* A clear description of the problem you are trying to solve, 
+* The data set you’ll use and how you’ll obtain it (such as APIs)
+* A high level description of the analytic approach you’ll use to solve the problem. 
+* Your intentions on how you’ll break up the work to complete the project
+* Your biggest concerns about completing the project
 
 ## Deliverables Final
 R & SQL code workflow (Ongoing due date – your code needs to be submitted in git as you develop your process):  
 
-*APIs and loading and/or extracting data out of the database. 
-*data preprocessing steps 
-*modeling code and evaluation of model output
-*any code that generates visualizations that you use (in R, not Tableau)
+* APIs and loading and/or extracting data out of the database. 
+* data preprocessing steps 
+* modeling code and evaluation of model output
+* any code that generates visualizations that you use (in R, not Tableau)
 
 In addition, a readme styled guide that provides a high level workflow of your R code process to make it easier to understand the technical details of your approach and necessary libraries for running your code.
 
 Some additional notes on your R & SQL code:
 
-*Your code needs to be checked into git as you develop it.  I’ll know if you are making progress on project based on the code check-ins you make on git.
-*Checking in code is good professional experience because you’ll need to do it in your future analytics career, and it’s a great way to roll back changes you make as you develop your process.
-*Your code will not only be evaluated based on how well it works but also how easy it is for others to follow what you are doing in your coding steps.
-*You are able to make any changes you need to make to make sure your processes are working up until the day of your presentation.
+* Your code needs to be checked into git as you develop it.  I’ll know if you are making progress on project based on the code check-ins you make on git.
+* Checking in code is good professional experience because you’ll need to do it in your future analytics career, and it’s a great way to roll back changes you make as you develop your process.
+* Your code will not only be evaluated based on how well it works but also how easy it is for others to follow what you are doing in your coding steps.
+* You are able to make any changes you need to make to make sure your processes are working up until the day of your presentation.
 
 Technical Write Up (Due: December 5th, a week before presentation):
 
-*This should be a technical focused write up that answers the technical questions about your approach.
-*Focus less on giving the reasons why you chose your project and more on the details about what you did in your modeling approach.  
+* This should be a technical focused write up that answers the technical questions about your approach.
+* Focus less on giving the reasons why you chose your project and more on the details about what you did in your modeling approach.  
 -- Include examples of things you tried that did not work
-*Include the relevant model metrics and analytically support any conclusions that you have made based on the data in your project
+* Include the relevant model metrics and analytically support any conclusions that you have made based on the data in your project
 
 Presentation (Due: December 12th):
 
-*A large portion of your grade for the project will be presentation
-*Be sure to explain why you chose your specific problem
-*Focus equally on the business value of project with the quality of your technical approach
-*Practice your presentation before you give it, and keep the presentation to the allotted amount of time
+* A large portion of your grade for the project will be presentation
+* Be sure to explain why you chose your specific problem
+* Focus equally on the business value of project with the quality of your technical approach
+* Practice your presentation before you give it, and keep the presentation to the allotted amount of time
 
