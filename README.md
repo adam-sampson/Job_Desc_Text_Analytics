@@ -47,9 +47,13 @@ At least 2 modeling techniques you’ll need to evaluate model performance to de
 A Project Proposal (Due Date:  Monday October 23rd ) 
 
 *A clear description of the problem you are trying to solve, 
+
 *The data set you’ll use and how you’ll obtain it (such as APIs)
+
 *A high level description of the analytic approach you’ll use to solve the problem. 
+
 *Your intentions on how you’ll break up the work to complete the project
+
 *Your biggest concerns about completing the project
 
 ## Deliverables Final
