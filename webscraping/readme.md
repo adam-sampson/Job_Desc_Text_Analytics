@@ -12,6 +12,8 @@ Install Docker Toolbox
 
 Reboot the computer
 
+Go to the windows firewall on your computer, and add docker.exe and docker-machine.exe to programs allowed to access your private and public network traffic
+
 Open Docker Quickstart Terminal
 
 Note the IP address given when you start the Quickstart Terminal (for the future) usually 192.168.99.100
