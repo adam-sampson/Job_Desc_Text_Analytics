@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+						<!-- /4140/Dice/job_tools -->
+						<div data-google-query-id="CJ650u-B7dcCFdRqwQodrG4OaQ" id="div-gpt-ad-1478559205531-0" class="hidden-xs hidden-sm" style="height: 90px; width: 728px; margin-bottom: 10px;">
+							<script type="text/javascript">
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478559205531-0'); });
+							</script><div style="border: 0pt none;" id="google_ads_iframe_/4140/Dice/job_tools_0__container__"><iframe srcdoc="" style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0" scrolling="no" name="google_ads_iframe_/4140/Dice/job_tools_0" title="3rd party ad content" id="google_ads_iframe_/4140/Dice/job_tools_0" frameborder="0" height="90" width="728"></iframe></div>
+						</div>
+<!--                         <div id='div-gpt-ad-136689231299775354-1'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-136689231299775354-1'); });
+                            </script>
+                        </div> -->
+                        <!-- End AdSlot 1 -->
+
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Houston, TX" id="estJLoc" type="hidden"><input value="SAP, ECC, architect" id="estSkillText" type="hidden"><input value="SAP Data Services Architect" id="estJTitle" type="hidden"><input value="Contract Corp-To-Corp, Contract Independent, Contract W2" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				SAP, ECC, architect
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Contract Corp-To-Corp, Contract Independent, Contract W2, 3+ months</span>
+					<meta itemprop="employmentType" content="contract ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Negotiable</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">My client in Houston, TX is looking for a SAP Data Services Architect.  The ideal candidate will have experience extracting and loading Finance and Supply Chain tables into SAP ECC 6.0.  Data will be pulled to load into forecasting.  The candidates must be experienced in creating difficult joins and data extraction/loading.  Must have ECC 6.0 experience.</span></p>
+<p style="font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">If you are interested in this 3+ month contract in Houston, TX, please submit your resume.</span></p>
+<p style="font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">Thank you,<br> Joanne </span></p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">Joanne Piscopo</h4>
+			
+			<p id="contact-location">
+				
+					45 Eisenhower Drive Suite 245
+				
+				
+					
+						Paramus, NJ, 07652
+					
+					
+					
+				
+			</p>
+			
+				
+				
+					<a data-original-title="Phone: 2017199211" id="contactTT" class="dice-btn-link" data-toggle="tooltip" data-placement="top" title="">Contact</a>
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

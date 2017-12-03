@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Houston, TX" id="estJLoc" type="hidden"><input value="ECC 6.0" id="estSkillText" type="hidden"><input value="SAP Data Services Architect" id="estJTitle" type="hidden"><input value="Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				ECC 6.0
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2, 4 - 6 Months</span>
+					<meta itemprop="employmentType" content="contract ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">All Inclusive</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><strong>We are currently recruiting for "<strong>SAP Data Services Architect"</strong></strong><strong> Opportunity. Please apply ASAP by sending your resume to us by clicking on the "Apply Now" button on this page or write to us with your updated resume and 2 VERIFIABLE Client Managerial References.</strong></p>
+<p><strong>Role:                SAP Data Services Architect </strong></p>
+<p><strong>Start Date:        <a href="x-apple-data-detectors://0">12/11/2017</a> </strong></p>
+<p><strong>Duration:          4-6 months</strong></p>
+<p><strong> Location:          Houston, TX</strong></p>
+<p><strong>Description:</strong> SAP Data Services Architect - Need consultant/architect to extract and load Finance and Supply Chain tables into SAP ECC 6.0. Data will be pullled to load into forecasting. Need consultant experienced in creating difficult joins and data extraction/loading. Must have ECC 6.0.</p>
+<p><strong>Thank you</strong></p>
+<p><strong>Recruiting Team</strong></p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

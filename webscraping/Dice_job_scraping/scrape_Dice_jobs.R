@@ -13,30 +13,32 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
 
 
 # Connect to running Docker server
-  remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L,nativeEvents = FALSE,javascript = FALSE)
+  remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
   
   remDr$open()
+  
+  remDr$navigate("www.google.com")
 
 ## Search job by keyword
-  searchTerm <- "data"
-  searchPage <- 1
+  # searchTerm <- "data"
+  # searchPage <- 1
   # searchURL <- paste0("https://www.dice.com/jobs?q=",searchTerm,"&l=")
-  searchURL <- paste0("https://www.dice.com/jobs/q-data-startPage-",searchPage,"-jobs?q=",searchTerm)
+  # searchURL <- paste0("https://www.dice.com/jobs/q-data-startPage-",searchPage,"-jobs?q=",searchTerm)
   
-  remDr$navigate(searchURL)
-  randDelay(min=2,max=3)
-  remDr$screenshot(display = TRUE)
+  # remDr$navigate(searchURL)
+  # randDelay(min=2,max=3)
+  # remDr$screenshot(display = TRUE)
 
 # Find links by xpath
 # //*[@id="position0"]
   # jobListElems <- remDr$findElements('xpath',"//*[@id=\"position0\"]")
-  jobListElems <- remDr$findElements('xpath',"//a[contains(@id,\"position\")]")
+  # jobListElems <- remDr$findElements('xpath',"//a[contains(@id,\"position\")]")
   
   # Elements 1 to length/2 have the links for the job which can be accessed using
   # as.character(jobListElems[[1]]$getElementAttribute("href"))
   # remDr$navigate(as.character(jobListElems[[1]]$getElementAttribute("href")))
   
-  jobListElemsTrimmed <- jobListElems[1:(length(jobListElems)/2)]
+  # jobListElemsTrimmed <- jobListElems[1:(length(jobListElems)/2)]
 
 # Create a function to convert object to list of urls. Elements are not usable after leaving current page
   elemToUrlList <- function(elemList) {
@@ -47,7 +49,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
     return(outList)
   }
 
-  jobUrlList <- elemToUrlList(jobListElemsTrimmed)
+  # jobUrlList <- elemToUrlList(jobListElemsTrimmed)
     
 
   
@@ -55,7 +57,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   getDiceIdPostingID <- function() {
     temp <- remDr$findElement('xpath',"//div[@class=\"company-header-info\"]")
     temp <- temp$getElementText()
-    temp2 <- str_extract_all(temp,"(:\\s\\w+)+")
+    temp2 <- str_extract_all(temp,"(:\\s[\\w-]+)+")
     temp2 <- paste0(temp2[[1]][1],temp2[[1]][2])
     temp2 <- str_replace_all(temp2,":\\s"," ")          
     temp2 <- trimws(temp2)
@@ -65,11 +67,20 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   
   scrapeJobPosting <- function() {
     jobID <- getDiceIdPostingID()
+    print(paste("CompanyDiceID_CompanyJobID:",jobID))
     
     # The part of the page with the actual job info is at xpath: 
     # //*[@id="bd"]/div[2]/div[1]/div[5]/div
     # //div[@class="col-md-9"]/div[@class="row"]
-    jobText <- remDr$findElement('xpath',"//div[@class=\"col-md-9\"]")
+    try(jobText <- remDr$findElement('xpath',"//div[@class=\"col-md-8\"]"))
+    if(exists("jobText",inherits = FALSE) == FALSE) {
+      try(jobText <- remDr$findElement('xpath',"//div[@class=\"col-md-9\"]"))
+    }
+    if(exists("jobText",inherits = FALSE) == FALSE) {
+      # If neither of those work...quit gracefully and return to next item in list
+      print("Error finding job category. Not in col-md-8 or col-md-9")
+      return(NULL)
+    }
     
     jobDescRaw <- jobText$getElementAttribute("innerHTML")
     jobDescText <- htmlParse(jobDescRaw, asText = TRUE, encoding="UTF-8")
@@ -77,6 +88,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
     write(paste0("Writting job desc: ",jobID),file="log.txt",append = TRUE)
     saveXML(jobDescText,
             file = paste0(jobID,".xml"))
+    return(NULL)
   }
   
   # scrapeJobPosting()
@@ -86,9 +98,10 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
     for(url in urlList) {
       print(url)
       remDr$navigate(url)
-      randDelay(2,3)
+      randDelay(6,13)
       remDr$screenshot(display = TRUE)
       
+      print("On page, beginning to scrape.")
       scrapeJobPosting()
     }
   }
@@ -98,13 +111,15 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
 # Create a function to move to scrape from page to page
   scrapeAllDice <- function() {
     searchTerm <- "data"
-    for(searchPage in 1:330) {
+    write(paste0("Beginning scraping of Dice at: ",Sys.time()),file="log.txt",append = TRUE)
+    for(searchPage in 1:5) {
       print(paste("Scraping page:",searchPage))
       write(paste0("Scraping Dice Page: ",searchPage),file="log.txt",append = TRUE)
       searchURL <- paste0("https://www.dice.com/jobs/q-data-startPage-",searchPage,"-jobs?q=",searchTerm)
+      print(searchURL)
       
       remDr$navigate(searchURL)
-      randDelay(min=2,max=3)
+      randDelay(min=5,max=12)
       remDr$screenshot(display = TRUE)
       
       jobListElems <- remDr$findElements('xpath',"//a[contains(@id,\"position\")]")
@@ -112,13 +127,9 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
       
       jobUrlList <- elemToUrlList(jobListElemsTrimmed)
       
+      print("Urls gathered, beginning to sort each page.")
       scrapeOnePageListOfJobLinks(urlList = jobUrlList)
-      
-      
     }
-    
-    
-    
   }
 
   scrapeAllDice()  

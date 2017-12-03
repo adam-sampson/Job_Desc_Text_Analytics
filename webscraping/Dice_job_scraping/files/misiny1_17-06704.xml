@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Melville, NY" id="estJLoc" type="hidden"><input value="Please refer to Job Description" id="estSkillText" type="hidden"><input value="Data Migration Developer" id="estJTitle" type="hidden"><input value="Full Time, Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2, Part Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Please refer to Job Description
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2, Part Time, 12 months</span>
+					<meta itemprop="employmentType" content="full-time, part-time, contract ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Negotiable</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><strong>Data Migration Developer<br>12+ Months <br>Melville, NY<br><br>If interested,<span style="cursor:pointer;" class="easyApplyTojob">Click here to Apply</span></strong></p>
+<ul>
+<li>2+ years Analyzing and Designing Data Architecture</li>
+<li>Ability to analyze multiple database schemas / LDAP structures and create consolidated view of the user identity</li>
+<li>Design and Develop ETL/data migration scripts to consume multiple data sources (Relational Databases, CSVs, LDAPs) and generate feeds into databases / LDAP Directories</li>
+<li>Designs, develops, and presents findings of complex data transformation analysis to fully understand data quality issues/opportunities</li>
+<li>Experience with Data Quality analysis and data cleanup</li>
+<li>Create/Manage Data and Content migration plan</li>
+<li>Coordinate the Web Content Migration schedule with Content Management lead and engineers</li>
+<li>Ideal candidate will have experience with ETL (Pentaho or SAP BODS) platforms in large scale complex data analysis and migration project</li>
+<li>Hands on experience with PL/SQL, Oracle 11g/12C databases, LDAP Directories (CA Directory, Sun One) is a must</li>
+<li>Experience with Linux platform and scripting is plus</li>
+<li>Ability to work in distributed, multi-cultured teams and excellent communication skills required</li>
+</ul>
+<p><br><br><span style="font-size: 12px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>NTT DATA Services is a leading IT services provider and global innovation partner with 130,000 professionals based in over 50 countries. NTT DATA recently acquired Dell Services. NTT DATA Services emphasizes long-term commitment and combines global reach and local intimacy to provide premier professional services, including consulting, application services, business process, IT outsourcing, and cloud-based solutions. We are a part of NTT Group, one of the world's largest technology services companies, generating more than $100 billion in annual revenues and partner to 80% of the Fortune 100. Visit <a href="http://www.nttdata.com/americas">www.nttdataservices.com</a> to learn how our consultants, projects, managed services, and outsourcing engagements deliver value for a wide range of businesses and government agencies.</strong><br><br>The Company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs. The Company will consider all qualified applicants for employment without <span style="color: #1f497d;">r</span>egard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law. To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.</span></span></p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							NTT DATA is an IT powerhouse and global innovation partner with 130,000 professionals based in over 50 countries. NTT DATA emphasizes long-term commitment and combines global reach and local intimacy to provide premier professional services, including consulting, digital, managed services, and industry solutions. We’re part of NTT Group, one of the world’s largest technology services companies, generating more than $100 billion in annual revenues and partner to 80% of the Fortune 100. Visit www.nttdata.com/americas to learn more.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/J8mQg68CkQI" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/NTTData/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>
