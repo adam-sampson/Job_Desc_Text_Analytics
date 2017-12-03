@@ -18,7 +18,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   remDr$open()
   
   remDr$navigate("http://www.google.com")
-
+  remDr$screenshot(display = TRUE)
 ## Search job by keyword
   # searchTerm <- "data"
   # searchPage <- 1
@@ -120,10 +120,27 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   
 # Create a function to move to scrape from page to page
   scrapeAllDice <- function(startPage,stopPage) {
-    remDr$navigate("https://www.google.com")
+    # remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
+    # 
+    # remDr$open()
+    # randDelay(10,11)
+    # remDr$navigate("http://www.google.com")
+    # remDr$screenshot(display = TRUE)
+    
     searchTerm <- "data"
     write(paste0("Beginning scraping of Dice at: ",Sys.time()),file="log.txt",append = TRUE)
     for(searchPage in startPage:stopPage) {
+      if(exists("remDr",inherits = TRUE) == TRUE) {
+        remDr$close()
+      }
+        
+      remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
+      
+      remDr$open()
+      randDelay(10,11)
+      remDr$navigate("http://www.google.com")
+      remDr$screenshot(display = TRUE)
+      randDelay(10,11)
       print(paste("Scraping page:",searchPage))
       write(paste0("Scraping Dice Page: ",searchPage),file="log.txt",append = TRUE)
       searchURL <- paste0("https://www.dice.com/jobs/q-data-startPage-",searchPage,"-jobs?q=",searchTerm)
@@ -143,5 +160,5 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
     }
   }
 
-  scrapeAllDice(startPage = 3, stopPage = 50)  
+  scrapeAllDice(startPage = 9, stopPage = 50)  
   

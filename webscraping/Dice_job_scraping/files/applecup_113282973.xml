@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Cupertino, CA" id="estJLoc" type="hidden"><input value="" id="estSkillText" type="hidden"><input value="Data Scientist" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">-</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job comes with more than a few perks.<br><br><br>AppleCare Business Insight is a dynamic data science organization that provides insight to improve post sale ownership experience and to drive business impact.<br><br> This role is for a full-stack data scientist within AppleCare Business Insight team to provide data driven insight to improve revenue and margin for AppleCares extended warranty products. The employee builds data engineering assets and statistical/machine learning models to surface actionable business insights. The role engages with the business and finance teams to define problem statement, design analytical solution and operationalize the solution. The employee also works with large scale computing frameworks, data analysis systems and modeling environments (e.g., Spark, Hadoop, Cosmos, CloudML, Turi , etc).<br><br><br>Key Qualifications:<br> 2-3 years of directly related experience required<br> Excellent statistical, machine learning and data mining skills<br> Superior data modeling and analysis in R/Python<br> Experience in data engineering using SQL, Tableau<br> A strong quantitative academic background<br> Ability to network broadly across the organization and drive collaboration<br> Knowledge of regression, time series analysis, clustering, decision tree techniques<br> Proven oral and written communication skills<br> Experience in providing analytics support for insurance business is a plus<br><br><br>Description:<br> Responsibilities include:<br><br> Build data engineering assets using Teradata SQL<br> Develop interactive, self-service Tableau dashboards<br> Program in Python/R to develop predictive and forecasting models<br> Device advanced statistical/machine learning methods to improve current KPIs<br> Operationalize the data engineering and machine learning models<br><br><br><br>Education:<br> BA/BS in a quantitative field (Statistics, Computer Science, Ops Research etc.)<br> Masters or PhD in Statistics is a plus<br><br><br> Apple is an Equal Employment Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.<br><br><img src="https://ars2.equest.com/?response_id=763999d41753840d6d4009367835a553&amp;view" alt=" " height="1" width="1">
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							We bring amazing people together to make amazing things happen. We're a diverse collection of thinkers and doers, continually reimagining what's possible to help us all do what we love in new ways. The people who work here have reinvented entire industries with the Mac, iPhone, iPad, and Apple Watch, as well as with services, including iTunes, the App Store, Apple Music, and Apple Pay. And the same passion for innovation that goes into our products also applies to our practices – strengthening our commitment to leave the world better than we found it.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/no_-296IGpM" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Apple/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

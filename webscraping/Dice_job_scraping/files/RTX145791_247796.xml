@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Atlanta, GA" id="estJLoc" type="hidden"><input value="Big Data, Hadoop, CI/CD" id="estSkillText" type="hidden"><input value="Big Data Architect" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Big Data, Hadoop, CI/CD
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Negotiable</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p>Grid Dynamics is looking for Data Platform / BigData Architect with knowledge of all Data Platform components including Hadoop, Streaming, NoSQL DBs, Data Warehouse tools. Our client is building Data Platform and is interested in the architecture of the data platform, design of data flows, data governance, security, etc. Basically the whole Data Platform end-to-end. Experience with clouds would be great, but not strictly required. <br><br><strong>Responsibilities:</strong><br><br>Big Data Architect is expected to:</p>
+<ul>
+<li>Understand client business domain and business use cases for the big data including machine learning, business intelligence, and analytics;</li>
+<li>Analyze data sources, ingress and egress pipelines for both batch and stream data;</li>
+<li>Investigate of current data platform implementation and gaps;</li>
+<li>Create long-term architecture according to industry and company best practices;</li>
+<li>Plan phases of client journey towards the final architecture state;</li>
+<li>Lead the engineering team through the implementation;</li>
+<li>Provide technical governance and sign off on engineering team deliverables.</li>
+</ul>
+<p>A Big Data Architect works with all levels of client personnel from C*-level executives to individual engineers. Internally, a big data architect guides Grid Dynamics delivery team and ensures compliance of the implementation with the architecture. While spending most time at a client, the architect also participates in internal Grid Dynamics activities. These activities include training, knowledge sharing, technology pre-sales, the creation of blueprints and case studies, and participation in outbound thought leadership activities, like writing blogs and attending conferences.<br><br><strong>Requirements:</strong></p>
+<p>To be successful in the role, a Big Data Architect needs to be highly motivated in achieving high business value with technology. Besides technical skills, the candidate should:</p>
+<ul>
+<li>Enjoy analyzing and solving problems;</li>
+<li>Be ready to take responsibility and deliver on the promise;</li>
+<li>Don’t shy away from speaking and engaging with people;</li>
+<li>Be able to communicate ideas in a clear and engaging way;</li>
+<li>Be resourceful and creative in solving problems;</li>
+<li>Understand tactics and strategy in decision making;</li>
+<li>Be able to explain complex concepts in understandable terms.</li>
+</ul>
+<p>The candidate should have background and education in computer science, math, or physics. Skills in strategy games like chess, poker, or Starcraft is a plus.</p>
+<p>From a technology perspective, we require 3+ years experience with Hadoop-based big data platforms and Hadoop ecosystem technologies. The candidate also should be able to demonstrate experience with:</p>
+<ul>
+<li>All aspects of data platforms including data ingress, both batch and stream data processing, analytics, visualization and dashboards, operational storage for business insights, security, and data governance;</li>
+<li>Distributed applications, specifically high-performance computing, in-memory data grids and complex event processing;</li>
+<li>Cloud infrastructure, preferably public clouds;</li>
+<li>Test automation, preferably with respect to BigData platforms;</li>
+<li>CICD process and infrastructure, preferably related to BigData development.</li>
+</ul>
+<p>If you are not a seasoned expert in many of the above but have a motivation to grow and have relevant background, don’t hesitate to apply. We provide training programs for good candidates. Please send us your resume and attach a small essay on why you are interested in this position as well as any initial questions.<br><br><strong>About </strong><strong>us:</strong><br><br>Grid Dynamics is a technology consulting and professional services company focused on delivering large scale mission-critical distributed applications with modern open source technologies and processes. We are experts in NoSQL, BigData, in-memory data grids, distributed caches, message processing, and other technologies that help implement enterprise applications at scale. BigData platforms that we build handle petabytes of data and process hundreds of thousands of events per second and run in public clouds and private data centers. Although technology is our focus and main tool, we use it to achieve business value and improve business metrics, which is our ultimate goal.</p>
+<p> </p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">Helen Pavliuk</h4>
+			
+			<p id="contact-location">
+				
+				
+					
+					
+					
+				
+			</p>
+			
+				
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

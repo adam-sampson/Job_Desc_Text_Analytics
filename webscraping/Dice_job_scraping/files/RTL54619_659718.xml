@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Albuquerque, NM" id="estJLoc" type="hidden"><input value="Algorithms, Analysis, Database, Development, HTTP, Hub, Java, Metrics, Modeling, Programming, Python, Research, SAS, Security, Statistical Analysis, Testing" id="estSkillText" type="hidden"><input value="R&amp;D, Data Science, Analytics (Experienced)" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Algorithms, Analysis, Database, Development, HTTP, Hub, Java, Metrics, Modeling, Programming, Python, Research, SAS, Security, Statistical Analysis, Testing
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><b>Qualifications We Require  </b><br><br>* Requires advanced degree (Masters or PhD) in Statistics, Mathematics, Industrial Engineering, Computer Science, or relevant Science, Technology, Engineering, or Math (STEM) discipline plus two or more years of experience; or bachelor-s and doctorate in relevant STEM discipline.<br>* Demonstrated expertise with techniques and methodologies for statistical analysis and modeling (supervised and unsupervised), with the rigor required for production software implementation of resulting analyses.<br><br><b>Qualifications We Desire  </b><br><br>* PhD in Statistics, Mathematics, Industrial Engineering, Computer Science, or comparable Science, Technology, Engineering, or Math (STEM) discipline.<br>* Completion of coursework in Calculus, Linear Algebra, Probability and Statistics, Inferential Statistics, and Multivariate Statistical Analysis.<br>* Proficiency in programming (such as C, C++, Java, Python, etc.).<br>* Proficiency in applying statistical process control (SPC) methods to business and/or business quality scenarios.<br>* Experience with establishing metrics, key performance indicators (KPIs) and scorecards, including setting targets, benchmarking, analysis and recommendations.<br>* Proficiency in statistical analysis languages and software packages (such as SAS, SPSS, R, etc.).<br>* Experience with text analytics, including preprocessing of unstructured information, dimension reduction techniques, and application of supervised/unsupervised algorithms.<br>* Experience and demonstrated success in effective communication of analytic results with concise reporting and visualizations.<br>* Strong understanding of information technology and database technologies including data virtualization and data warehouses as applied in support of analytics and reporting.<br>* Strong analytical and critical thinking skills with demonstrated ability to apply these skills to resolve complex business issues.<br>* Ability to lead others, organize, establish priorities, and execute assignments to completion on multiple tasks, under strict deadlines and changing priorities.<br>* Ability to integrate with leadership and interact effectively with all levels of internal and external personnel to build effective working relations, and reach consensus.<br>* Ability to communicate effectively and influentially in oral presentations and written analyses to program stakeholders and executive customers.<br>* Demonstrated success in cross-functional teams to facilitate and drive integrated, multi-disciplinary solutions to complex problems.<br><br><b>About Our Team  </b><br><br>The Performance Measures and Scorecards Department is the centralized hub for Sandia-s corporate level measures, metrics, scorecards, and dashboards. The focus of the department is to provide Sandia and its leadership with effective visualization and communication of both information and analytic results to support data-driven decisions. The department is responsible for partnering with all Sandia entities to advance their measures and metrics, as well as the development of institutional scorecard and dashboard frameworks.<br><br><b>About Sandia  </b><br><br>Sandia National Laboratories is the nation-s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:<br><br>* Challenging work with amazing impact that contributes to security, peace, and freedom worldwide<br>* Extraordinary co-workers<br>* Some of the best tools, equipment, and research facilities in the world<br>* Career advancement and enrichment opportunities<br>* Flexible schedules, generous vacations, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance*<br><br>World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov<br><br>*These benefits vary by job classification.<br><br><b>Security Clearance  </b><br><br>Position requires a Department of Energy (DOE) granted Q-level security clearance.<br><br>Sandia is required by DOE directive to conduct a pre-employment drug testing, and a pre-employment background review that includes personal reference checks, law enforcement record and credit checks, and employment and education verifications. Applicants for employment must be able to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship.<br><br>Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by the DOE, rendering the inability to perform the duties assigned and resulting in termination of employment.<br><br><b>EEO  </b><br><br><b>Equal opportunity employer/Disability/Vet/GLBT  </b><br>
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							At Sandia, creativity, multidisciplinary thought, and diverse ideas are encouraged. Our unique work requires the collective minds of the nation's top scientists, engineers, and support staff. Each year, Sandians are recognized for developing a range of breakthrough technologies with commercial applications of global importance. Sandia embraces diversity, inclusion, and respect as part of our organizational culture. We value individual differences, and we believe that our success depends on the collaborative efforts of a diverse workforce. We also strive to meet the highest standards in workforce fulfillment, safety, security, fiscal accountability, and environmental responsibility.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/SRvta4pU7aw?list=PLB2C6E6FE1201C2DB" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Sandia/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>
