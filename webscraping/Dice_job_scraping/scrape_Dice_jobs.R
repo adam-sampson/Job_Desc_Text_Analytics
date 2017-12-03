@@ -120,21 +120,22 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   
 # Create a function to move to scrape from page to page
   scrapeAllDice <- function(startPage,stopPage) {
-    # remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
-    # 
-    # remDr$open()
-    # randDelay(10,11)
+    remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
+     
+    remDr$open()
+    randDelay(15,16)
     # remDr$navigate("http://www.google.com")
     # remDr$screenshot(display = TRUE)
     
     searchTerm <- "data"
     write(paste0("Beginning scraping of Dice at: ",Sys.time()),file="log.txt",append = TRUE)
+    print("Starting loop")
     for(searchPage in startPage:stopPage) {
       if(exists("remDr",inherits = TRUE) == TRUE) {
         remDr$close()
       }
-        
-      remDr <- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
+      randDelay(15,16)
+      #remDr <<- remoteDriver(remoteServerAddr = "192.168.99.100",port = 4445L)
       
       remDr$open()
       randDelay(10,11)

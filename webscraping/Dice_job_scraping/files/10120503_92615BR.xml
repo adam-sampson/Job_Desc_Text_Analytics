@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Springfield, VA" id="estJLoc" type="hidden"><input value="Agile, Analysis, Analyst, Apache, Automated, Business Intelligence, Business Requirements, Data Mining, Development, Hadoop, Hardware, IDE, Java, Manager, Management, Modeling, Program Manager, Programming, Project, Python, Research, Security, Supervision, Testing" id="estSkillText" type="hidden"><input value="Data Analyst" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Agile, Analysis, Analyst, Apache, Automated, Business Intelligence, Business Requirements, Data Mining, Development, Hadoop, Hardware, IDE, Java, Manager, Management, Modeling, Program Manager, Programming, Project, Python, Research, Security, Supervision, Testing
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><table><tbody>
+<tr><td colspan="2"><img alt="" src="images/pixel.gif" height="4"></td></tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblReqID">Req ID </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblReqID" class="TEXT" id="Req ID">92615BR </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblBusinessTitle">Business Title </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblBusinessTitle" class="TEXT" id="Business Title">Data Analyst </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblGroup">Group </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblGroup" class="TEXT" id="Group">MCIS </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblLocation">Location </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblLocation" class="TEXT" id="Location">USA VIRGINIA Springfield </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblClearanceLevelNeeded">Clearance Level Needed </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblClearanceLevelNeeded" class="TEXT" id="Clearance Level Needed">Top Secret </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblCategory">Category </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblCategory" class="TEXT" id="Category">Information Technology </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblJobDutiesandResponsibilities">Job Duties and Responsibilities </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblJobDutiesandResponsibilities" class="TEXT" id="Job Duties and Responsibilities"><br><font size="2">At ManTech International Corporation, you will help protect our national security while working on innovative projects that offer opportunities for advancement. </font><br><font size="2">Become an integral part of a diverse ManTech team supporting U.S. Customs and Border Protection’s mission to prevent terrorists and terrorist weapons from entering the country while also facilitating lawful international travel and trade.  </font><br><font size="2">  </font><br><font size="2">ManTech is seeking experienced and skilled professionals to provide Business Intelligence Support Services to assist CBP officers and border enforcement personnel in effectively and efficiently identifying cargo, individuals, and conveyances that may present additional risk to the United States; conduct terrorism analysis and global assessments that convey changes in terrorism threats and identify emerging threats; develop and evaluate CBP-wide intelligence-based targeting rules and intelligence driven special operations; and coordinate and enhance analysis and targeting efforts. </font><br><font size="2">  </font><br><font size="2">As Systems Analyst, the candidate for this position will provide systems analysis support as part of an integrated agile team that will be responsible using data analytics techniques to develop, maintain and enhance models, tools, and software for: </font><br><font size="2">•    Intelligence Analysis-Counter-terrorism-Network Analysis </font><br><font size="2">•    Predictive Modeling </font><br><font size="2">•    Entity Resolution </font><br><font size="2">•    Threat Research Support </font><br><font size="2">•    Visualization </font><br><font size="2">•    Query Support </font><br><font size="2"><br></font><br><font size="2">Analyzes and develops computer systems possessing a wide range of capabilities, including numerous engineering, business and records management functions. Develops plans for automated information systems from project inception to conclusion. Analyzes user interfaces, maintain hardware and software performance tuning, analyze workload and computer usage, maintain interfaces with outside systems, analyze downtimes, analyze proposed system modifications, upgrades and new COTS. Analyzes the problem and the information to be processed. Defines the problem, and develops system requirements and program specifications, from which programmers prepare detailed flow charts, programs, and tests. Provides technical and administrative direction for personnel performing software development tasks, including the review of work products for correctness, adherence to the design concept and to user standards, and for progress in accordance with schedules. Coordinates with the Project and/or Program Manager to ensure problem solution and user satisfaction. Makes recommendations, if needed, for approval of major systems installations. Prepares milestone status reports and deliveries/presentations on the system concept to colleagues, subordinates, and end user representatives. Provides daily supervision and direction to support staff.  </font><br><font size="2"><br></font><br><font size="2">The candidate will perform the following responsibilities: </font><br><font size="2">•    Formulate or define system scope and objectives. </font><br><font size="2">•    Devise or modify procedures to solve complex problems considering computer equipment capacity and limitations, operating time, and form of desired results. </font><br><font size="2">•    Prepare detailed specifications for programs. </font><br><font size="2">•    Assist in the design, development, testing, implementation, and documentation of new software and enhancements of existing applications. </font><br><font size="2">•    Work with project managers, developers, and end users to ensure application designs meet business requirements. </font><br><font size="2">•    Formulate specifications for complex software programming applications </font><br><font size="2">•    Modify and maintain complex applications </font><br><font size="2">•    Evaluate new and existing software products from cost-effectiveness and feasibility analysis perspective </font><br><font size="2">•    Coordinate with the intelligence community, gather requirements, analyze the data and business logic, and work with large data sets. Prepare documentation validating reasoning, certainty, and completeness synthesized information. </font><br><font size="2"><br></font><br><font size="2">Qualifications: </font><br><font size="2">•    HS &amp; 15 years of experience OR Masters &amp; 0 years of experience </font><br><font size="2">•    Experience using Agile techniques to design, develop, enhance, test, debug, and implement software and troubleshoot production problems. </font><br><font size="2">•    Experience with Java, python </font><br><font size="2">•    Experience with Apache Hadoop </font><br><font size="2">•    Experience with build environments such as Apache Maven and Gradle </font><br><font size="2">•    Experience with Integrated Development environments ( Eclipse IDE, Cygwin, RStudio) </font><br><font size="2">•    Experience with Web Environment development </font><br><font size="2">•    Data profiling, data mining, cluster analysis, or statistical pattern analysis </font><br><font size="2">•    False positives identification for rule-based methods, pair-wise classification, clustering approaches, or probabilistic inference. </font><br><font size="2">•    Data visualization </font><br><font size="2">•    Geocoding or geomapping. </font><br><font size="2">•    Entity relationship ontologies  </font><br><font size="2">•    Experience working in law enforcement or classified intelligence analysis environment. </font><br><font size="2"><br></font><br><font size="2"> Clearance: An active U.S. Government DOD - Top Secret security clearance required; DHS - CBP preferred. </font><br><font size="2"><br></font><br><font size="2">Location: This position will require the capability to work from either of the following addresses: </font><br><font size="2">1.    5971 Kingstowne Village Parkway, Alexandria VA 22315 </font><br><font size="2">2.    Ronald Reagan Building, 1300 Pennsylvania Ave NW, Washington, DC 20229 </font><br><font size="2">3. Sterling, VA </font> </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblQualifications">Qualifications </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblQualifications" class="TEXT" id="Qualifications"> <font size="2">Requires Bachelor’s degree (in Computer Science, Management Information Systems or related field) or equivalent, and seven to nine years of related experience. </font> </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblDegrees">Degrees </label></span></td>
+<td class="TGAlignLeft" width="80%">
+<span aria-labelledby="lblDegrees" class="TEXT" id="Degrees">Equivalent Experience/Education <br></span> <span aria-labelledby="lblDegrees" class="TEXT" id="Degrees">Bachelor's Degree <br></span>
+</td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblYearsofExperience">Years of Experience </label></span></td>
+<td class="TGAlignLeft" width="80%">
+<span aria-labelledby="lblYearsofExperience" class="TEXT" id="Years of Experience">13-15 years w/High School Diploma <br></span> <span aria-labelledby="lblYearsofExperience" class="TEXT" id="Years of Experience">07-09 years w/Bachelors Degree <br></span> <span aria-labelledby="lblYearsofExperience" class="TEXT" id="Years of Experience">04-06 years w/Masters Degree <br></span>
+</td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblPositionType">Position Type </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblPositionType" class="TEXT" id="Position Type">Full-Time </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblShift">Shift </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblShift" class="TEXT" id="Shift">Day </span></td>
+</tr>
+<tr>
+<td valign="top"><span class="Fieldlabel"><label id="lblOverview">Overview </label></span></td>
+<td class="TGAlignLeft" width="80%"><span aria-labelledby="lblOverview" class="TEXT" id="Overview">ManTech International Corporation is comprised of approximately 7,300 talented employees who use advanced technology to help government and industry meet some of their greatest challenges around the world. We adhere to the simple, no-nonsense values on which ManTech was founded more than four decades ago, aligning squarely with the mission objectives of our customers. As our customer base continues to expand and diversify, we continue to diversify our workforce and solutions. Nearly half our employees have a military background, and approximately 70 percent hold a government security clearance. As a leading provider of innovative technology services and solutions for the nation's defense, security, health, space, and intelligence communities; we hold nearly 1,100 active contracts with more than 50 different government agencies. </span></td>
+</tr>
+</tbody></table>
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							ManTech was founded in 1968 to provide advanced technological services to the United States government. We began with a single contract with the U.S. Navy to develop war-gaming models for the submarine community. Over the years, our government's technology needs have increased dramatically in scope and sophistication, and we have grown to meet that challenge.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+					
+				</div>
+</body></html>

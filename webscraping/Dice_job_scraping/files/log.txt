@@ -306,3 +306,117 @@ Scraping Dice Page: 34
 Scraping Dice Page: 35
 Beginning scraping of Dice at: 2017-12-03 12:54:24
 Beginning scraping of Dice at: 2017-12-03 12:54:39
+Scraping Dice Page: 9
+Beginning scraping of Dice at: 2017-12-03 12:56:33
+Scraping Dice Page: 9
+Beginning scraping of Dice at: 2017-12-03 12:59:08
+Beginning scraping of Dice at: 2017-12-03 12:59:37
+Beginning scraping of Dice at: 2017-12-03 13:00:15
+Beginning scraping of Dice at: 2017-12-03 13:01:25
+Beginning scraping of Dice at: 2017-12-03 13:01:51
+Beginning scraping of Dice at: 2017-12-03 13:02:01
+Beginning scraping of Dice at: 2017-12-03 13:03:10
+Scraping Dice Page: 9
+Writting job desc: 10117623_3103
+Writting job desc: 10120942A_143943
+Writting job desc: 10303860_56803
+Writting job desc: 10122753_101913
+Writting job desc: 10111241_30530
+Writting job desc: SYNTEL_NA_IDQGA
+Writting job desc: 10122746_221
+Writting job desc: RTL66359_2017-1352
+Writting job desc: 10113446_5415
+Writting job desc: 10217692_17-0096
+Writting job desc: 10514811_R1667
+Writting job desc: 10514811_R4885
+Writting job desc: geicodc_3218-160
+Writting job desc: 10207105_185305
+Writting job desc: 10365912_JSDataAWShap
+Writting job desc: 10166629_11236
+Writting job desc: 90974801_227195
+Writting job desc: RTL884349_222706
+Writting job desc: SCSITX_J17-0299
+Writting job desc: 90827581_233722
+Writting job desc: 10172556_JO-1710-8788
+Writting job desc: 10183921_220110817-469
+Writting job desc: 10427792_426416
+Writting job desc: SYNTEL_219920
+Writting job desc: 10234924_220030
+Writting job desc: 10485474_613701
+Writting job desc: 10172660_237115
+Writting job desc: 10229533_15681
+Writting job desc: 10100195_1700113J
+Writting job desc: 10120503_92615BR
+Scraping Dice Page: 10
+Writting job desc: geicodc_150000NK-53
+Writting job desc: geicodc_1600005I-905
+Writting job desc: geicodc_R0001089-469
+Writting job desc: 10117810_003201
+Writting job desc: SCSITX_J17-0300
+Writting job desc: 10127643A_13343
+Writting job desc: srabot_RQ8400
+Writting job desc: srabot_RIC2017-13179
+Writting job desc: srabot_RQ10512
+Writting job desc: srabot_RIC2016-12337
+Writting job desc: geicodc_170000L3-934
+Writting job desc: SYNTEL_KBCIS
+Writting job desc: GTTLLDA_038964
+Writting job desc: 10459960_247920
+Writting job desc: 90987371_243424
+Writting job desc: geicodc_R0002393-140
+Writting job desc: 90823961_job_20161025184230_GPBTSZRI1DXT99OH
+Writting job desc: RTX1c4a06_5210403
+Writting job desc: RTX1c5494_243556
+Writting job desc: RTX1c53d1_80
+Writting job desc: RTX16cffb_5236826
+Writting job desc: RTX1392be_230197
+Writting job desc: RTX162c87_248740
+Writting job desc: RTX155b31_224324
+Writting job desc: RTX1c2eca_152597
+Writting job desc: RTL200051_5220643
+Writting job desc: RTX1c4d2c_220333
+Writting job desc: RTX151a41_5242055
+Writting job desc: 90913355_5234451
+Writting job desc: RTX1c5069_230497
+Scraping Dice Page: 11
+Writting job desc: 10123386_139652
+Writting job desc: RTX14fecf_230647
+Writting job desc: 10228622_20170803-3978
+Writting job desc: RTX16cf99_req2344_1
+Writting job desc: RTX16cf99_req2344
+Writting job desc: RTX1a49ac_227089
+Writting job desc: 10429251S_H92875
+Writting job desc: 10228622_20170811-4114
+Writting job desc: RTX14fecf_228985
+Scraping Dice Page: 12
+Scraping Dice Page: 13
+Scraping Dice Page: 14
+Scraping Dice Page: 15
+Scraping Dice Page: 16
+Writting job desc: 10432811_244800
+Scraping Dice Page: 17
+Scraping Dice Page: 18
+Scraping Dice Page: 19
+Scraping Dice Page: 20
+Scraping Dice Page: 21
+Scraping Dice Page: 22
+Scraping Dice Page: 23
+Scraping Dice Page: 24
+Scraping Dice Page: 25
+Scraping Dice Page: 26
+Scraping Dice Page: 27
+Scraping Dice Page: 28
+Scraping Dice Page: 29
+Scraping Dice Page: 30
+Scraping Dice Page: 31
+Scraping Dice Page: 32
+Scraping Dice Page: 33
+Scraping Dice Page: 34
+Scraping Dice Page: 35
+Scraping Dice Page: 36
+Scraping Dice Page: 37
+Scraping Dice Page: 38
+Scraping Dice Page: 39
+Scraping Dice Page: 40
+Scraping Dice Page: 41
+Writting job desc: 10143403_232160

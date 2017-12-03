@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="San Mateo, CA" id="estJLoc" type="hidden"><input value="Algorithms, Analysis, Analyst, Analytical Skills, Architecture, Data Architecture, Data Mining, Excel, Management, Modeling, Research, Sales, SQL, SQL Server, Testing" id="estSkillText" type="hidden"><input value="System and Data Analytics Analyst (2017-5415)" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Algorithms, Analysis, Analyst, Analytical Skills, Architecture, Data Architecture, Data Mining, Excel, Management, Modeling, Research, Sales, SQL, SQL Server, Testing
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><br><br>Are you looking to play a critical role in driving results? Do you enjoy working with business partners to drive data based decision making? If so, apply today to be a System and Data Analyst. Your work may include solving questions teams have about their sales results or proactively identifying areas for improvement based on your own analysis of the business. You will also have the opportunity to lead and perform complex analysis in an evolving data environment that impacts groups within and outside of Sales, and will develop a broad understanding of the Fisher Investments marketing and sales process. Your fact-driven analysis will be a key contributor to the success of Sales, which ultimately builds the success of the firm.<br><br><b>In this role you will: </b> <br><br> * Work with sales management to support all phases of sales efforts to ensure accurate results in the data &amp; analysis, leading both "day-to-day" analysis as well as complex problem-solving projects.<br> * Research and develop statistical analyses, optimization algorithms, and forecasting to improve the ROI of US PCG sales initiatives.'<br> * Work on business problems and recommend solutions to various stakeholders through quantitative analysis.<br> * Develop proof of concept solutions, and work with application developers to implement and maintain scalable products.<br> * Complete projects that require data mining, analysis, and presentation.<br> * Focus on deep dives into data to find problems or trends, reduce unnecessary cost and/or increase ROI, and drive better business decisions.<br> * Create predictive models to help generate ROI.<br> * Consult VPs on statistical methods of testing.<br><br><b>Ideal Characteristics: </b> <br><br> * 3-6 years of experience in analytics: data stores, data architecture, and related analytical tools<br> * Excellent problem solving and critical thinking skills<br> * Experience with large data sets<br> * Experience with machine learning methods for statistical modeling<br> * Proficiency in the following software packages: MS Excel, MS SQL Server, R<br> * A Bachelor's degree in Mathematics, Statistics, Economics, Computer Science, Engineering, or equivalent combination of education/experience. Strong math and analytical skills are needed<br><br> Why work at Fisher Investments?<br><br> We want to invest in you!<br><br> We've worked hard to create a culture where we can help accelerate the careers of exceptional people. We entrust our team members with high levels of responsibility, give them resources needed to succeed, and recognize and reward them for their successes. We make significant investments in our employees in their career, through formal and informal training, offering extensive training opportunities designed to build both breadth and depth in each of our team members. We are pleased to provide a combination of classroom teaching, on-the-job training and ongoing mentoring to set our employees on the path to a successful, lifelong career.<br><br> We're proud to provide a competitive compensation plan, which includes complete coverage of monthly medical, dental, and vision premiums (less deductibles), paid time off, as well as an exceptional 50% match on 401(k) contributions up to the maximum amount allowed by the IRS.<br><br>Ready to join our team and make an impact? Apply now!<br><br>FISHER INVESTMENTS IS AN EQUAL OPPORTUNITY EMPLOYER.<br><br> #DI<br> #LI-FI1<br><br><br><br><b>Department: </b> Data Analyst
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

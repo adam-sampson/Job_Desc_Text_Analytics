@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Raleigh, NC" id="estJLoc" type="hidden"><input value="Bachelors degree in Information Technology, Project Management, Computer Science, or related field  At least ten (10) years experience working on Data &amp; Analytics development projects and/or consu" id="estSkillText" type="hidden"><input value="Service Delivery Manager - Data &amp; Analytics" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Bachelors degree in Information Technology, Project Management, Computer Science, or related field  At least ten (10) years experience working on Data &amp; Analytics development projects and/or consu
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Depends On Experience</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+					<span class="mL20">Telecommuting available</span>
+				
+				
+			
+			
+				
+					<span>Travel required to 75%.</span>
+				
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p>Sirius is looking for a Service Delivery Practice Manager to join our Data &amp; Analytics Solutions team. This is a full-time, benefited role with us that can require an average of 50-75% overnight travel.<br><br> Position Summary <br> The primary purpose of this position is to oversee and manage the relationship with one or more customers throughout ongoing engagements. This position manages the overall service delivery and serves as the primary escalation point and customer sponsor. <br><br> Primary Duties &amp; Responsibilities<br>• Provides management and oversight of multiple simultaneous projects with one or more customers <br>• Provides management of overall service delivery and customer escalation<br>• Guides project managers and technical staff on milestones and deliverables<br>• Works with customers on maintaining technical roadmaps, initiatives, and long-term planning<br>• Manages customer resource planning and financial aspects<br>• Prioritizes all requests for resources directed for the specific customer<br>• Advises Sirius management on active customer engagements<br>• Works with Service Delivery management, Practice Managers, and Sales on staffing and pipeline activity<br>• Directs and participate in formal customer sessions including steering committees and launch teams<br>• Drives overall customer satisfaction, scope control and general engagement satisfaction<br>• Hires, trains, develops, and evaluates team members, taking corrective action as necessary in accordance with company policy</p>
+<p><span class="PrintVerySmall">Basic Qualifications <br>• Bachelor’s degree in Information Technology, Project Management, Computer Science, or related field<br>• At least ten (10) years’ experience working on Data &amp; Analytics development projects and/or consulting in a technical or supporting Data &amp; Analytics role, e.g. Program/Project Manager, technical leadership, etc. to include four (4) years’ experience directly managing technical projects or programs <br><br> Other Required Qualifications <br>• Demonstrated ability to understand a client’s requirements and present appropriate options<br>• Demonstrated project/program management skills<br>• Demonstrated knowledge of application programming, database, and system design within the Data &amp; Analytics space<br>• Demonstrated presentation and communication skills<br><br> Preferred Qualifications <br>• Project Management Professional certification <br>• Risk Management Professional certification <br>• Scrum Master certification<br>• Demonstrated knowledge in industry-standard methodologies, including project management, program management, system development lifecycles (i.e. PMBOK, CMM, RUP, Agile, and/or RAD)<br>• Experience evaluating customer strategy, and creating and executing new sales<br><br> Essential Functions<br> The position exists to provide consulting solutions to customers and as such requires the ability to travel to and from customer sites and interact with customers on an ongoing and regular basis. <br><br><br> The above primary duties, responsibilities, and position requirements are not all inclusive.<br><br> Sirius is an equal opportunity employer that values diversity. As a government contractor, Sirius takes affirmative action to employ and advance in employment qualified women, minorities, individuals with disabilities, and protected veterans; maintains a drug-free workplace; and participates in E-Verify.<br><br> Individuals who receive job offers will be required to complete pre-employment screening that includes a background check verifying name, residences, education, work experience, and criminal convictions consistent with the Fair Credit Reporting Act; and a drug test for controlled substances consistent with the Drug-Free Workplace Act and the Americans with Disabilities Act.<br><br> Sirius will not sponsor work eligibility.</span></p>
+<p> </p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">Mari Flores</h4>
+			
+			<p id="contact-location">
+				
+					10100 Reunion Place, #500
+				
+				
+					
+						San Antonio, TX, 78216
+					
+					
+					
+				
+			</p>
+			
+				
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Join the Brightest Minds in the Business. You've worked hard to get to where you are and want to work alongside people who've done the same. You're looking to be challenged and to grow professionally, and you want to be valued and recognized for your contributions. Sirius Computer Solutions agrees. As a nationally recognized IT solutions provider with an over 35-year history of success, Sirius is known for cultivating the best talent, providing a positive work environment, and offering a compensation and benefits package designed to help our employees thrive both personally and professionally. We deliver best-of-breed solutions from the world's top technology innovators, including Cisco, Citrix, CommVault, Dell, EMC, HDS, Hitachi, HP, IBM, NetApp, Nutanix, VMware, and many more.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/Xn37Lkh7fQo" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Sirius/rectangle-401.jpg">
+</div>
+					
+				</div>
+</body></html>

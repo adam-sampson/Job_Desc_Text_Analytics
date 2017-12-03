@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Westwood, CA" id="estJLoc" type="hidden"><input value="Computers General" id="estSkillText" type="hidden"><input value="Data Engineer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Computers General
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, All</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Competitive</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><br><strong>Job Duties</strong><br><br>The Data Engineer is a key role in technology initiatives to advance health informatics and analytics in the health sciences by advancing the usability, performance, and overall architecture of the enterprise data warehouse.  This role develops data processing pipelines to ingest data from multiple data sources into Azure SQL Data warehouse, Azure Data Lake using SSIS, Azure Data Factory. The engineer also works closely with Data scientists to prepare the analytical datasets for Predictive Analytics and Machine Learning. The engineer also contributes to the development of Machine Learning algorithms to support Enterprise Analytics needs.<br><br>KEY RESPONSIBILITIES<br>Design, architect, prototype, and implement solutions to tackle the Big Data and Data Science needs for UCLA Health.<br>Work with stakeholders in OHIA and the Centers of Excellence to understand data needs and ingest rich data sources such as external claims data feeds, Electronic Health Record data, financial data, operational data, public data sets, and social media feeds.<br>Research, experiment, and utilize leading Big Data methodologies, such as Hadoop, Spark, and SQL Data Warehouse on the Azure platform.<br>Architect, implement, and test data processing pipelines, and data mining / data science algorithms on a variety of hosted settings, such as Azure and on-premise technology stacks.<br>Develop and operationalize Predictive Analytics and Machine-Learning algorithms using Azure ML, Python, and R to enhance business and clinical decision-making.<br>Translate advanced business analytics problems into technical approaches that yield actionable recommendations.  Collaborate with others in the OHIA Data Science Lab to communicate results and educate stakeholders through designing and building insightful visualizations, reports, and presentations.<br><br><strong>Job Qualifications</strong><br><br>Minimum five years of big data experience with multiple programming languages and technologies.<br>Demonstrated experience designing and delivering solutions utilizing the Microsoft Azure including HDInsight, Azure Data Lake Analytics, Azure SQL Data Warehouse, Azure Data Factory, Streaming Analytics; experience with on premise Microsoft technologies such as SQL Server 2008 (SSIS, SSRS, SSAS) and above.<br>Strong background in Data warehousing principles, architecture and its implementation in large environments.<br>Fluency in programming languages such as Python, C# or Java, with the ability to pick up new languages and technologies quickly; understanding of cloud and distributed systems principles and experience with large-scale, big data methods, such as Map Reduce, Hadoop, Spark, Hive and Pig.<br>Experience developing Machine Learning Algorithms using Azure ML Studio is highly preferred.<br>Ability to take a Machine Learning model from a laptop machine to deploy it on Production servers at scale. (Using REST APIs, PMML etc.)<br>Experience developing statistical packages using R and Python is a plus.<br>Ability to evaluate multiple technologies and platforms and propose the right solution for the problem is highly desired.<br>Relevant experience with other cloud platforms (such as AWS, Google Cloud, etc.) is nice to have.<br>Work with team members and clients to assess needs, provide assistance, and resolve problems, using excellent problem-solving skills, verbal/written communication, and the ability to explain technical concepts to Leadership and business audiences.<br>Bachelor's degree in Computer Science, Computer Engineering, or related field from an accredited college or university.<br><br><br><img src="https://ucla.contacthr.com/58850922.jpg" height="1" width="1" border="0">
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">IMPORT UCLA</h4>
+			
+			<p id="contact-location">
+				
+				
+					
+						Westwood, CA
+					
+					
+					
+				
+			</p>
+			
+				
+				
+					<a data-original-title="Phone: ." id="contactTT" class="dice-btn-link" data-toggle="tooltip" data-placement="top" title="">Contact</a>
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							At UCLA Health, you can find a career that allows you to use your technology skills to improve health through our leading edge patient care, education, research, and commitment to innovation. For more than 50 years, UCLA Health has brought the latest in medical technology to the people of Southern California and throughout the world. UCLA Health is on the cutting edge of biomedical research, performing pioneering work and bringing the latest discoveries to virtually every field of medicine.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+					
+				</div>
+</body></html>

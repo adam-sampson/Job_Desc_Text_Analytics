@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Birmingham, AL" id="estJLoc" type="hidden"><input value="Agile, Business Intelligence, Data Mining, Development, Manager, Project, Telecommunications" id="estSkillText" type="hidden"><input value="Data Scientist - 15681" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Agile, Business Intelligence, Data Mining, Development, Manager, Project, Telecommunications
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Depends On Experience</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br>Why Join Altec? <br><br><br>If you-re considering a career with Altec, Inc., there-s never been a better time to join us! Our Company was founded based upon values that place the customer first, and view people as our greatest strength. Altec has continued to grow, utilizing the same basic values, and over the years, those values have helped us to earn the trust and confidence of our customers worldwide. We remain committed to total customer satisfaction in everything we do. That-s why today, Altec is an innovative, financially sound company that is setting the standard of excellence in design, manufacturing and service; and that-s why you can rely on us to provide you with the stability of a well managed company. <br><br><br>Our Company: <br><br><br>Altec Inc., founded in 1929, is a privately held company headquartered in Birmingham, Alabama. <br><br><br>Altec specializes in the manufacture, sale and service of aerial devices, digger derricks, cranes and specialty equipment for the electric utility, telecommunications, tree care, construction, and light and sign maintenance industries in more than 120 countries. <br><br><br>Responsibilities <br><br><br>The purpose of the Data Scientist is to develop advanced analytic solutions from big data, internal data sets, and other data sources. Major responsibilities include the following: <br><br><br>* Design and development of advanced analytics projects. <br><br>* Development of interfaces from analytics platform to other systems. <br><br>* Close collaboration with project business manager and internal team. <br><br>* Communication with internal business stakeholder departments. <br><br><br>Qualifications: <br><br><br>* Team player with an ability to work with across teams to achieve objectives <br><br>* Ability to develop and maintain strong working relationships across functional boundaries, and at all levels of the company. <br><br>* Ability to work on a solution despite the potential of insufficient and/or imperfect information <br><br>* Flexibility/adaptability to work within changing circumstances <br><br>* Experience with Agile methodology for application development <br><br>* Experience with advanced data analytics and data mining <br><br>* Strong verbal and written communications skills <br><br>* Minimum of 4 years of relevant experience <br><br>* Preference given for advanced degree in business analytics / business intelligence <br><br><br>**The job level may be modified upward based on the qualifications of the candidate** <br><br><br>Benefits <br><br><br>Altec offers a competitive salary that rewards performance and dedication, along with a comprehensive benefits package that includes: <br><br>- Medical, Dental and Prescription Drug Program <br><br>- Retirement 401(k) Program <br><br>- Vacation and Holidays <br><br>- Flexible Spending Accounts <br><br>- Tuition Assistance Program <br><br>- Employee Assistance and Mental Health/Substance Abuse Program <br><br>- Life Insurance, Accidental Death and Dismemberment Insurance <br><br><br>EEO Statement <br><br><br>Altec Industries, Inc. and its affiliates are equal opportunity employers and maintain affirmative action plans to recruit, retain, develop, and promote qualified individuals without unlawful consideration of race, gender, color, religion, sexual orientation, gender identity, national origin, age, disability, citizenship status, veteran status, or any other characteristic protected by federal, state or local law. Altec strives to maintain a work environment free from unlawful discrimination and harassment, where associates are treated with respect and dignity.
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

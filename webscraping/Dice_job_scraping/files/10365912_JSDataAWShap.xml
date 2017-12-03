@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+						<!-- /4140/Dice/job_tools -->
+						<div data-google-query-id="CPK31--37tcCFZR-wQod-U4J6g" id="div-gpt-ad-1478559205531-0" class="hidden-xs hidden-sm" style="height: 90px; width: 728px; margin-bottom: 10px;">
+							<script type="text/javascript">
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478559205531-0'); });
+							</script><div style="border: 0pt none;" id="google_ads_iframe_/4140/Dice/job_tools_0__container__"><iframe srcdoc="" style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0" scrolling="no" name="google_ads_iframe_/4140/Dice/job_tools_0" title="3rd party ad content" id="google_ads_iframe_/4140/Dice/job_tools_0" frameborder="0" height="90" width="728"></iframe></div>
+						</div>
+<!--                         <div id='div-gpt-ad-136689231299775354-1'>
+                            <script type='text/javascript'>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-136689231299775354-1'); });
+                            </script>
+                        </div> -->
+                        <!-- End AdSlot 1 -->
+
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Santa Monica, CA" id="estJLoc" type="hidden"><input value="JavaScript Data Collecting, Operations Engineer" id="estSkillText" type="hidden"><input value="JavaScript Data Collecting, Operations Engineer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				JavaScript Data Collecting, Operations Engineer
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">open</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><strong><em>JavaScript Data Collecting, Operations Engineer</em></strong></p>
+<p> </p>
+<p>You will be responsible for Backend Data, DevOps, and Development operation for IoT consumer products. </p>
+<p>You will be responsible for monitoring, analysis and data gathering for backend systems.</p>
+<p>You will architect and deliver solutions for backend development and operations.</p>
+<p> </p>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li>Data side – you will get data from the device and mobile app usage. You will aggregate data, create filters, know how to parse and analyze the data and come up with results.</li>
+<li>Experience in deep learning, algorithms, analyzing the data.</li>
+<li>Filter out data collection, and branched off.</li>
+<li>DevOps side – on a part-time basis you will monitor all the alarms, thresholds on what’s happening with the servers, if something goes wrong must be able to go in the back end and see what is happening.</li>
+<li>Know how to set up environments, know how to set up places where the data is coming from, we have different servers. We want to aggregate into one source, so will need to set up the environment.</li>
+</ul>
+<p> </p>
+<p><strong>MUST HAVE SKILLSETS:</strong></p>
+<ul>
+<li>2+ years in Data Engineering, DevOps or equivalent</li>
+<li>JavaScript development frontend and backend</li>
+<li>Devops – AWS knowledge, mongo.DB is main DB the client is using. We set up everything with Docker Containers.</li>
+<li>Linux experience</li>
+</ul>
+<p> </p>
+<p><strong>DESIRED SKILLSETS:</strong></p>
+<ul>
+<li>Frontend tools experience (Elastic Search and Kibana) to analyze parts</li>
+<li>AWS</li>
+<li>NodeJS</li>
+<li>Microservices</li>
+<li>Docker Containers</li>
+<li>IoT and Consumer Electronics</li>
+</ul>
+<p> </p>
+<p><strong>Type:</strong> Fulltime or Contract-to-Hire</p>
+<p><strong>Location:</strong> Santa Monica, CA</p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">Tony Do</h4>
+			
+			<p id="contact-location">
+				
+					1999 S. Bascom Avenue, Suite 800
+				
+				
+					
+						Campbell, CA, 95008
+					
+					
+					
+				
+			</p>
+			
+				
+				
+					<a data-original-title="Phone: 4085502800" id="contactTT" class="dice-btn-link" data-toggle="tooltip" data-placement="top" title="">Contact</a>
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>
