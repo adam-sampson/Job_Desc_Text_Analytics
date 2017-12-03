@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Gurgaon" id="estJLoc" type="hidden"><input value="Algorithms, Analysis, Analyst, Analytical Skills, Data Analysis, Database, Data Mining, Director, Excel, Filemaker, Management, MySQL, mysql, Oracle, PHP, Programming, Release, Research, SQL, Validation" id="estSkillText" type="hidden"><input value="IT Data Analytics Analyst - Gurgaon, Haryana" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Algorithms, Analysis, Analyst, Analytical Skills, Data Analysis, Database, Data Mining, Director, Excel, Filemaker, Management, MySQL, mysql, Oracle, PHP, Programming, Release, Research, SQL, Validation
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Full-time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Competitive</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br>Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that's improving the lives of millions. Here, innovation isn't about another gadget, it's about making health care data available wherever and whenever people need it, safely and reliably. There's no room for error. Join us and start doing your life's best work.(sm)<br><br>As an IT Data Analytics Analyst, you will provide advanced database tools to provide specialized data analysis. They organize, sort and filter data in order to distinguish patterns and recognize trends. They develop and maintain data preparation and validation routines to support data mining and have experience in creating complex data mining algorithms. They select, recommend and apply appropriate analytic and statistical methodologies and techniques to execute against an analysis plan or research objectives.<br><br><b><br><b>Primary Responsibilities:</b></b><br><br>Report to the IT Director<br><br>Assess and interpret business partner's and customer's reporting needs and requirements<br><br>Investigate non-standard requests and problems<br><br>Design and implement scalable analytical methodologies and report solutions<br><br>Query data sources to support their initiatives<br><br>Scrub and monitor data to make sure that it meets legal requirements<br><br>Maintain, monitor, and execute against the data transfer schedule and goals<br><br>Use pertinent data and facts to identify and solve a range of problems relative to HIPAA, ARRA, and data release<br><br>Provide explanations and briefings to colleagues on topics related to analytics and data transfers<br><br><b><br><b>Required Qualifications:</b></b><br><br>Associate's Degree or higher level of education or equivalent experience<br><br>3+ years experience with relational database management systems (e.g.. Access, SQL or Oracle, FileMaker Pro 9)<br><br>3+ years experience performing data analytics and reporting<br><br>3+ years Advanced level of proficiency with MS Excel<br><br>Strong problem solving and analytical skills<br><br><b>Willing to work in 2:</b>30 PM shift<br><br><b><br><b>Preferred Qualifications:</b></b><br><br>Experience with object-oriented programming systems<br><br>Proficiency with MySQL/PHP<br><br>Knowledge of data release precautions and HIPAA regulations<br><br>Technology Careers with Optum. Information and technology have amazing power to transform the health care industry and improve people's lives. This is where it's happening. This is where you'll help solve the problems that have never been solved. We're freeing information so it can be used safely and securely wherever it's needed. We're creating the very best ideas that can most easily be put into action to help our clients improve the quality of care and lower costs for millions. This is where the best and the brightest work together to make positive change a reality. This is the place to do your life's best work.(sm)<br><br><b>Job Keywords:</b> IT Data Analytics Analyst, Data Analytics, Analyst, Relational Database Management Systems, Relational Database, SQL, MS Excel, Gurgaon, Haryana<br><br><br><b>Job Title: </b> IT Data Analytics Analyst - Gurgaon, Haryana <br><b>Shift: </b> Day Job <br><b>Travel: </b> No <br><b>Business: </b> Optum Global Solutions <br><b>Family: </b> Information Technology <br><b>Telecommuter Position: </b> No <br><b>Overtime Status: </b> Exempt <br><b>City: </b> Gurgaon <br><b>State: </b> HR <br><b>Country: </b> India <br><b>Department: </b> OGS Operations
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+			<p id="contact-location">
+				
+					P.O. Box 1459
+				
+				
+					
+						Minneapolis, MN, 55440
+					
+					
+					
+				
+			</p>
+			
+				
+				
+					<a data-original-title="Phone: (800) 328-5979" id="contactTT" class="dice-btn-link" data-toggle="tooltip" data-placement="top" title="">Contact</a>
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							We have modest goals: Improve the lives of others. Change the landscape of health care forever. Leave the world a better place than we found it. Such aspirations tend to attract a certain type of person. Crazy talented. Compassionate. Driven. To these individuals, we offer the global reach, resources and can-do culture of a Fortune 14 company. We provide an environment where you’re empowered to be your best. We encourage you to take risks and in return, offer a world of rewards and benefits for performance. Exceeding your limits is an exceptional start to your life's best work.(SM) Just like you, we are driven by a set of fundamental principles that are guiding our way forward. Our values of integrity, compassion, relationships, innovation, and performance serve as a foundation to transform health care. Are you in? Learn more about your future at UnitedHealth Group at http://careers.unitedhealthgroup.com
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/7iNvN3d3HNA" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+				</div>
+</body></html>

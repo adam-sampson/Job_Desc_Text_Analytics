@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Salt Lake City, UT" id="estJLoc" type="hidden"><input value="Analysis, Data Analysis, Data Mining, Excel, HTTP, Matlab, Modeling, Object Oriented Programming, Programming, Protocols, SQL, Statistical Analysis" id="estSkillText" type="hidden"><input value="Data Scientist 4" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Analysis, Data Analysis, Data Mining, Excel, HTTP, Matlab, Modeling, Object Oriented Programming, Programming, Protocols, SQL, Statistical Analysis
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Competitive</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br>Northrop Grumman offers a challenging career opportunity in our Software Engineering team within the Mission Systems sector at our Salt Lake City, UT facility. Working in Northrop Grumman Mission Systems means making a direct contribution to mission projects that keep our homeland safe, expanding the boundaries of possibility and reshaping the world we live in. We are seeking a Data Scientist 4 to join our team of qualified, diverse individuals. The Data Scientist creates data mining architectures/protocols, statistical reporting, and data analysis methodologies to identify trends in large data sets. Uses machine learning to create predictive models to forecast complex behaviors. Analysis may have many applications such as to address a business issue or provide a competitive advantage for the organization. Requires strong statistical and data visualization skills. Additional responsibilities include:  <br><br><br>* Develops, implements and maintains the site's variability reduction.  <br><br><br>* Continuous improvement and problem solving strategies including SPC (Statistical Process Control), PQI (Process Quality Indicators) and 6 Sigma.  <br><br><br>* Develops, implements and maintains the site's data analytics strategy including software tools, training, data mapping, leveraging data sources and resource plans.  <br><br><br>* Site wide resource for statistical analysis, data mining, predictive modeling, SPC and DOE (Design of Experiments) execution.  <br><br><br>* Represents manufacturing requirements for data analytics at the sector level and maintains a close rapport with IT and InfoSec.  <br><br><b>Qualifications  </b><br><br><b>Basic Qualifications:  </b><br><br><br>* Bachelor's degree in a STEM related field and 9 years minimum experience in an engineering/technical capacity.  <br><br><br>* Proven statistical analysis skills and design of experiment (DOE) experience.  <br><br><br>* SQL based data mining experience beyond Access or Excel and familiarity with data analytics software/tools.  <br><br><br>* Ability to represent data in a visual format that is meaningful and concise.  <br><br><br>* Strong technical leadership and communication skills.  <br><br><b>Preferred Qualifications:  </b><br><br><br>* Green belt in Six Sigma with a black belt preferred.  <br><br><br>* Object oriented programming experience/familiarity.  <br><br><br>* Passionate about data mining and the quality of the outputs from data mining activity.  <br><br><br>* Familiarity with R statistical programming, MATLAB experience (Classification Learner, Neural Network and Machine Learning kits). Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.  <br><img alt="" src="http://bs.serving-sys.com/serving/adServer.bs?cn=display&amp;c=19&amp;mc=imp&amp;pli=20163330&amp;PluID=0&amp;ord=%5Btimestamp%5D&amp;rtu=-1" border="0"><br><br><b>Shift:  </b> 1st Shift  <br><b>Relocation Assistance:  </b> Yes  <br><b>US Citizenship Required for this Position:  </b> No relocation assistance available  <br><b>Business Sector:  </b> United States-Utah-Salt Lake City  <br><b>Clearance:  </b> Secret  <br><br><b>Shift: </b> 1st Shift <br><b>Relocation Assistance: </b> Yes <br><b>US Citizenship Required for this Position: </b> No relocation assistance available <br><b>Business Sector: </b> United States-Utah-Salt Lake City <br><b>Clearance: </b> Secret <br><b>Clearance: </b> Secret
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Northrop Grumman is a leading global security company providing innovative systems, products and solutions in unmanned systems, cyber, C4ISR, and logistics and modernization to government and commercial customers worldwide. We hold ourselves to a higher standard, both in the products we deliver and in the way we conduct ourselves throughout the entire customer experience. Because, after all, we are in the business of securing a great deal more than just our place in the market. Our mission is to be at the forefront of technology and innovation, delivering superior capability in tandem with maximized cost efficiencies. The security solutions we provide help secure freedoms for our nation as well as those of our allies. Squarely meeting our obligations, fiscally and technologically, isn't just a business goal, but a moral imperative. To that end, as we evolve as a company, the responsibility we feel for our country and the citizens and troops we help support grows with us.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/yK7uumw2WKw?list=PL0C92BBC4E597B440" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/NorthropGrumman/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

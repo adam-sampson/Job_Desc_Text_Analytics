@@ -17,7 +17,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   
   remDr$open()
   
-  remDr$navigate("www.google.com")
+  remDr$navigate("http://www.google.com")
 
 ## Search job by keyword
   # searchTerm <- "data"
@@ -55,7 +55,10 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   
 # create a function to scrape an actual job posting on the current page
   getDiceIdPostingID <- function() {
-    temp <- remDr$findElement('xpath',"//div[@class=\"company-header-info\"]")
+    try(temp <- remDr$findElement('xpath',"//div[@class=\"company-header-info\"]"))
+    if(exists("temp",inherits = FALSE) == FALSE) {
+      return(NULL)
+    }
     temp <- temp$getElementText()
     temp2 <- str_extract_all(temp,"(:\\s[\\w-]+)+")
     temp2 <- paste0(temp2[[1]][1],temp2[[1]][2])
@@ -68,12 +71,17 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
   scrapeJobPosting <- function() {
     jobID <- getDiceIdPostingID()
     print(paste("CompanyDiceID_CompanyJobID:",jobID))
+    if(exists("jobID",inherits = FALSE) == FALSE) {
+      print("JobID not found, exiting.")
+      return(NULL)
+    }
     
     # The part of the page with the actual job info is at xpath: 
     # //*[@id="bd"]/div[2]/div[1]/div[5]/div
     # //div[@class="col-md-9"]/div[@class="row"]
     try(jobText <- remDr$findElement('xpath',"//div[@class=\"col-md-8\"]"))
     if(exists("jobText",inherits = FALSE) == FALSE) {
+      print("col-md-8 not found, trying 9.")
       try(jobText <- remDr$findElement('xpath',"//div[@class=\"col-md-9\"]"))
     }
     if(exists("jobText",inherits = FALSE) == FALSE) {
@@ -96,6 +104,7 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
 # Create a function to scrape all the job links on a single search page
   scrapeOnePageListOfJobLinks <- function(urlList) {
     for(url in urlList) {
+      remDr$navigate("https://www.google.com")
       print(url)
       remDr$navigate(url)
       randDelay(6,13)
@@ -103,16 +112,18 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
       
       print("On page, beginning to scrape.")
       scrapeJobPosting()
+      print("Moving to next URL")
     }
   }
   
   # scrapeOnePageListOfJobLinks(urlList = jobUrlList)  
   
 # Create a function to move to scrape from page to page
-  scrapeAllDice <- function() {
+  scrapeAllDice <- function(startPage,stopPage) {
+    remDr$navigate("https://www.google.com")
     searchTerm <- "data"
     write(paste0("Beginning scraping of Dice at: ",Sys.time()),file="log.txt",append = TRUE)
-    for(searchPage in 1:5) {
+    for(searchPage in startPage:stopPage) {
       print(paste("Scraping page:",searchPage))
       write(paste0("Scraping Dice Page: ",searchPage),file="log.txt",append = TRUE)
       searchURL <- paste0("https://www.dice.com/jobs/q-data-startPage-",searchPage,"-jobs?q=",searchTerm)
@@ -132,5 +143,5 @@ setwd(paste0(getwd(),"/webscraping/Dice_job_scraping/files/"))
     }
   }
 
-  scrapeAllDice()  
+  scrapeAllDice(startPage = 3, stopPage = 50)  
   

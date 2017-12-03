@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Mclean, VA" id="estJLoc" type="hidden"><input value="Algorithms, Analysis, Data Analysis, Data Mining, Development, Hadoop, HTTP, Java, Management, Matlab, Modeling, Programming, Project, Protocols, Python, Research, SAS, SQL, Statistical Analysis" id="estSkillText" type="hidden"><input value="Data Scientist 3" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Algorithms, Analysis, Data Analysis, Data Mining, Development, Hadoop, HTTP, Java, Management, Matlab, Modeling, Programming, Project, Protocols, Python, Research, SAS, SQL, Statistical Analysis
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Competitive</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br>Northrop Grumman Mission Systems is looking for a talented data scientist to join our Data Analytics and Cognitive Autonomy operating unit. This position provides the opportunity to discover emerging technologies and apply innovative approaches for data mining, predictive modeling, and user visualizations. The work will emphasize the processing of human behavioral and neurophysiological data. The individual is expected to possess a variety of skills in programming languages and statistical analysis techniques coupled with an intuitive nature to drive data-driven insight for optimizing human-machine systems. The ideal candidate has a passion for data analytics and a creative aptitude for developing scalable and adaptable solutions in a collaborative multi-functional environment. By applying predictive modeling, design of experiments, data integration, and optimization techniques, the individual will elevate informed decision making for the resolution of product, process, and system challenges. Responsibilities:  <br><br><br>* Lead the development of predictive models for actionable insight  <br><br><br>* Create data mining architectures/models/protocols, statistical reporting, and data analysis methodologies to identify trends in large data sets  <br><br><br>* Research, evaluate, and determine the best fit of tools and techniques  <br><br><br>* Conduct data analysis, data integration, and data management  <br><br><br>* Enhance, scale, and automate analytics capabilities, models, and visualizations  <br><br><br>* Collaborate with external functional organizations for process, data, and system understanding  <br><br><br>* Communicate project status and findings to various levels of leadership  <br><br><b>Qualifications  </b><br><br><b>Basic Qualifications:  </b><br><br><br>* BS in Statistics/Mathematics, Data Science, Electrical Engineering, Computer Science, or Engineering related discipline  <br><br><br>* 5+ years of relevant experience in analytics with BS, 3+ Years with Masters  <br><br><br>* Strong data management, data mining, algorithms and analytical abilities  <br><br><br>* Proficiency in programming languages such as Python, R, C++, Java  <br><br><br>* A flexible analytic approach that allows for results at varying levels of precision  <br><br><b>Preferred Qualifications:  </b><br><br><br>Masters degree is preferred  <br><br><br>* Experience with Hadoop, SQL and building multi-dimensional models  <br><br><br>* Proficiency in analytical modeling and statistical tools such as Matlab, SAS, SPSS, R project  <br><br><br>* Ability to provide solutions to a variety of technical problems of increasing scope and complexity as assigned  <br><br><br>* Excellent communication and team player skill Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions. NGMSCIMS  <br><img alt="" src="http://bs.serving-sys.com/serving/adServer.bs?cn=display&amp;c=19&amp;mc=imp&amp;pli=20163330&amp;PluID=0&amp;ord=%5Btimestamp%5D&amp;rtu=-1" border="0"><br><br><b>Shift:  </b> 1st Shift  <br><b>Relocation Assistance:  </b> Yes  <br><b>US Citizenship Required for this Position:  </b> No relocation assistance available  <br><b>Business Sector:  </b> United States-Virginia-McLean  <br><b>Clearance:  </b> None  <br><br><b>Shift: </b> 1st Shift <br><b>Relocation Assistance: </b> Yes <br><b>US Citizenship Required for this Position: </b> No relocation assistance available <br><b>Business Sector: </b> United States-Virginia-McLean <br><b>Clearance: </b> None <br><b>Clearance: </b> None
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Northrop Grumman is a leading global security company providing innovative systems, products and solutions in unmanned systems, cyber, C4ISR, and logistics and modernization to government and commercial customers worldwide. We hold ourselves to a higher standard, both in the products we deliver and in the way we conduct ourselves throughout the entire customer experience. Because, after all, we are in the business of securing a great deal more than just our place in the market. Our mission is to be at the forefront of technology and innovation, delivering superior capability in tandem with maximized cost efficiencies. The security solutions we provide help secure freedoms for our nation as well as those of our allies. Squarely meeting our obligations, fiscally and technologically, isn't just a business goal, but a moral imperative. To that end, as we evolve as a company, the responsibility we feel for our country and the citizens and troops we help support grows with us.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/yK7uumw2WKw?list=PL0C92BBC4E597B440" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/NorthropGrumman/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>
