@@ -9,7 +9,7 @@ library(RSQLite)
 library(dplyr)
 library(dbplyr)
 # library(data.table)
-library(stringr)
+library(stringi)
 library(readr)
 
 projectDir <- getwd()
@@ -55,6 +55,27 @@ addTxtFilesToTable <- function() {
 }
 
 # addTxtFilesToTable()
+
+addWalmartCsVToTable <- function() {
+  setwd(projectDir)
+  setwd("./webscraping/Walmart/")
+  walmart.df <- read_csv("Jobs.csv")
+  walmart.df <- data.frame(id = walmart.df$ID.Title, text = paste(walmart.df$job_total, walmart.df$joboverviewoverview_total))
+  
+  #remove tabs and spaces from id column
+  walmart.df$id <- str_replace_all(walmart.df$id,"\\t","_")
+  walmart.df$id <- str_replace_all(walmart.df$id, " ","_")
+  
+  #remove non-text characters from the text column
+  walmart.df$text <- str_replace_all(walmart.df$text,"\\t"," ")
+  walmart.df$text <- str_replace_all(walmart.df$text,"<\uFFFD>"," ")
+  walmart.df$text <- str_replace_all(walmart.df$text, "\\s{2,}"," ")
+  
+  dbWriteTable(db.conn,"jobPlainText",walmart.df,temporary=FALSE,append=TRUE)
+  # return(walmart.df)
+}
+
+# addWalmartCsVToTable()
 
 loadTextDfFromSqLite <- function() {
   return(as.data.frame(select(plaintext.db,id,text)))
