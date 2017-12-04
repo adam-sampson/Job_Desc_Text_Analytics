@@ -47,11 +47,14 @@ projectDir <- getwd()
       # remove exra spaces
       temp <- str_replace_all(temp,"\\s{2,}"," ")
       
+      # remove broken xml fragments
+      temp <- str_replace_all(temp,"googletag.+-->","")
+      
       # save text only file in txt directory
       fileName <- str_replace(ind.file, ".xml", "")
       fileName <- paste0(fileName,".txt")
       
-      write_file(temp,path = paste0("./txt/",fileName))
+      write_file(temp,path = paste0("./txt/",fileName),append=FALSE)
     }
   }
     

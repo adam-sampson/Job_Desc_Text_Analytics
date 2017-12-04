@@ -38,7 +38,7 @@ addTxtFilesToTable <- function() {
     setwd(ind.dir)
     
     fileList <- list.files(pattern=".+txt$")
-    print(paste(length(fileList),"txt files detected in:",fileDir))
+    print(paste(length(fileList),"txt files detected in:",ind.dir))
       
     for(ind.file in fileList) {
       fileName <- str_replace(ind.file,".txt","")
