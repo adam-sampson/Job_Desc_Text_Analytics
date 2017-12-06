@@ -14,8 +14,8 @@ library(tm)
 library(class)
 
 ##  Saves the pathname for the data set folders
-#pathcommon <- "C:/Users/natha/Documents/Bellarmine Advanced Analytics/2017-3 Fall Term Group Project/Job_Desc_Text_Analytics/webscraping/"
-pathcommon <- "H:/New folder/Term Project/webscraping"
+pathcommon <- "C:/Users/natha/Documents/Bellarmine Advanced Analytics/2017-3 Fall Term Group Project/Job_Desc_Text_Analytics/webscraping/"
+#pathcommon <- "H:/New folder/Term Project/webscraping"
 
 ##########################################################################################################
 ################  Apple      #############################################################################
@@ -114,7 +114,7 @@ humana_df <- as.data.frame(list.files(path=pathname), stringsAsFactors = FALSE)
 colnames(humana_df) <- "filename"
 humana_df$file <- pathname
 humana_df$filepath <- paste(humana_df$file, humana_df$filename, sep = "/")
-humana_df <- humana_df[-c(80,163),]
+humana_df <- humana_df[-c(80,88,163),]
 
 ##  Extracts the Job ID and creates the jobid column
 humana_df$jobid <- sapply(seq(humana_df$filepath), function(i){
@@ -159,7 +159,7 @@ humana.db$company <- "Humana"
 ##########################################################################################################
 
 ##  Code chunk that creates the file path name for each company ####
-company <- "Dice_job_scraping"
+company <- "Dice_job_scraping/files"
 pathname <- paste(pathcommon, company, sep = "/", collapse = "")
 dice_df <- as.data.frame(list.files(path=pathname), stringsAsFactors = FALSE)
 colnames(dice_df) <- "filename"
