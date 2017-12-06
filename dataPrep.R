@@ -12,4 +12,6 @@ library(stringr)
   
   # create a list of common tools, processes, experience, education, etc
   specificCritereon <- c("R","SQL","Tableau")
+
+  specificCriterion <- c("Tools", "Skills", "Education", "Education_Courses", "Soft Skills", "Experience")
   
