@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(wordcloud)
 library(cluster)
+library(tm)
 
 source("sqLite.R")
 
