@@ -209,7 +209,7 @@ walmart_df$jobtitle <- gsub("midway tn\"", "", walmart_df$jobtitle)
 walmart_df$jobtitle <- gsub("buckeye az\"", "", walmart_df$jobtitle)
 walmart_df$jobtitle <- gsub("carlsbad ca\"", "", walmart_df$jobtitle)
 walmart_df$jobtitle <- gsub(" \"", "", walmart_df$jobtitle)
-walmart_df$jobdesc <- paste(walmart_df$job_total, walmart_df$joboverviewoverview_total, collapse = '')
+walmart_df$jobdesc <- paste(walmart_df$job_total, walmart_df$joboverviewoverview_total)
 
 ##  Creates a new data frame with only the jobid, jobtitle, and jobdesc columns
 walmart.db <- walmart_df[,c(4:6)]
