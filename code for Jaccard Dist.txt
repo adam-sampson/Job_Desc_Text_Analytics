@@ -1,0 +1,3 @@
+library(vegan)
+data()
+vare.dist <- vegdist(x, method = "jaccard")
