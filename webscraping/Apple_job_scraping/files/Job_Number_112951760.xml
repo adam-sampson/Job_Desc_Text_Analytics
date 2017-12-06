@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112951760">Audio System QA Engineer - Apple (Beats By Dre)</h2>
+<ul class="sosumi">
+<li>Job Number: 112951760</li>
+<li title="Culver City, California, United States">Culver City, California, United States</li>
+<li>Posted: Aug. 26, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple is looking for an Audio System QA Engineer who is passionate about testing audio products. You will be involved in designing, developing, maintaining, and extending test frameworks across a range of Beats/Apple wireless audio products</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>2+ years of testing/QA engineering experience (Preferably in audio consumer end products)</li>
+<li>Experience with recording, analyzing and debugging audio issues objectively and subjectively (issues like distortion, pops/clicks and other audio artifacts)</li>
+<li>Experience with audio analyzer tools like Audio Precision (APx500) and Audacity is a big plus</li>
+<li>Understanding of Audio quality metrics like MOS and PEAQ is a big plus</li>
+<li>Understanding of FR curves, bluetooth profiles, sampling rate, bit rate and Bluetooth audio codecs (AAC, AAC-ELD, SBC, mSBC, CVSD) is a big plus</li>
+<li>Experience testing Bluetooth and/or WiFi audio products is a big plus</li>
+<li>Experience writing test plans and execution of tests over the development life cycle of the product</li>
+<li>Understanding of regression testing, sanity, functional, end to end testing, interoperability</li>
+<li>Experience testing active noise cancellation on a product is a plus  </li>
+<li>Experience with filing bugs using bug tracking tools like JIRA is a plus </li>
+<li>Experience with tools like Bluetooth sniffers (Ellisys or Frontline) and/or WiFi sniffer (Omnipeek or Wireshark) is a plus</li>
+<li>Familiarity with hardware and software interaction of embedded systems</li>
+<li>Understanding of system block diagrams and system level testing</li>
+<li>Basic understanding of SDLC (system).</li>
+<li>Automation experience using Python is a plus</li>
+<li>Proven ability to learn quickly and adapt to new technologies</li>
+<li>Ability to efficiently communicate findings and ideas to team members</li>
+<li>Ability to effectively contribute in a fast-paced, cross-functional environment</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Developing and executing system level test plans for all audio features on multiple projects
+
+Evaluating existing test tools/setups for improvement and building new audio test setups/fixtures.
+
+Reviewing existing test coverage and proactively identifying areas for improvement 
+
+Developing tests for new audio features and executing audio test plans covering all audio features through out the development life cycle of the product 
+
+Validating bug fixes and performing regression testing on new FW and HW builds.
+
+Collecting, analyzing and presenting test data to cross-functional teams and business stakeholders
+
+Providing constructive feedback for testability and suitable solutions relying on data to justify technical decisions</p>
+<h3>Education</h3>
+<p class="preline">Prefer a B.S. in Electrical Engineering, Computer Engineering, or Computer Science.</p>
+</div></body></html>

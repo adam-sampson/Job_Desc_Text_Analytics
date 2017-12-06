@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) --><html><body>
+<div class="top-ad hidden-xs" id="topad1">
+                    
+                </div>
+				<!-- job description section start-->
+
+				
+
+
+
+
+<input value="Jersey City, NJ" id="estJLoc" type="hidden"><input value="ETL OLTP SSIS SQL" id="estSkillText" type="hidden"><input value="Data Warehousing Developer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				ETL OLTP SSIS SQL
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">competitive salary</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><strong>Position Summary:</strong></p>
+<p>Are you passionate about transforming and engineering data in most effective way and does creating innovative data management and reporting solutions excite you? Are you looking for an opportunity where you can both practice your technical trade while adding to your leadership, consulting and delivery experience to turn a career corner? If you've got technical chops, consulting skills and are a passionate data engineer, please read on...</p>
+<p><strong> Responsibilities:</strong></p>
+<ul>
+<li>Responsible for maintenance, improvement, cleaning, and loading data into data warehouses, analytics data stores for reporting and BI solutions, advanced analytics platforms</li>
+<li>Responsible for integration of data from data warehouse and big data platform into Data Lake or Modern Data Platform</li>
+<li>Maintenance of meta data, data policies and business data definition and publish them for internal and external stakeholders</li>
+<li>Work closely with BI technology vendors for performing <em>proof of concept</em> (POC)of new data ingestion and transformation tools for recommending new tools and technologies for internal and external stakeholders</li>
+<li>Implement data transformation and integration rules based on industrial best practice and help developing corporate strategy in those practice</li>
+<li>Work closely with Data Modeler and DBA team for implementing data validations and data quality standards in to the data warehouse</li>
+<li>Document data sources on client projects and perform gap analysis to identify inflow of bad data into data warehouse and develop data quality recommendations and solutions</li>
+<li>Responsible for assessing data quality gaps for P&amp;C Insurance clients and develop industry best practices and solutions for business problems for internal and external stakeholders</li>
+</ul>
+<p> </p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>5+ years of experience in data transformation and data integration practice in SSIS data integration tool</li>
+<li>Hands on experience in developing ETL scripts for loading data into star and snowflake schema</li>
+<li>Hands on experience developing ETL scripts for loading data in OLTP databases in 3N form</li>
+<li>2+ years of hands on experience in Insurance Data model and/or BDW and able to create/maintain/coordinate with metadata and data validation rules with project stakeholders</li>
+<li>Data Mapping hands on expertise, able to understand business requirement and derive data conversion rules for implementing into ETL scripts</li>
+<li>Expertise in any of the tools preferable any two of SSIS, IBM InfoSphere DataStage, Informatica PowerCenter (SSIS most preferred)</li>
+<li>Understanding of Business Intelligence tools such as Tableau, Tibco Spotfire and able to summarize and consolidate the dimensions and measures for reporting</li>
+<li>Strong SQL is a must and previous experience in any of the database preferably SQL Server</li>
+<li>Able to learn new data integration tools such as Pentaho Data Integration, Hive, Spark-SQL for ingesting data into Data Lake</li>
+<li>Knowledge and/or experience in the P&amp;C industry is highly desired – along with at least one functional area relevant to these clients – new business, agency, policy system, actuarial, claims and loss, Stat plan reporting</li>
+<li>Thorough understanding of data warehouse architectures and data models for P&amp;C insurance company</li>
+<li>Good team player</li>
+<li>Strong project management skills and attention to detail</li>
+<li>Excellent communication skills, both written and verbal</li>
+</ul>
+<p> </p>
+<p>We are offering an excellent compensation package. Our competitive benefits package includes full health care options, a 401(k) plan, and generous Paid-Time-Off.</p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+
+				<!-- job description section end-->
+</body></html>

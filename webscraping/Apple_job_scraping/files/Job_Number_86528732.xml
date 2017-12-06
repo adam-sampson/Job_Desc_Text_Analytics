@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-86528732">SoC Power and Thermal Modeling</h2>
+<ul class="sosumi">
+<li>Job Number: 86528732</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jul. 25, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The SoC hardware development team is looking for a motivated candidate to work on thermal and power modeling of SoC. The role is to be engaged with the Design, Power Modeling and Lab Teams to model power and temperature and correlate the models to HW data.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate should possess the following qualities:</li>
+<li>Understanding of SoC power modeling. </li>
+<li>Understanding of thermal properties of silicon, package and system.</li>
+<li>Skills in scripting, programming and numerical methods.</li>
+<li>Understanding of SoC IP and interfaces.</li>
+<li>Extensive background in EE.</li>
+<li>Strong teamwork and interpersonal skills.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">As a member of the SoC Power Team, in addition to thermal modeling, you will be involved in power modeling and HW/model correlation efforts of mobile SoC design. 
+The responsibilities include:
+•SOC thermal modeling for synthetic workloads and product-level use cases.
+•SOC power dissipation modeling, with particular focus on temperature effects.
+•Modeling of the interaction between power and thermal management systems.
+•Developing models predicting the thermal behavior based of wafer screen measurements.
+•Working with the lab team to setup tests for hardware - model correlation of power and temperature.
+</p>
+<h3>Education</h3>
+<p class="preline">BS/MSEE or PhD required. </p>
+</div></body></html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-83575089">Senior Principal Data Engineer  </h2>
+<ul class="sosumi">
+<li>Job Number: 83575089</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 12, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Siri Search team is creating groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every day.
+
+
+
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>You are highly experienced and battle tested, a lead or core contributor on storage or compute projects in the 100PB+ range.</li>
+<li>You are pragmatic, the architecture may be a blend of bespoke, open source and tools from other parts of Apple at similar scale.</li>
+<li>This is a hands-on position, expect to write more code than documentation</li>
+<li>You will take a key role in attracting talent and screening additional members of the project as it expands.</li>
+<li>Excellent communication skills, an ability to lead technical discussions and engage with downstream teams on their rewrites.</li>
+<li>You are excited by ambitious projects, and ready to tackle the next order of magnitude.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The mission of the Data Engineering Team at Siri Search is to store and protect Siri’s knowledge of Apple and the world.
+
+We gather search telemetry from a billion physical devices, we collect dozens of data sets from Apple, our global partners, and the Internet, and we bring all this data together into a single environment to enable the work of hundreds of talented engineers and data scientists, on the largest distributed compute clusters at Apple.
+We are seeking a small number of exceptional individuals to design and lead elements our next generation Exascale storage and compute architecture. </p>
+<h3>Education</h3>
+<p class="preline">Master's Degree in Computer Science or Computer Engineering, or equivalent work experience</p>
+</div></body></html>

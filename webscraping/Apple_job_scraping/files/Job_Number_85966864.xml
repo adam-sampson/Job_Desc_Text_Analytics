@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-85966864">Software Engineer, Natural Language Processing, Core Algorithms</h2>
+<ul class="sosumi">
+<li>Job Number: 85966864</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 28, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">If you believe you have the expertise in NLP to ship impactful features on iOS, watchOS and macOS, we have the job for you. Our team works on performant NLP on-device across all Apple platforms: autocorrection, predictive typing, multilingual typing, natural language search in Spotlight, smart replies, emoji prediction. Our team also provides fundamental NLP technologies such as tokenization (including Chinese and Japanese), language identification, part of speech tagging, named entity recognition, etc., on-device. As a member of the team, you will work on core NLP technologies with a focus on performance (low latency and disk footprint) and utilize a variety of machine learning techniques such as CRF, MaxEnt, neural networks (LSTMs, CNNs) to train and deploy models that power features on Apple platforms. We are looking for a resourceful NLP engineer that has deep expertise in computational linguistics and machine learning to drive and own projects in this space. </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong working knowledge of machine learning techniques (generative and discriminative models)</li>
+<li>Industrial experience applying machine learning techniques to NLP problems that involve large-scale data</li>
+<li>Experience with NLP problems such as language modeling, language identification, sentiment analysis, named entity recognition, lemmatization, summarization</li>
+<li>Programming experience with C++, Objective C or similar object oriented languages</li>
+<li>Strong communications skills</li>
+<li>Research experience in NLP is a plus (publications at ACL, EMNLP, Interspeech)</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Join the Natural Language Processing that is responsible for on-device text processing across all Apple platforms. As a member of the team you will work on the intersection of software engineering, natural language processing and machine learning. The ideal candidate will have experience in applying machine learning and statistical pattern recognition on large text corpora, as well as the use of natural-language processing in software, including design, implementation, algorithms, correctness, user experience, and performance.
+For more information about the work we do, watch our latest WWDC session:   <a class="bridgeLink" target="_blank" href="https://developer.apple.com/videos/play/wwdc2017/208/">https://developer.apple.com/videos/play/wwdc2017/208/</a></p>
+<h3>Education</h3>
+<p class="preline">MSc or PhD in Computer Science, Computational Linguistics or equivalent</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Ability to run experiments scientifically and analyze results
+Strong scripting experience in Python</p>
+</div></body></html>

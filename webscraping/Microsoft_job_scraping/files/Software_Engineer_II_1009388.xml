@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=17">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=6&amp;sort=&amp;rw=170&amp;jid=320460&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 171 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=6&amp;sort=&amp;rw=172&amp;jid=289127&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Software Engineer II</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>The Visual Studio Team Services (VSTS) group plays a strategic role to modernize software engineering.    We believe that data-driven collaboration sits at the core of this transformation, through a set of insightful experiences that enable faster, smarter and higher quality releases by software teams of all sizes. As a member of the Insights team you’ll help build our analytical and reporting experiences - think scalable, eventually consistent, cloud data platform, and visualization.    After all, the first step to enabling teams to improve velocity and quality will be to measure it, understand what drives it, and identify opportunities for change.    If you are customer focused, data-driven and want to have impact by shipping massively multi-tenant analytic services and experiences then this job and high performance team is for you!    <br></p>
+<p><br></p>
+<p>To be a successful engineer on the team, you will participate in and entire data-driven, devops, micro-service lifecycle, releasing changes as often as daily.    You should be excited to lead world-class engineering teams to use data to improve developer experience, improve velocity, and improve quality.    You should have experience in engineering or ALM decision support systems, data warehousing, large-scale enterprise engineering infrastructure, data mining and analysis, and shipping services in Azure. You should feel comfortable dealing with ambiguity, and confident about being able to apply your extensive engineering experience to make pragmatic choices about design, architecture, implementation, quality, and processes.    The solutions you help create will have a multiplier effect across all of Microsoft, and all VSTS customers.    VS Team Services provides software development teams with version control, build automation, project and bug management, social engineering experiences and more. We have a growing and enthusiastic user base of 3M users and counting. We have several roles available and we’re interesting in finding great people regardless of level.     <br></p>
+<p><br></p>
+<p>Basic Qualifications SDE 2:     <br></p>
+<p>•      Bachelor’s degree Computer Science, Engineering, Mathematics, or Physics     <br></p>
+<p>•      Minimum 2+ years of hands-on coding experience as a software engineer using: C / C++ / C# / Java, SQL     <br></p>
+<p>•      Track record of self-motivated results and good object-oriented design skills     <br></p>
+<p>•      Experience shipping high-volume services, Microsoft SQL Server, and/or modern, responsive web technologies is a plus     <br></p>
+<p>•      Familiarity with NoSQL-type platforms, cloud storage, big data analysis is a plus    <br></p>
+<p>•      Familiarity with industry and Microsoft ALM tools (version control, builds, etc...), and practices is a plus<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.<br></p>
+<p><br></p>
+<p>VSTS</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">272132</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1009388</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Development (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Cloud and enterprise</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

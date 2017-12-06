@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="New York, NY" id="estJLoc" type="hidden"><input value="Developer, Development, HTTP, JavaScript, Management, Programming, Python" id="estSkillText" type="hidden"><input value="Content / Data News Engineer - Python / JavaScript" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Developer, Development, HTTP, JavaScript, Management, Programming, Python
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><b>Job Requisition Number: </b>62626 <br><br><br><br><br>Bloomberg News is the predominant force in the business of serious financial market news. Our clients are financial market professionals and the decision makers of corporations and government. We quickly deliver market-moving news through the Bloomberg terminal on mobile, web and by downstream syndication.Our latest generation of news automation showcases the awesome potential of our real-time market data to react instantly to market events and break the news. <br><br><br><br><br>Do you want to be part of our growing team as we take on the challenge of algorithmically uncovering signals hidden in large sets of real-time data and getting the news out to our clients before the competition? If so, keep reading. <br><br><br><h3 id="what-s-in-it-for-you">What's in it for you: </h3>
+<br><br><br>You will be joining and adding value to a crucial area of Bloomberg News. The automations you build will generate real-time stories on the Bloomberg production news wires accessible to all of our clients. You will work with an excellent team of experienced journalists who are highly regarded within the financial market and technologists who are at the top of their game. <br><br><br><br><br>Not only will you use the best technologies and our latest generation automation platform, but you will help determine the future shape of the news product and develop new capabilities of the automation platform itself. You will gain exposure to the full spectrum of our financial and sentiment data, and help forge standards for a new way of breaking news. <br><br><br><br><h3 id="we-ll-trust-you-to">We'll trust you to: </h3>
+<br><br><br><ul>
+<li> Be responsible for writing programs and templates and configuring triggers that will generate real <br><br><br>stories in production <br><br>
+</li>
+<li> See your ideas through from start to finish <br>
+</li>
+<li> Develop strong working relationships with your counterparts in News and Engineering <br>
+</li>
+</ul>
+<br><br><br><h3 id="you-ll-need-to-have">You'll need to have: </h3>
+<br><br><br><ul>
+<li> Strong commercial experience programming in Python <br>
+</li>
+<li> Experience or education in Journalism (Ideal) <br>
+</li>
+<li> Good communication skills as you will be working closely with our journalists, business <br><br><br>management and software development team <br><br>
+</li>
+</ul>
+<br><br><br><h3 id="we-d-love-to-see">We'd love to see: </h3>
+<br><br><br><ul>
+<li> Experience programming in JavaScript <br>
+</li>
+<li> An appreciation for how data sets underpin the world's financial systems - if you don't know anything about finance, you'll pick it up by interacting with a world-class team of market experts <br>
+</li>
+<li> Experience with or an understanding of Statistics <br>
+</li>
+<li> An interest in understanding and detecting data patterns in large data sets <br>
+</li>
+</ul>
+<br><br><h3 id="if-this-sounds-like-you">If this sounds like you: </h3>
+<br><br><br>Please apply! We'll get in touch with you to let you know the next steps. <br><br><br><br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. <br><br><br><br><br>Check out our latest news stories at:  <a href="http://www.bloomberg.com" target="_blank">http://www.bloomberg.com </a>. <br><br><br><br><h3 id="you-can-also-watch-mike-bloomberg-describe-our-work-on-6-minutes-here">You can also watch Mike Bloomberg describe our work on 60 Minutes here: </h3>
+<br><br><a href="http://http://www.cbsnews.com/videos/bloomberg-on-when-a-computer-should-replace-a-journalis" target="_blank">http://http://www.cbsnews.com/videos/bloomberg-on-when-a-computer-should-replace-a-journalis </a>t <br><br><br><br><br><b>Date: </b> Wed, 11 10 2017 00:00:00 GMT <br><b>Department: </b> Software Developer/Engineering
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Bloomberg is a company dedicated to helping solve complex challenges through insight and information. Our strength quickly and accurately delivering data, news and analytics through technology is at the core of everything we do. With over 19,000 employees in 192 locations, we give influential decision makers in business, finance and government a competitive edge by connecting them to a dynamic network of news, people and ideas. To do so, we need constant energy and innovation which is where you come in. At Bloomberg, you will have the opportunity to take risks and be part of an organization that is entering new markets, launching new ventures and pushing the boundaries. Our ever-expanding technology, data, news and media services afford employees the opportunity to expand skills and connect with smart, driven colleagues from a diversity of backgrounds and ideas. We're looking for dynamic, multi-talented people who have a desire to thrive in a forward-thinking culture and a business with global impact. Are you ready to make your mark? Learn more about our businesses and opportunities at bloomberg.com/careers.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/2sINAO5mAqY?list=PLnZuxOufsXnubhqUe0Ev1rQnw5jUAnQsG" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Bloomberg/rectangle-401.jpg">
+</div>
+					
+				</div>
+</body></html>

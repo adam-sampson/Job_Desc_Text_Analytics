@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112932932">Siri Software Engineer - Knowledge Graph</h2>
+<ul class="sosumi">
+<li>Job Number: 112932932</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 27, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Siri Search team is creating groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every day.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Extensive systems programming experience in either Go, C/C++, or Java</li>
+<li>Knowledge of a scripting language like Ruby or Python is a plus</li>
+<li>Strong background in computer science: algorithms, data structures, concurrency, and distributed systems</li>
+<li>Excellent communication and collaborative skills</li>
+<li>Able to work as part of a small, focused team and give your best effort</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Excited about shipping products used by hundreds of millions of customers? Applying cutting-edge technologies to create services that just work? If so, this might just be the place for you. Come work in an environment that will challenge you to push your limits, and train you to succeed as part of a team. Candidates must be willing to take on demanding projects in the areas of semantic search, structured data, knowledge representation, and distributed architecture. Key to success will be the ability to deliver results, a passion for perfection, and a willingness to keep learning and improving oneself.
+</p>
+<h3>Education</h3>
+<p class="preline">Bachelor's or Master's degree in Computer Science or equivalent work experience</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Concurrency: multithreading, parallelism, event-driven networking, non-blocking IO, asynchronous programming, and race conditions
+Information Retrieval: searching, indexing, or experience with relevant software (such as Lucene or Solr)
+Semantic Search: RDF/OWL, microdata, linked data, ontologies, and natural language processing (NLP)
+Key Value Stores: Redis, Cassandra, HBase, Riak, or similar
+Distributed Data Processing: Spark, Hadoop MapReduce, Storm, Kafka, RabbitMQ
+</p>
+</div></body></html>

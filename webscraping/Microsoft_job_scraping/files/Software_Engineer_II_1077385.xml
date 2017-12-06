@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=20">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=7&amp;sort=&amp;rw=199&amp;jid=325094&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 200 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=8&amp;sort=&amp;rw=201&amp;jid=324225&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Software Engineer II</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Are you intrigued about the possibility of working on Windows Storage Technologies and related end user experiences within the Operating System? Are you interested in data analytics, analyzing and leveraging big data, defining business and product metrics, and deriving product insights across consumer and enterprise customer segments? <br></p>
+<p><br></p>
+<p>Come join the Windows Storage team that builds the platform and end user experiences around Storage across Windows devices and the Cloud.    The Storage team is responsible for providing users with the storage utilization and management pieces with end to end experiences built around it. Users expect Windows to be the best platform for cloud connected devices even when local storage is limited. <br></p>
+<p><br></p>
+<p>This spans managing space utilization with built-in apps like Storage Settings and other experiences in managing data locally and on the cloud. With devices proliferating, customers expect a better experience with connecting to Microsoft services and leveraging the Cloud for storage at Windows scale. The team will help assess the health of these experiences from development to in-market.    The Storage platform adds to the rich extensibility model of Windows with ISVs adding storage drivers and file system filters along with the modern Storage API that is available for partners to build classic and modern apps. The reliability and health of this ecosystem plays an important role in how Customers perceive overall Windows quality. It thus provides a wonderful opportunity to partner with external ISVs and constantly manage and assess ecosystem health.    <br></p>
+<p><br></p>
+<p>We invest heavily in telemetry, and you will be responsible for the entire data pipeline, from instrumenting our product code, to mining big data smartly. You will be responsible for defining the metrics and measures of product success. You will code and implement trouble shooters that ship in the box, deeply understand our platform, instrumenting them, and then ultimately deriving a plethora of insights that in turn will directly help shape what gets built in iterative cycles. Your work will directly help gauge product quality in the brave new world of Windows as a service, validate and inform design choices, in understanding how our customers use and deploy our solutions and help shape our future product investments.    <br></p>
+<p><br></p>
+<p>Role:    <br></p>
+<p>• Design and Develop Telemetry in the product code to understand where the product is meeting/exceeding/falling short of customer expectations     <br></p>
+<p>• Create software to process the incoming telemetry data, visualize usage and identify problems     Understand key consumer pain-points, design, implement and ship trouble shooters that help identify and resolve product issues     <br></p>
+<p>• Be the Voice of the Customer in product definition, design and development     Analyze telemetry data to help shape the product as we continuously enable new capabilities in Windows     <br></p>
+<p>• Assess in-market and in-development product health through a gamut of listening systems     <br></p>
+<p><br></p>
+<p>Basic Qualifications: <br></p>
+<p>• 3+ years of Software development or design experience.<br></p>
+<p><br></p>
+<p>Skills desired:     <br></p>
+<p>• Experience with Data Analytics, Big Data, and Telemetry towards providing deeper understanding of End to End Customer Experiences     <br></p>
+<p>• Solid interpersonal skills with a strong desire to work in a collaborative environment on a fast paced team     <br></p>
+<p>• Motivation, Passion and Drive to build high quality products that delight our customers <br></p>
+<p>• MS/BS in Computer Science or a related discipline is preferred<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">324970</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1077385</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Testing (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Windows and Devices Group</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

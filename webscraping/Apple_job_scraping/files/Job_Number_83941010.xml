@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-83941010">Sr. Electrical Engineer (FPGA Design)</h2>
+<ul class="sosumi">
+<li>Job Number: 83941010</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jun. 24, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Apple Engineering Team is looking for an energetic, creative, and self driven FPGA Design engineer with strong Electrical Engineering background to work on future Display hardware technologies.  The candidate will work in a collaborative, exciting environment to integrate new technologies into Apple’s products.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>[+] Strong Analytical aptitude and meticulous attention to detail.</li>
+<li>[+] Must be self-motivated in order to achieve assigned objectives with minimal supervision.</li>
+<li>[+] Min. 2 years of experience utilizing Xilinx Vivado Tool chain.</li>
+<li>[+] Min. 2 years of hands-on experience with FPGA architecture, design, coding, simulating, and debugging FPGA on actual HW.</li>
+<li>[+] Strong understanding how your HDL/RTL code will be synthesized into FPGA fabric. Code for performance!</li>
+<li>[+] Good Electrical Engineering (EE) knowledge on FPGA’s HW requirements - Terminations, Signal Integrity, DC Power supplies, Jitter specifications, IO planning etc.</li>
+<li>[+] Hands-on experience using ANY 7 series Xilinx FPGAs -  Artix-7, Kintex-7, Virtex-7, UltraScale, Zynq etc.</li>
+<li>[+] Built FPGA designs involving high-performance interfaces like DDR2/3/4, LVDS, DSPs, Ethernet, etc.</li>
+<li>[+] Experience using high-speed transceivers GTX/GTH/GTPs for interfaces like - MIPI, HDMI, DP, PCIE etc.</li>
+<li>[+] Experience using low-speed data/control interfaces like SPI, UART, I2C etc.</li>
+<li>[+] Experience using Microblaze and/or ARM based embedded processors.</li>
+<li>[+] Hands-on experience using Xilinx or 3rd party IP, as well as create own IP when needed.</li>
+<li>[+] Ability to translate SW algorithms in C/Perl/Python/Matlab into high performance HDL code.</li>
+<li>[+] Good knowledge of FPGA Clock Regions, Bank IO Constraints, Clocking resources - CMTs, PLLs, DLLs etc. </li>
+<li>[+] Understanding static timing analysis, and ability to fix timing issues.</li>
+<li>[+] Must have practical lab debugging skills to bring-up FPGA designs on actual PCBs using Oscilloscope, Protocol Analyzers.</li>
+<li>[+] Ability to work effectively in a cross-functional product development HW &amp; SW teams.</li>
+<li>[+] Ability to select FPGA Devices based on RTL resource estimation &amp; other HW system requirements from cross-functional teams.</li>
+<li>[+] Ability to work on multiple projects in parallel.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">[+] Demonstrate creativity in problem solving, ability to think out-of-box, and adapt quickly to new technical areas.
+[+] Promote innovation and new technology to further enhance Apple's display performance and user experience.
+[+] Create and give presentations before and after prototyping new ideas.
+[+] Work in a team environment and negotiate solutions with HW / SW Engineering and Systems Engineering.
+[+] Participate in all phases of the FPGA/EE design including requirements analysis and system architecture, RTL coding, module &amp; system level test bench design, simulation, synthesis, verification and bring-up.
+[+] Participate in HW design reviews, and help improve existing design.
+[+] Communicate and demonstrate prototypes to Cross-Functional Teams.
+[+] Mentor Junior colleagues when necessary.
+</p>
+<h3>Education</h3>
+<p class="preline">[+] MS in Electrical Engineering with 5+ years, or BS with 8+ years of relevant EE &amp; FPGA Design experience
+</p>
+<h3>Additional Requirements</h3>
+<p class="preline">[+] EE Component selection &amp; circuit design experience is a Plus.
+[+] EE Schematics &amp; Board Design/Layout experience is a Plus.
+[+] FW Development experience using C/C++ is a Plus.
+[+] Scripting or Test Automation is a Plus.
+</p>
+</div></body></html>

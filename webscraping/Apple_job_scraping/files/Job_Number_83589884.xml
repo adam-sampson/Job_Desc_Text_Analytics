@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-83589884">Analog Mixed-Signal (AMS) Design</h2>
+<ul class="sosumi">
+<li>Job Number: 83589884</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jun. 10, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Design and productize Analog/Mixed-Signal circuits</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate should have the following qualifications or experience:</li>
+<li>•Typically requires at least 8 years of experience and should have demonstrated taking chips to production in the following areas:</li>
+<li>•Good knowledge of data converter architectures and understanding design tradeoffs.</li>
+<li>•Good knowledge of bandgaps, bias, opamps, switched-cap circuits, LDOs, low power oscillators, PLLs, feedback and compensation techniques.</li>
+<li>•Design for ESD compliance.</li>
+<li>•Good knowledge of mixed-signal design techniques.</li>
+<li>•Good knowledge of high precision techniques in presence of device mismatch.</li>
+<li>•Experience in C/Matlab/VerilogA modeling.</li>
+<li>•Strong device physics knowledge as it applies to analog IC design.</li>
+<li>•Hands-on experience in using spectrum analyzers, oscilloscopes, signal generators, etc. to validate analog designs.</li>
+<li>•Experience in working with production test engineers to produce test plans and design for testability details</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">•Transistor-level feasibility study for various Analog/Mixed-Signal circuit blocks.
+•Designing blocks and documenting design simulation and verification towards formal design reviews.
+•Drive mask design to implement layout views of designs and drive layout reviews.
+•Post-layout and top-level simulations to validate top-level integration.
+•Defining production and bench-level test plans.
+•Taking lab measurements to validate performance compliance with the spec.
+•Driving and reviewing yield/lab test results to drive bug fixes.
+</p>
+<h3>Education</h3>
+<p class="preline">MS, Preferred in EE</p>
+</div></body></html>

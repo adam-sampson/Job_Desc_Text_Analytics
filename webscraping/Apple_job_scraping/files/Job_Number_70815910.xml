@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-70815910">Frontend Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 70815910</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Nov. 3, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. A job at Apple is unlike any other you’ve had. You’ll be challenged. You’ll be inspired. And you’ll be proud. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Join Apple's Internet Services organization as a Frontend Engineer and help us build the tools that your fellow engineers rely on to manage over 85% of Apple’s infrastructure. We prefer candidates who have a strong background in sophisticated web applications and large scale internet services.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Able to write robust, reusable code that is easily understood and used by other members of the team </li>
+<li>Strong interest in visual and interaction design</li>
+<li>Excellent writer and communicator</li>
+<li>Fully cognizant of complexities around creating accessible web applications, and the value of doing so</li>
+<li>Solid understanding of CSS syntax, rule priority, and layout — especially flex box</li>
+<li>Experience using debugging tools to diagnose and resolve problems</li>
+<li>Experience with React or other modern web frameworks</li>
+<li>Experience setting up automated tests and builds</li>
+<li>Experience implementing HTTP API servers </li>
+<li>Experience building and publishing software for use by others outside your team (e.g. open source software)</li>
+<li>Comfortable with UNIX and the command line</li>
+<li>Experience with version control systems, especially Git</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Frontend Engineer for internal Apple engineering tools. Your job is to provide your fellow Apple engineers with internal tools that reflect the same level of UI/UX polish that external Apple customers currently expect.
+Help Apple’s rapidly growing Services business scale up iTunes, Apple Music, iCloud, Maps, The App Store, and much more. You’ll be part of a small team with a large impact, building the tools used to operate Apple’s largest Internet services. You’ll have the freedom to build applications with the methods you see fit, and the responsibility to help keep Apple systems reliable and Apple customer data secure.
+</p>
+<h3>Education</h3>
+<p class="preline">Bachelor’s degree in Computer Science, Mathematics, or EE, or relevant industry experience</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Minimum Qualifications 
+Several years of experience building sophisticated web applications in a team environment
+Practical experience with JavaScript component frameworks, build tools, and test frameworks
+Able to write robust, reusable components that are easily understood and used by other members of the dev team
+Knowledge of authentication schemes and a deep understanding of the principles of writing secure web applications 
+Experience working with designers, but fully capable of designing your own clean, functional UIs from scratch
+Excellent writer and communicator</p>
+</div></body></html>

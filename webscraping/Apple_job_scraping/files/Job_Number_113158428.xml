@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113158428">App Store, Software Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113158428</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 20, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple is looking for a brilliant self-starter to join the App Ingest team.  This is a hands-on engineering role on the team whose software validates and ingests apps to the App Store.  Very few teams have the breadth of involvement in Apple's product pipeline across the board as that exercised by this team. </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Expertise in Object Oriented Design and Programming</li>
+<li>Deep knowledge of Java or other object oriented language</li>
+<li>Hands-on experience with the following:</li>
+<li>Building application server components and services</li>
+<li>Designing and implementing REST services</li>
+<li>Relational data modeling and SQL</li>
+<li>Working knowledge of XML and/or JSON serialization </li>
+<li>Strong written and oral communication skills</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will participate in designing and implementing logic for ingesting apps that leverage new features in future devices and upcoming versions of iOS, tvOS and macOS.  You will implement functionality that analyzes apps on ingest, extracting and storing information displayed on the App Store, and used in the App Store’s review and curation processes.  You will implement enhancements and improvements to the workflow by which apps are thinned, encrypted, signed, and otherwise processed for distribution on the App Store. 
+</p>
+<h3>Education</h3>
+<p class="preline">BS in Computer Science, Mathematics, or EE, or relevant industry experience is required.</p>
+</div></body></html>

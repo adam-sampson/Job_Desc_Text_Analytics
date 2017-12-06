@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=37">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            
+                        </li>
+                        <li>
+                            
+                        </li>
+                        <li>
+                            
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Software Engineer 2</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Following an upcoming movie? Looking for some excerpt before buying a book? Having a piece of song lyrics in mind but don’t know where it’s from? Bing entity search can help you! Today &gt;30% search queries in Bing are entity related, and the number is still growing in some highly-engaged segments. Ensuring an excellent entity search end-to-end experience is one of the key challenges and requirements to the new generation of search engine and personal assistant.        <br></p>
+<p>Bing Entity Understanding is one of the very core teams who power entity experiences on Bing.com, Bing search app, Cortana, IE/Office/Skype/etc. and external search API. We’re actively hiring talented and solid engineers to work on the following areas: Natural language query parsing and intent understanding via statistics and machine learning models;     Generic entity triggering and ranking algorithm via data mining, information retrieval and machine learning techniques;     Direct answer inference and triggering for QnA queries;     Entity recommendation and personalization experiences     Build large scale data mining and processing pipelines on gigantic dataset using distributed computing system.<br></p>
+<p> <br></p>
+<p>Skills &amp; Qualifications        <br></p>
+<p>2+ years programming experiences in C++/C#/Java.     <br></p>
+<p>BS degree in CS or related areas.     <br></p>
+<p>Strong coding, problem solving and data modeling &amp; analysis skills.     <br></p>
+<p>Passionate and self-motivated.     <br></p>
+<p>Ability to drive cross team collaborations and ship production features in a fast-paced startup environment.     <br></p>
+<p>Superior communication skills, both verbal and written.     <br></p>
+<p>Customer/end-result driven in design and development.     <br></p>
+<p>Experiences in one or more of the following areas is a PLUS: machine learning, data mining, information retrieval, natural language processing, graph computation, and large scale distributed computation.<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">324750</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1077475</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Bellevue (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Development (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trProduct" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobProductHeading">
+
+Products and technologies
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobProductText" style="font-weight: bold">Bing</span>
+                                        </td>
+		</tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">AI &amp; Research</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/bing" ms.title="Bing. Join the team that brings less searching and more doing."><h3>Bing. Join the team that brings less searching and more doing.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

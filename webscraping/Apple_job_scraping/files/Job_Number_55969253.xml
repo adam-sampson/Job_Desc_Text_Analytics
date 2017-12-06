@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-55969253">Senior Transit Backend Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 55969253</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jun. 6, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">
+Location-based services are a significant part of our everyday lives. Whether you are looking for the nearest gas station, finding a transit route that gets you to the big game before kickoff, or selecting the perfect restaurant for dinner, you are relying on information from the Maps Data Engineering Team’s processing pipeline. At Apple, the Maps Data team provides the foundation for building great customer experiences, with features that have become an indispensable part of millions of lives around the world.
+Apple Maps is looking for a creative and dedicated individual to join our Transit Data Engineering Team. In this position you will be working on the data infrastructure that drives the transit experience. Responsibilities include creating systems to ingest vendor data, building curation systems, and publishing data to the rest of the Maps services. Key challenges include modeling and implementing new features, scaling large databases and data pipelines, as well as building tools and processes to make our team more efficient.
+
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Expert knowledge of Java</li>
+<li>2+ years experience working on large-scale systems</li>
+<li>Experience with database design, messaging systems, and services</li>
+<li>Comfortable learning new technologies</li>
+<li>Strong written and oral communication skill</li>
+<li>Experience with Scala is a plus</li>
+<li>Experience with Cassandra, Hadoop, Solr is a plus</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">
+The Transit Data Engineering team is looking for a senior-level software engineer to help us build, scale, and maintain our transit data processing system. We are constantly adding new features and finding ways to improve our processes internally in order to support transit across the world. We are looking for people who are excited about working on a small, focused team that provides the foundation of one of the largest transit data operations in the world. This role requires extensive experience working with large databases and data sets in both relational and NoSQL data stores, an interest in messaging systems, and experience building data models and services. The ideal candidate thrives in a small engineering team, collaborates well with others, and enjoys working on all aspects of a data processing service.</p>
+<h3>Education</h3>
+<p class="preline">
+BSCS and / or equivalent experience</p>
+</div></body></html>

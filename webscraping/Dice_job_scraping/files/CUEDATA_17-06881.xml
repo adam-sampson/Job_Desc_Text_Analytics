@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Malden, MA" id="estJLoc" type="hidden"><input value="Please refer to Job Description" id="estSkillText" type="hidden"><input value="Data Architect" id="estJTitle" type="hidden"><input value="Full Time, Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2, Part Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Please refer to Job Description
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2, Part Time, 6 months</span>
+					<meta itemprop="employmentType" content="full-time, part-time, contract ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Negotiable</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><span style="color: black;"><span style="font-family: times new roman,serif;"><strong>Data Architect<br>7 month contract<br>Malden, MA</strong><br><br>Our client has several new initiatives underway and have a need to insure that the applications are adhering to data standards and are fully integrated between these systems and any gaps are identified. Our client is seeking a seasoned Data</span> Architect</span> who will be reviewing, designing, developing, and implementing data models for enterprise-level applications and systems. The candidate must have experience in data warehouse models in addition to OLTP models, these models shall be architected at the following layers: conceptual, logical, physical, subject area, and application.<br><br><span style="color: black;"><span style="font-family: times new roman,serif;">Under general supervision, the Data</span> Architect</span> shall provide strategic level technical leadership for the data architecture and must be able to perform hands on analysis and modeling. He or she must clearly understand business objectives, translate them into data models and communicate these data models to business and technical stakeholders verbally, in writing, and electronically. He or she needs to be able to understand the different standards in the Education domain CEDS, ED-FI, SIF, <span style="font-family: times new roman,serif;">models and provide guidance to technical staff, project managers and insure vendors adhere to the standards. <span style="color: black;">Through the development of reliable and stable data</span> models, master data</span> management, metadata management, and data quality assurance initiatives, the Data Architect will oversee the technical design of the Enterprise Data Architecture. He or she will define data modeling methodologies, standards, and tools. In collaboration with other stakeholders, the Data Architect shall define data interface and messaging standards for systems to integrate systems internally and externally.<br><br><strong>Responsibilities</strong><br><br><strong>Strategy &amp; Planning</strong><br><span style="color: black;"><span style="font-family: times new roman,serif;">1. Develop and deliver long-term strategic goals for data</span> architecture vision and standards in conjunction with data</span> users, department managers, clients, and other key stakeholders<br>2. Assess and determine governance, stewardship, and frameworks for managing data across the organization<br><span style="color: #333333;"><span style="font-family: times new roman,serif;">3. Oversight of design implementation, providing assurance that key requirements are preserved and those gaps are understood and communicated to stakeholders as appropriate.</span></span><br><span style="color: #333333;"><span style="font-family: times new roman,serif;">4. Ensures design governance across projects, applications and infrastructure.</span></span><br><span style="color: black;"><span style="font-family: times new roman,serif;">5. Create short-term tactical solutions to achieve long-term objectives and an overall data</span> management roadmap<br>6. Establish processes for governing the identification, collection, and use of corporate metadata; take steps to assure metadata accuracy and validity<br>7. Establish methods and procedures for tracking data</span> quality, completeness, redundancy, and improvement<br>8. Conduct data capacity planning, life cycle, duration, usage requirements, feasibility studies, and other tasks.<br>9. Ensure that data strategies and architectures are in regulatory compliance<br><span style="color: black;"><span style="font-family: times new roman,serif;">10. Ensure the success of enterprise-level application rollouts (e.g., P20 data warehouse, Common Core standards, PARCC etc.) from the data</span> architecture, standards, and quality perspective</span><br><br><br><span style="color: black;"><span style="font-family: times new roman,serif;"><strong>Operational Management</strong></span></span><br><span style="color: black;"><span style="font-family: times new roman,serif;">1. Develop and promote data</span> management methodologies and standards<br>2 .Select and implement the appropriate methodologies, standards, tools, software, applications, and systems to support data</span> technology goals<br>3. Oversee the mapping of data sources, data movement, interfaces, and analytics, with the goal of ensuring data quality<br>4. Collaborate with project managers and business unit leaders for all projects involving enterprise data<br>5. Address data-related problems in regards to systems integration, compatibility, and multiple-platform integration<br>6. Act as a leader and advocate of data management, including coaching, training, and career development to staff<br>7. Develop and implement key components as needed to create testing criteria in order to guarantee the fidelity and performance of data architecture<br>8. Document the data architecture and environment in order to maintain a current and accurate view of the larger data picture<br>9.Identify and develop opportunities for data reuse, migration, or retirement<br>10. Analyze and mine business data to identify patterns and correlations among the various data points<br>11. Develop integration process data flows and data mapping analyses<br><br><strong>Education and Experience Level</strong></p>
+<ol>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Sensitivity to interpersonal, organizational and political challenges, and an understanding of how to navigate them effectively. </span></span></li>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Bachelor's Degree in Computer Science, Information Systems or Business Administration</span></span></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">7or more years of data or information architecture experience, preferably in a education environment</span></span></strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">5 years of work experience with data architecting, large-scale data modeling, and business requirements gathering/analysis</span></span></strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">Direct experience in implementing enterprise data management processes, procedures, and decision support</span></span></strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">Strong understanding of relational, dimensional and object-oriented data structures, theories, principles, and practices</span></span></strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">Strong familiarity with master data and metadata management and associated processes</span></span></strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">Hands-on knowledge of enterprise repository tools, data modeling tools, data mapping, tools, data</span> profiling tools, and data</span> and information system life cycle methodologies</strong></li>
+<li><strong><span style="color: black;"><span style="font-family: times new roman,serif;">Experience with Oracle ODI, Oracle Profiling and data quality</span></span></strong></li>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Understanding of Education Data Interoperability standards </span></span></li>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Excellent client/user interaction skills to determine requirements and the ability to present ideas to various audiences in user-friendly language</span></span></li>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Proven project management experience</span></span></li>
+<li><span style="color: black;"><span style="font-family: times new roman,serif;">Good knowledge of applicable data privacy practices and laws (FERPA)</span></span></li>
+<li><span style="font-family: times new roman,serif;">Technical leadership and mentoring skills.</span></li>
+<li><span style="font-family: times new roman,serif;">Experience with dimensional modeling and architecture experience implementing proper data structures for analytical reporting from an enterprise data warehouse.</span></li>
+<li><span style="font-family: times new roman,serif;">Experience with Oracle Exadata a plus.</span></li>
+</ol>
+<p><br><br><br><br><br><span style="font-size: 12px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>NTT DATA Services is a leading IT services provider and global innovation partner with 130,000 professionals based in over 50 countries. NTT DATA recently acquired Dell Services. NTT DATA Services emphasizes long-term commitment and combines global reach and local intimacy to provide premier professional services, including consulting, application services, business process, IT outsourcing, and cloud-based solutions. We are a part of NTT Group, one of the world's largest technology services companies, generating more than $100 billion in annual revenues and partner to 80% of the Fortune 100. Visit <a href="http://www.nttdata.com/americas">www.nttdataservices.com</a> to learn how our consultants, projects, managed services, and outsourcing engagements deliver value for a wide range of businesses and government agencies.</strong><br><br>The Company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs. The Company will consider all qualified applicants for employment without <span style="color: #1f497d;">r</span>egard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law. To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.</span></span></p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+	<div class="row">
+		<div id="contact-container" class="col-md-12 contact-info">
+			<h3>Posted By</h3>
+			
+				<h4 id="contact-name">Brian Hill</h4>
+			
+			<p id="contact-location">
+				
+					1099 Hingham Street
+				
+				
+					
+						Rockland, MA, 02370
+					
+					
+					
+				
+			</p>
+			
+				
+				
+				
+			
+		</div>
+	</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							NTT DATA is an IT powerhouse and global innovation partner with 130,000 professionals based in over 50 countries. NTT DATA emphasizes long-term commitment and combines global reach and local intimacy to provide premier professional services, including consulting, digital, managed services, and industry solutions. We’re part of NTT Group, one of the world’s largest technology services companies, generating more than $100 billion in annual revenues and partner to 80% of the Fortune 100. Visit www.nttdata.com/americas to learn more.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/J8mQg68CkQI" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/NTTData/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

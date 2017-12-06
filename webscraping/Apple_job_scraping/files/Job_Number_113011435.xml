@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113011435">Web Developer</h2>
+<ul class="sosumi">
+<li>Job Number: 113011435</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 8, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Web Developer within the Platform Architecture distributed systems team will be responsible for designing and implementing the user-facing interfaces (Web, APIs, tooling, platforms) for a variety of scalable, reliable, and secure distributed computing systems for Apple’s internal engineering teams.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Strong programming skills and work experience in Web and related technologies</li>
+<li>Fluency in Javascript, HTML, CSS, shell scripting, and either Python or Ruby</li>
+<li>Comfortable developing and debugging software in a Linux environment</li>
+<li>Knowledge of relational databases, NoSQL databases, distributed object stores</li>
+<li>Ability to architect and implement new solutions from scratch</li>
+<li>Understanding of modern software development and deployment practices</li>
+<li>Experience with large-scale production systems with high-reliability SLAs</li>
+<li>Ability to debug network connectivity and performance issues</li>
+<li>Experience programming in Go</li>
+<li>Comfortable with non-technical Web design work</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Design, implement, and debug user-facing components of internal distributed computing services
+Create website layout and user interfaces by using standard HTML/CSS/Javascript practices
+Integrate data from various back-end services and databases
+Research and implement key technologies, architectures, and standards to ensure technology stack remains modern
+Work with other engineering teams in Apple to ensure that user-interfaces satisfy usability and performance needs
+</p>
+<h3>Education</h3>
+<p class="preline">BS degree in Computer Science or equivalent, MS preferred.</p>
+</div></body></html>

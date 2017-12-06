@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Atlanta, GA" id="estJLoc" type="hidden"><input value="Architecture, Automated, Business Intelligence, Data Architecture, Data Modeling, Data Warehouse, Development, Hadoop, Modeling, NoSQL, Python, Quality Assurance, SQL, UPS" id="estSkillText" type="hidden"><input value="Digital Data Engineer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Architecture, Automated, Business Intelligence, Data Architecture, Data Modeling, Data Warehouse, Development, Hadoop, Modeling, NoSQL, Python, Quality Assurance, SQL, UPS
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><br><br>This is an exciting opportunity to join a growing organization within UPS, leveraging new technologies to help make UPS's marketing efforts more data and analytics driven.-The Digital Data Platform team partners with campaign owners, channel owners, media agencies, data scientists, and IT to develop new audiences and deliver them to the activation platforms that support the targeting and personalization of all channels, including ups.com, paid media, and email.-In addition, the team ensures that quality performance data is captured and tools are developed to support digital performance reporting and audience insights mining.<br><br>The Digital Data Engineer is responsible for the continued development and optimization of the company-s Customer Data Platform (CDP) in support of Marketing business objectives. He/She leads the collection, cleaning, and transformation of data from multiple channels into the Customer Data Platform in support of the segmentation, analytics, reporting, and activation needs of marketers and agencies. This position leads development of new data engineering and data activation processes, and oversees the delivery of high quality data to agency media buying platforms, the ups.com personalization platform, and other programmatic activation platforms. He/She interacts regularly with IT on development of new ETL (Extract, Transform, and Load) jobs, maintenance, and troubleshooting. The Digital Data Engineer also provides key input in support of the overall digital marketing data architecture.<br><br><b>Responsibilities and Duties</b><br><br>* Designs and develops Extract, Transform, and Load (ETL) processes within Customer Data Platform in support of the segmentation, analytics, and reporting needs of the business <br><br>* Develops processes to clean and transform data into the processed data store within the Customer Data Platform and build aggregated views in the analytical data store in support of reporting and business intelligence needs of Marketing stakeholders <br><br>* Develops automated quality assurance processes to monitor quality of inbound data and ensure the continued accuracy of data processing within the platform <br><br>* Develops and manages data processing jobs to assign customers to marketing segments in the Customer Data Platform using demographic data, behavioral data, and intent signals and works with data scientists to incorporate machine learning outcomes into the overall customer segmentation model <br><br>* Leads projects with marketing stakeholders, software vendors, media agencies, IT, and data owners to specify and execute new data feeds into the Customer Data Platform from internal repositories, digital marketing applications (web analytics, data warehouse, etc.), and advertising platforms <br><br><b>Knowledge and Skills</b><br><br>* Strong technical knowledge of Hadoop and Spark ecosystem, including Hive, HBase, Cassandra, Sqoop, and Oozie- <br><br>* Strong knowledge of data modeling principles and best practices in building analytics repositories in SQL and NoSQL environments <br><br>* Strong coding skills in SQL, Spark, and Python <br><br>* Ability to diagnose and troubleshoot complex data quality issues <br><br>* Ability to translate marketing stakeholder requirements into technical specifications <br><br>* Experience building and managing data pipelines and repositories in cloud environments such as Microsoft Azure <br><br><br>UPS is an equal opportunity employer - race/color/religion/sex/national origin/veteran/disability/sexual orientation/gender identity
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Whether you're looking for your first job or the next step in a long career path, UPS has employment opportunities for you. We foster careers with a culture that promotes from within, supports education, and provides excellent benefits--even to part-time staff.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/PbVy5kRYbgs" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/UPS/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

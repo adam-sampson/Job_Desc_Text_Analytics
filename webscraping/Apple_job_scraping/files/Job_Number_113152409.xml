@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113152409">Distributed Systems Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113152409</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 20, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple's Developer Tools is looking for a motivated, enthusiastic engineer to join a new team focused on improving build performance. Our mission is to deliver fast, reliable builds to all of our developer community, and foster the next wave of innovative application development by making software easier to write for everyone.
+
+We are looking for an experienced systems engineer to help us take our open source llbuild ( <a class="bridgeLink" target="_blank" href="http://github.com/apple/swift-llbuild">http://github.com/apple/swift-llbuild</a>) framework to the next level. If you are excited about dramatically improving build times, inventing new ways of working with the compiler and linker to improve performance, and designing distributed systems and cloud infrastructure  that scales then we want to talk to you!</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Enthusiastic about building great developer tools</li>
+<li>3+ years work experience with a strongly typed or functional language</li>
+<li>Understanding of algorithms and design patterns for distributed systems</li>
+<li>Experience writing cross-platform code for macOS or Linux using POSIX APIs</li>
+<li>Commitment to writing understandable, reliable, and testable code</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">The role will involve authoring new systems with a heavy focus on low-level performance and reliability. Experience with full stack development, server-side Swift, or development of new software ecosystems are all a plus.</p>
+<h3>Education</h3>
+<p class="preline">BS in Computer Science or related experience. </p>
+<h3>Additional Requirements</h3>
+<p class="preline">Experience building distributed systems that run on hundreds to thousands of nodes
+Experience with large-scale cluster orchestration systems (e.g. Mesos)
+Understanding of data storage systems and techniques
+Understanding of content-addressable storage
+Experience supporting and fostering growth on open source projects
+Understanding of secure software design
+Experience with continuous deployment
+Experience with monitoring and observation systems for a large distributed system
+Ability to communicate clearly with a diverse group of clients and stakeholders</p>
+</div></body></html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Mahwah, NJ" id="estJLoc" type="hidden"><input value="Analytical Skills, Artificial Intelligence, Data Modeling, Foundation, Hadoop, Management, Modeling, Python, Research, SQL, Unix, UPS" id="estSkillText" type="hidden"><input value="Machine Learning Lead Data Scientist" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Analytical Skills, Artificial Intelligence, Data Modeling, Foundation, Hadoop, Management, Modeling, Python, Research, SQL, Unix, UPS
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><br><br><b>Lead Data Scientist</b><br><br>We-re the obstacle overcomers, the problem get-arounders. From figuring it out to getting it done- our innovative culture demands -yes and how!- We are UPS.- We are the United Problem Solvers.<br><br><b>About Information Management at UPS Technology:</b><br>Our Information Management teams are responsible for designing and supporting data solutions to meet UPS-s rapidly changing business needs.- Our team is comprised of individuals who are experts in data management, compliance and governance.- We ensure quality, completeness, availability, protection, understanding and effective use of our data assets.- Our ability to organize and design the wealth of data we receive each day provides the foundation which enables many of UPS-s core processes.<br><br><b>About this role:</b><br><br>The Lead Data Scientist leverages advanced analytic knowledge and skills to predict and prescribe solutions in a large problem domain. He/She utilizes evidence based approaches and decision making to arrive at optimal solutions to solve problems. This position is part of a team that is responsible for research and implementation of advanced analytics models using large volumes of structured and unstructured data along with a diverse set of advanced analytics techniques from a variety of fields and industries.<br><br>The Lead Data Scientist uses advanced computational and analytical skills to estimate and run models. This position may manage others within the department and supports I.T. leadership by planning and championing the execution of broad advanced analytics initiatives aimed at delivering value to internal and external stakeholders.<br><br><b>Internal candidates will be considered-from the following-I.T. locations: NJ, GA,-&amp;-KY</b><br><br><b>Responsibilities:</b><br><br>* Designs and develops Advanced Analytics Projects through business and analytical problem framing, data acquisition and creation, model approach definition, model building and solution deployment <br><br>* Provides thought leadership for Advanced Analytics Projects <br><br>* Directs Integration of Advanced Analytics Models <br><br>* Leads adoption of emerging technology products tools and analytic techniques <br><br><b>Skills:</b>-<br><br>* SQL - Advanced <br><br>* Data Modeling - Advanced <br><br>* Hadoop - Advanced <br><br>* Artificial Intelligence - Advanced <br><br>* UNIX Shell - Advanced <br><br>* Python or R - Expert- <br><br>* Spark - Intermediate <br><br>* Machine Learning - Expert- <br><br><b>Preferred Qualifications:</b><br><br>* Master's degree in Computer Science/Mathematics/Statistics/Data Science or related discipline <br><br><em>This position offers an exceptional opportunity to work for a Fortune 50 industry leader. If you are selected, you will join our dynamic technology team in making a difference to our business and customers. Do you think you have what it takes? Prove it! At UPS, ambition knows no time zone. </em><br><br><br><br>UPS is an equal opportunity employer - race/color/religion/sex/national origin/veteran/disability/sexual orientation/gender identity
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Whether you're looking for your first job or the next step in a long career path, UPS has employment opportunities for you. We foster careers with a culture that promotes from within, supports education, and provides excellent benefits--even to part-time staff.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/PbVy5kRYbgs" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/UPS/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

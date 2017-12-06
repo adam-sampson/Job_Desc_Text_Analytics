@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-112931120">Siri NLP Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 112931120</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 27, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple’s exciting new Spotlight Suggestions service provides fast, relevant search results from the Internet in Spotlight , Safari on iOS and OS X and News app on iOS. We are looking for an innovative &amp; detail-oriented Data Scientist who will play a central role in developing upcoming versions of the feature. The Spotlight Suggestions service is built on massive amount of data crawled from the Internet, sourced from feeds and generated from user interactions with search results. As a member of our real time data science team, you’d be responsible for mining these datasets to help create new features and improve relevance of search results. We are looking for scientists who are passionate about creating data driven systems and have experience in statistical programming, machine learning, and use of modern big data systems like Hadoop.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Industry experience or a compelling track record in academia</li>
+<li>Expert with Machine learning techniques and toolkits as applied to Natural Language processing</li>
+<li>Has built and evaluated ML models using semi-supervised and unsupervised techniques</li>
+<li>Strong statistical and programming background</li>
+<li>Mastery of any one of these programming languages : Java, Python, C++</li>
+<li>Practical experience with tools like Matlab/R, Hadoop/Spark</li>
+<li>Experience with large scale information retrieval systems a plus</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">* Build an open domain Q&amp;A system at Apple
+* Build quality ML models for sequence prediction
+* Work on synonymy problems over noisy data
+* Work closely with indexing and infrastructure teams</p>
+<h3>Education</h3>
+<p class="preline">Masters or PhD (preferred) in Computer Science</p>
+</div></body></html>

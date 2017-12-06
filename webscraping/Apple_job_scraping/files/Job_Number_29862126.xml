@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-29862126">Sr. Library &amp; IP QA Software Developer - CAD Engineering </h2>
+<ul class="sosumi">
+<li>Job Number: 29862126</li>
+<li title="Austin, Texas, United States">Austin, Texas, United States</li>
+<li>Posted: Mar. 30, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">As a CAD software developer in the IP &amp; Library Quality Assurance (QA) group, you will be implementing software for view generation, requirements checking, and QA reporting.  The environment requires fast paced development while still focusing on quality and performance.
+The software will be deployed to multiple analog and digital IC design teams utilizing a wide range of technology nodes including 20nm and below. 
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Typically requires 3-10 years of experience in software development within an IC design environment.</li>
+<li>Requires knowledge of Unix, shell scripting, and GUI environments like QT or TK. </li>
+<li>Must be able to develop complete object oriented software solutions using a mix of compiled, and scripted languages, including Perl, C/C++, TCL, and Python.  </li>
+<li>Understands batch queuing systems such as NC, LSF, torque or PBS. </li>
+<li>Able to use and modify Build Automation flows using make or FlowTracer.</li>
+<li>Experience with Web and Database programming in PHP and SQL.</li>
+<li>Knowledgeable of version control, unit test and software regression.</li>
+<li>Must have good written and oral communications skills with the ability to communicate design trade-offs and implementation details.</li>
+<li>Experience developing software solutions in the IC design area.  Knowledge of parsing and using design views such as: Liberty files (*.db, *.lib), LEF/DEF, CDL/Spice, CTL etc, is a plus.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Member of a small, talented CAD team focused on IP and Library Quality Assurance, and Design Methodologies.  
+Plan software and design using object oriented methodologies to address view generation, requirements checking, and QA reporting on hard IPs like macros, standard cells, IOs, and compiled memories.
+Implement solutions with compiled and/or scripting languages enabling batch, GUI, API and/or Web interfaces that provide the highest customer experience.  The software will be tested to meet scalability and quality needs. 
+Deploy and support solutions.  Remain flexible to new challenges that emerge in CAD.
+</p>
+<h3>Education</h3>
+<p class="preline">BSEE/CE/CS or equivalent technical discipline, MSEE/CE/CS preferred.</p>
+</div></body></html>

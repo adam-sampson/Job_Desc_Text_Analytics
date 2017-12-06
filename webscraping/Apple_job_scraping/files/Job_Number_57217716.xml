@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-57217716">Platform Architect -Graphics, Camera, Video</h2>
+<ul class="sosumi">
+<li>Job Number: 57217716</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 5, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this role, you will be a member of a System-on-Chip team, working with various hardware and software engineering groups to shape the architecture of Apple's future devices. 
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>The ideal candidate will have experience/skills in several of the following areas:</li>
+<li>Knowledge of the inner workings and data flows of gaming / video / camera Apps.</li>
+<li>C/C++ modeling of SOC and use cases for performance and power simulation.</li>
+<li>GPU / Camera / Video IP memory access patterns and usage of system caches.</li>
+<li>Worked on logic design of graphics, video, or camera hardware.</li>
+<li>Writing specification documents, in collaboration with engineers across different disciplines.</li>
+<li>Gathering and analyzing data to compare architectural design alternatives.</li>
+<li>Investigating how Apps use the SOC, by running and profiling on the live silicon (e.g. smartphone).</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will have responsibilities for architecting Apple’s graphics, camera, and video system-on-chip subsystems. Your work will be highly visible and critical for delivering best performance and power efficiency in Apple’s future products.
+
+Documenting the SOC performance and power requirements together with Camera, Graphics, and iOS teams.
+C/C++ modeling of graphics, camera, and video data flows, and integration with other SOC models.
+Running simulations of future camera, video, and gaming applications.
+Careful analysis and presentation of the simulation results to enable data-driven design decisions.
+Writing of architectural specification documents, in collaboration with cross-functional teams.
+Work with both hardware and software design teams.
+Silicon validation on prototype hardware.</p>
+<h3>Education</h3>
+<p class="preline">MS or PhD in CS, EE, or related field.</p>
+</div></body></html>

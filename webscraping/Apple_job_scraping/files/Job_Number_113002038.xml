@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113002038">Software Analytics Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113002038</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Sep. 6, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Are you passionate about finding new insights buried in mountains of Big Data? Have you improved the experience of real uses with a correlation you uncovered? The Technology Investigation team is looking for someone like you. As a member of our fast-paced group, you will have a unique and rewarding opportunity to shape upcoming products that will delight and inspire millions of Apple’s customers every day.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>3+ years experience with back-end analytics systems and Big Data services</li>
+<li>3+ years experience with instrumentation of software for analytics or profiling</li>
+<li>Hands-on experience with HBase or Cassandra</li>
+<li>Aptitude for effective and efficient architectural design of Big Data systems</li>
+<li>5+ years hands-on software industry experience</li>
+<li>Proven success with analytics for large-scale, consumer facing apps or services</li>
+<li>Operational debugging experience: you can diagnose a problem during an outage</li>
+<li>Experiences with software development tools on at least TWO of: MacOS, iOS, Linux</li>
+<li>Fluent in one of: Java, ObjC, C++</li>
+<li>Excellent communication and collaboration skills</li>
+<li>Passion for and inspired by Apple’s mission and products</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">You will join a small team of architects and specialists to build analytics and metrics systems. You will design and implement a Big Data system for handling metrics and analytics data from many instrumentation points through out the entire system stack, from hardware and drivers, to the OS and Apps. You will optimize query performance and design efficient data formats and APIs to support visualization. You will work cross-functionally with stakeholders and consumers of your data analysis to understand requirements and help them find insights from the results. Some of the work will involve analyzing data from small customer focus groups, while the rest will be partnering with other Big Data groups within Apple to analyze massive amounts of data from millions of customers. You are curious and love learning new things, while working with the best creative people in the industry to solve hard technical problems. You are self-starting and pro-active when needed, but prefer to work with a team of experts who value collaboration. You also like having fun.
+</p>
+<h3>Education</h3>
+<p class="preline">BS in Computer Science or equivalent experience/skills</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Hands-on experience designing REST APIs is a plus
+Hands-on experience implementing data visualization front-ends and report generation is nice to have
+Experience with SQL DBMS is a plus
+Fluency in other languages, such as Python, Scala, Closure, or Erlang are nice to have
+Experience with Java ecosystem is a plus, any of: Docker, Kafka, Spark, Mesos</p>
+</div></body></html>

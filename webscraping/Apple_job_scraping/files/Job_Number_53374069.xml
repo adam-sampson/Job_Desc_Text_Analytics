@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-53374069">Performance Monitoring Engineer, Compute and Storage Group</h2>
+<ul class="sosumi">
+<li>Job Number: 53374069</li>
+<li title="Austin, Texas, United States">Austin, Texas, United States</li>
+<li>Posted: Jul. 7, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this highly visible role, you will have the responsibility of ensuring that Apple's world class Silicon Engineering Group will have the infrastructure and tools needed to engineer and design the worlds most advanced silicon devices and products. You will utilize your deep understanding of developing and maintaining monitoring, alerting, and metrics gathering/analysis systems for diverse applications and systems. You will utilize your extensive communication skills to interface with internal teams, enabling Apple's world-class product development.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Typically requires at least 5+ years of experience in a large scale environment (larger than 5000 devices). Finance, Oil &amp; Gas, Scientific Research, or R&amp;D environments preferred.</li>
+<li>Experience monitoring a large scale distributed computing environment</li>
+<li>Proficiency in Ruby, Python, Go, or other common high level scripting/programming languages is a must</li>
+<li>Experience with monitoring tools (Nagios, Sensu, SolarWinds, DataDog)</li>
+<li>Experience with deploying/developing dashboards (Grafana/Kibana/Dashing)</li>
+<li>Experience with scaling monitoring solutions over multiple datacenters</li>
+<li>Experience with aggregation and visualization such as the Elastic stack (ELK) or Splunk</li>
+<li>Experience with time series databases (Graphite/InfluxDB/OpenTSDB)</li>
+<li>Experience with configuration management tools (Puppet preferred)</li>
+<li>Linux system administration experience (RedHat/CentOS preferred)</li>
+<li>Understanding of revision control systems (Git experience desired)</li>
+<li>Experience with sFlow and SNMP</li>
+<li>Experience with Linux containers</li>
+<li>Familiarity with stream processing systems like Kafka, Spark, or Storm for large-scale data analytics</li>
+<li>Understanding of NFS and NAS appliances (NetApp preferred)</li>
+<li>Understanding of Layer 2 / Layer 3 networking</li>
+<li>Understanding of LDAP</li>
+<li>Must be analytical and possess strong organizational / problem-solving skills.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Your main responsibility will be supporting internal teams by developing, deploying, and maintaining tooling that will aid in the monitoring ecosystem. Your role will directly impact the development, enhancement, and maintenance of compute clusters, storage systems, network interconnects, and internally developed applications. </p>
+<h3>Education</h3>
+<p class="preline">MS/BS Degree or equivalent. </p>
+</div></body></html>

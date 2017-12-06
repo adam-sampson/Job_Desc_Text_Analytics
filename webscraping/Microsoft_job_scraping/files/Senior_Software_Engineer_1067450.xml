@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=21">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=8&amp;sort=&amp;rw=218&amp;jid=308199&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 219 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=8&amp;sort=&amp;rw=220&amp;jid=325172&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Senior Software Engineer</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>To delight customers in a Cloud First world, Microsoft delivers highly available online services with cutting edge features and innovative functionality lighting up on a regular basis. Quality of service (QoS) is paramount as we continue to make deep investment in Microsoft Azure and its expanding customer base who rely on our services to run their diverse businesses. Availability, reliability, and performance are all key differentiators that customers demand and expect in cloud services when choosing a provider.     <br></p>
+<p><br></p>
+<p>Azure has one of the largest storage services on the planet, holding Exabytes of data and files not just for our 3rd party customers, but also many of Microsoft’s own services from OneDrive through Xbox.    Managing storage capacity lifecycle and service growth from ensuring scale units are utilized effectively through to decommissioning.    As a developer on the Azure Storage team you’ll work on varied tasks and projects - from optimizing balancing algorithms, standing up new services to reduce operational burden, producing reports and visualizations, utilizing machine learning and data mining to understand and improve the system’s availability.    <br></p>
+<p><br></p>
+<p>There is a DevOps/On-Call/DRI component to this role but impact is minimal - help us keep it that way.    At Azure, we can offer you a strong team, exciting challenges, and a fun place to work. The work environment empowers you to have a real impact on millions of end users. This is also a unique opportunity to work with world-class engineers. Apply now for this unique green field opportunity!    <br></p>
+<p><br></p>
+<p>Job Responsibilities include: <br></p>
+<p>• Define and develop leading indicator monitoring solutions and establish SLA monitoring to protect the top-level metrics    <br></p>
+<p>• Find and leverage existing systems to operate and maintain ETL pipelines to shape raw data into trusted metrics that convey accurate health of services. Build new tech into existing solutions, don’t build another wheel. <br></p>
+<p>• Effectively collaborate across Azure/C&amp;E/first party teams in big-data for mining, reuse, analysis and research <br></p>
+<p>• Apply data mining and statistics to measure and understand the system impact on user experience and Quality of Service. <br></p>
+<p>• Research and develop solutions for providing high quality data (data completeness, data hygiene) <br></p>
+<p>• Research, architect, develop and deliver solutions in an agile development environment.     <br></p>
+<p><br></p>
+<p>Qualifications:    <br></p>
+<p>• 5+ years as an engineer    <br></p>
+<p>• Outstanding coding chops in C# or equivalent <br></p>
+<p>• Great design and problem-solving skills, with a strong bias for quality and engineering excellence. <br></p>
+<p>• Bachelor degree in Computer Science or equivalent <br></p>
+<p>• Knowledge and working experience in data mining, statistics, mathematics <br></p>
+<p>• Extensive knowledge and experience in data warehousing, data processing (ETL), e-metrics/measurement, business intelligence, information retrieval, parallel and distributed computation. <br></p>
+<p>• Excellent communications skills, both verbal and written.    <br></p>
+<p><br></p>
+<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:<br></p>
+<p> <br></p>
+<p>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check every two years.<br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">307881</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1067450</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Development (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trProduct" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobProductHeading">
+
+Products and technologies
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobProductText" style="font-weight: bold">Azure</span>
+                                        </td>
+		</tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Cloud and enterprise</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

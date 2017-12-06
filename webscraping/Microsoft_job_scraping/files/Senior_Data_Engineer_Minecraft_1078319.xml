@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="ContentPlaceHolder1_JobDetails2_pnlJobDetails">
+		
+            <div id="JobDetailsHeaderRow" class="ie7fix">
+                <div style="float: left; vertical-align: middle; line-height: 24px; width: auto">
+                    <a id="ContentPlaceHolder1_JobDetails2_hlBackToResults" title="Back to search results" class="jobDetails_imgBack" href="search.aspx?pg=2">Back to search results</a>
+                </div>
+                <div style="float: right; margin-bottom: 25px; margin-left: 25px; text-align: right;">
+                    <ul class="jobDetails_nav" style="line-height: 24px;">
+<li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlPrev" title="Prev" class="jobDetails_imgPrev" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=0&amp;sort=&amp;rw=23&amp;jid=306809&amp;pp=ss">Prev</a>
+                        </li>
+                        <li>
+                            <span id="ContentPlaceHolder1_JobDetails2_lblPageCount">
+
+Job 24 of 500
+
+
+</span>
+                        </li>
+                        <li>
+                            <a id="ContentPlaceHolder1_JobDetails2_hlNext" title="Next" class="jobDetails_imgNext" href="jobdetails.aspx?gl=&amp;jc=&amp;ct=&amp;rg=&amp;ss=&amp;pg=1&amp;sort=&amp;rw=25&amp;jid=289268&amp;pp=ss">Next</a>
+                        </li>
+                    </ul>
+</div>
+            </div>
+            
+
+            
+            <div id="JobDetailsTopRow">
+                <div style="width:100%;float: left;" class="JobTitle" tabindex="-1">
+               <h1>     <span id="ContentPlaceHolder1_JobDetails2_lblJobTitleText">Senior Data Engineer - Minecraft</span>
+</h1>
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+            <div>
+      
+            
+                <div id="ContentPlaceHolder1_JobDetails2_Table1" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <div style="display:table">
+                        
+                            <div class="jobDetails_jobDesc" style="width:60%;display:table-cell">
+                                <span id="ContentPlaceHolder1_JobDetails2_lblDescription" class="jobDetail_jobDesc_Content"><p>Minecraft is one of the most popular video games of all time, with more than 122 million copies sold. Minecraft inspires players to create together and has created one of the most active and passionate player communities in the world.<br></p>
+<p><br></p>
+<p>As a Senior Data Engineer, you will be responsible for leading the engineering function for the data solutions both the Minecraft Data Science team and the studio depend on. Working closely with the embedded Data Science function you will be play a leading role defining both our data development roadmap and aligning with our data architecture strategy. This is a central role and essential to ensuring we have sufficient technologies in place to enable data informed decisions.<br></p>
+<p><br></p>
+<p>An appropriate candidate will have deep technical knowledge of BI systems design, big data architecture and technology landscape, service architecture, ETL/ELT orchestration, business intelligence tools such as Power BI as well as large scale event telemetry ingestion and aggregation systems. The candidate should have excellent organizational and communication skills and feel comfortable in a fast-paced environment.<br></p>
+<p><br></p>
+<p>So, if you are you an expert in designing and building business intelligence solutions, big data and are fascinated by how analytics driven organizations can transform data into actionable insights, we have a dream job for you!<br></p>
+<p><br></p>
+<p>Key Responsibilities:<br></p>
+<p><br></p>
+<p>•      Design, implement data solutions<br></p>
+<p>•      Define and execute the data engineering roadmap<br></p>
+<p>•      Provide technical leadership to the Minecraft Data Science Team<br></p>
+<p>•      Lead the data engineering function<br></p>
+<p><br></p>
+<p>Operational Responsibilities:<br></p>
+<p><br></p>
+<p>•      Contribute to the continual improvement of our data architecture<br></p>
+<p>•      Conduct code reviews ensuring development follows best practice<br></p>
+<p>•      Establish and maintain regular updates detailing, current issues, cost, and development progress<br></p>
+<p>•      Direct research on potential technology solutions and implementations in support of new initiatives and opportunities.<br></p>
+<p>•      Effectively manage vendor budgets<br></p>
+<p><br></p>
+<p>Minimum Qualifications:<br></p>
+<p><br></p>
+<p>•      Bachelor’s degree or 5 years software engineering experience<br></p>
+<p><br></p>
+<p>Preferred Qualifications:<br></p>
+<p><br></p>
+<p>•      We are looking for a skilled and experienced Data Engineer with an extensive background in developing large scale data solutions<br></p>
+<p>•      Proven background and strong hands on experience with one or more of the following Big Data technology stacks: Hadoop in the cloud, MPP SQL (Hive preferred), ETL orchestration systems<br></p>
+<p>•      The engineer will be highly experienced with relational databases (SQL Server or similar)<br></p>
+<p>•      The engineer will be highly experienced with MPP SQL such as Hive (or similar SQL on Hadoop implementations) <br></p>
+<p>•      In-cloud development and Linux experience a plus<br></p>
+<p>•      Strong software engineering background and understanding of the software development lifecycle<br></p>
+<p>•      Ability to effectively prioritize and execute tasks in a fast-paced environment<br></p>
+<p>•      Ability to express complex technical concepts effectively, both verbally and in writing<br></p>
+<p>•      Highly self‐motivated, self‐directed, and attentive to detail<br></p>
+<p>•      Strategic thinker, combined with strong ability to execute <br></p>
+<p>•      Solid verbal and written communication<br></p>
+<p>•      Experience implementing service-oriented architecture a plus<br></p>
+<p><br></p>
+<p><br></p>
+<p>Our processes include requirements analysis, continuous development cycle, integration from multi partner orgs and teams, enhancement, maintenance, testing, customer scenario evaluations and root cause analysis/resolution.<br></p>
+<p><br></p>
+<p><br></p>
+<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to askstaff@microsoft.com.</p>
+<p>
+                            </p></span>
+</div>
+                            
+                        
+                        
+                            <div style="padding-left: 30px;width:40%;display:table-cell;">
+                                <table id="JobDetails_contentRight" role="grid" style="display:table;" summary="Job meta data"><tbody>
+<tr role="row" style="display:table-row;">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCodeHeading">
+
+Job #
+
+
+</span></h2>
+                                        </th>
+                                        
+                                        <td>
+                                            <div id="jobDetails_controls">
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobPostingId" style="display: none">325459</span>
+                                                <span id="ContentPlaceHolder1_JobDetails2_lblJobCodeText" style="font-weight: bold">1078319</span>
+                                            </div>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblLocationHeading">
+
+Locations
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblLocationText" style="font-weight: bold">United States, Redmond (WA)</span>
+                                        </td>
+                                    </tr>
+<tr role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryHeading">
+
+Job families
+
+
+</span></h2>
+                                        </th>
+                                        <td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobCategoryText" style="font-weight: bold">Data &amp; applied sciences (engineering)</span>
+                                        </td>
+                                    </tr>
+<tr id="ContentPlaceHolder1_JobDetails2_trDivision" role="row">
+<th role="rowheader">
+                                            <h2><span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionHeading">
+
+Teams
+
+
+</span></h2>
+                                        </th>
+			<td>
+                                            <span id="ContentPlaceHolder1_JobDetails2_lblJobDivisionText" style="font-weight: bold">Studios</span>
+                                        </td>
+		</tr>
+</tbody></table>
+<div style="padding-top: 10px;">
+                                    <input name="ctl00$ContentPlaceHolder1$JobDetails2$btnApply" value="Apply now" onclick="javascript:applyWebTrend();" id="ContentPlaceHolder1_JobDetails2_btnApply" title="Apply now" class="SearchButton" style="float: left; margin-right: 8px;" type="submit"><input name="ctl00$ContentPlaceHolder1$JobDetails2$btnSaveJob" value="Add to job watch list" onclick="return false;" id="ContentPlaceHolder1_JobDetails2_btnSaveJob" title="Add to job watch list" class="jobcartButton SearchButton" type="submit">
+</div>
+                                <div id="ContentPlaceHolder1_JobDetails2_divServerDynamicjobtile">
+                                    <div id="divDynamicjobtile" style="margin-top: 35px;">
+                                        <span id="ContentPlaceHolder1_JobDetails2_lblDynamicJobTileHtmlContent"><div class="feature-tile blue">
+<a href="/" ms.title="Empower your future."><h3>Empower your future.</h3></a>
+</div></span>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                            
+                            
+
+
+
+<style type="text/css">
+.LinkedInTitle { font-size: 18px; color: #2D2D2D; width: 700px; padding-bottom:5px; } /*#2F89BD*/
+.CompanyInsiderBlock { width:400px;}
+</style>
+<div class="CompanyInsiderBlock">
+
+    
+</div>
+
+
+                        
+                        
+                        
+                    
+                </div>
+                <div style="clear: both; height: 0px! important;">
+                </div>
+            </div>
+        
+	</div></body></html>

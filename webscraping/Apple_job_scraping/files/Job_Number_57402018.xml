@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-57402018">Siri Data Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 57402018</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jul. 18, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile and desktop computing. Create groundbreaking technology for large scale systems, spoken language, big data, and artificial intelligence.  And work with the people who created the intelligent assistant that helps millions of people get things done — just by asking.  Join the Siri team at Apple.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Through understanding of MapReduce and the Hadoop ecosystem. </li>
+<li>Experience with object-oriented design, coding and testing.</li>
+<li>Experience with server design (Tomcat, Apache, etc.) desirable.</li>
+<li>Experience building high-performance algorithms.</li>
+<li>Knowledge of Java and Linux</li>
+<li>Optional: Python, MongoDB, Redis</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Architect highly scalable distributed data pipelines using Scala/Spark. 
+Tune Spark job parameters for maximum speed and minimum utilization of cluster resources.
+Ingest and retrieve data to/from Solr, Postgres, Hive etc. 
+Develop prototypes and proof of concepts for new data pipelines 
+Contribute to extraction of engagement signals from Siri log data. </p>
+<h3>Education</h3>
+<p class="preline">MS in Computer Science or equivalent </p>
+</div></body></html>

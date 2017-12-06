@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Cupertino, CA" id="estJLoc" type="hidden"><input value="" id="estSkillText" type="hidden"><input value="Data Engineer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">-</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job comes with more than a few perks.<br><br><br>The Fraud, Engineering, Algorithms and Risk group is responsible for combating fraud and abuse for Internet Software and Services at Apple. The FEAR engineering team is tasked with building mission-critical, robust and scalable distributed systems that can keep pace with data across a number of high-profile and large-volume Apple cloud properties. We are building the next-generation libraries, platforms and data pipelines to empower our data scientists to rapidly build and deploy complex models to production.<br><br><br>Key Qualifications:<br> MS or BS in Computer Science or related field<br> 3 or more years experience building large-scale distributed systems<br> Skilled in Scala or Java<br> Working knowledge with at least two of: Spark, MapReduce, HDFS, Cassandra, Kafka<br><br><br>Description:<br> We engineer high-quality, scalable and resilient distributed systems that power data exploration, model building and production models. Our core systems need to work seamlessly across different execution contexts (real-time, near real-time and batch) and support diverse big data stacks such as Spark, Hadoop, Kafka, Cassandra and beyond.<br><br> We work at a unique intersection of huge data volumes and adversaries that are continuously adapting, which means we are operating at and beyond the limits of conventional big data systems. On our team you can be sure that every commit you make will come with the satisfaction that you are helping protect and improve the user experience of hundreds of millions of users.<br><br> This role requires in-depth knowledge with cutting-edge big data technologies. Tuning, troubleshooting and scaling these big data technologies are a key part of our work, where having a curiosity with the internal workings of these systems is key to being successful. This is a hard-core software engineering role, where a large part of an engineer's time is spent writing code with the remainder being spent on designing and architecting systems, tuning and debugging big data systems, supporting production systems and supporting our data scientists.<br><br><br>Education:<br> BS in Math, Computer Science, or equivalent experience<br><br><br> Apple is an Equal Employment Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.<br><br><img src="https://ars2.equest.com/?response_id=c225d81a0eb8af5d8c6dd2c31bfbaf62&amp;view" alt=" " height="1" width="1">
+</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							We bring amazing people together to make amazing things happen. We're a diverse collection of thinkers and doers, continually reimagining what's possible to help us all do what we love in new ways. The people who work here have reinvented entire industries with the Mac, iPhone, iPad, and Apple Watch, as well as with services, including iTunes, the App Store, Apple Music, and Apple Pay. And the same passion for innovation that goes into our products also applies to our practices – strengthening our commitment to leave the world better than we found it.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/no_-296IGpM" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Apple/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

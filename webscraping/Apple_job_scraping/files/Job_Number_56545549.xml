@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-56545549">Sr Software Engineer - HD Maps</h2>
+<ul class="sosumi">
+<li>Job Number: 56545549</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jul. 26, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this role you will be responsible for a combination of analysis, modeling, and building production services for internal use. You will work in a cross-functional team requiring creative problem solving and you’ll get to put these ideas into practice. </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Algorithm design and complexity analysis</li>
+<li>Design for latency, design for throughput</li>
+<li>Distributed systems concepts (CAP, “Fallacies of Distributed Computing,” etc)</li>
+<li>Interface design (software APIs, etc)</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">We’re seeking candidates who are confident in moving forward executing their own ideas but humble enough to view their own work with healthy scrutiny. Willingness to give and receive feedback is required for success. An ideal candidate is a strong software engineer who is equally comfortable working through statistical modeling exercises and communicating their work with the wider team.</p>
+<h3>Education</h3>
+<p class="preline">- BS/MS CS or equivalent experience</p>
+<h3>Additional Requirements</h3>
+<p class="preline">- Understanding of basic statistics and modeling
+- Parallel computing (java.util.concurrent, CSP, etc)
+- Networking fundamentals (HTTP/HTTPS, TCP, UDP)
+- Compute fundamentals (concurrency models, distributed single-threaded versus coordinated multithreaded scheduling, synchronous and asynchronous IO)
+- Storage fundamentals (disk types and drive layouts, random and sequential IO, compaction)
+
+Experience with or strong desire to learn:
+- Modern Java (Java 8, streams, closures, try-with-resources, annotations, etc)
+- Dynamic scripting languages for quick analysis (bash, awk, sed, Python, etc)
+- Apache projects like Spark, HDFS, Hadoop, etc
+- Relational databases such as PostgreSQL
+- Presentation quality data visualization
+
+
+We don’t expect you’re an expert in everything described above, but we do hope you have strong experience in a few areas, and enough curiosity + desire to become skilled in others. If this position sounds like a good match for your interests and skills, please consider applying. You’ve found a unique team and a place to make a significant impact on Apple’s future.</p>
+</div></body></html>

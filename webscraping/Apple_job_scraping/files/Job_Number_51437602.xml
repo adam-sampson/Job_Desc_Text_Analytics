@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-51437602">Storage Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 51437602</li>
+<li title="Austin, Texas, United States">Austin, Texas, United States</li>
+<li>Posted: Jun. 6, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">The Hardware Technology Compute and Storage Group has an opportunity available for a customer service oriented, self-driven, and motivated Storage Engineer to join our operations team. The ideal candidate should possess excellent communication and troubleshooting skills as well as a solid working knowledge of complex storage systems, Linux compute clusters, and the infrastructure used to support a large scale HPC. You will run and expand the existing compute and storage infrastructure used by the geographically diverse silicon design teams within Apple.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Typically requires at least 5+ years of experience in a large compute environment. EDA, Finance, Special Effects/Animation, Oil &amp; Gas, Scientific Research or R&amp;D environments preferred</li>
+<li>Experience with enterprise storage administration</li>
+<li>Experience with NFS, NAS, and D2D appliances (NetApp or EMC preferred)</li>
+<li>Experience managing a multi-site storage environment</li>
+<li>Experience with site-to-site data replication and WAN optimization</li>
+<li>Experience with Linux system administration (Red Hat/CentOS preferred)</li>
+<li>Experience working in and trouble shooting a high-uptime, high-availability environment </li>
+<li>Experience with monitoring systems (Nagios, Zenoss, Sensu) </li>
+<li>Experience with centralized configuration management (Puppet, Ansible, Chef)</li>
+<li>Experience with revision control systems (SVN, Git, Perforce)</li>
+<li>Experience using scripting languages like bash, Perl, Python, or Ruby </li>
+<li>Understanding of Layer 2 / Layer 3 networking (Arista / Cisco preferred)</li>
+<li>Knowledge of common application protocols like DNS, LDAP, SNMP, DHCP, NTP</li>
+<li>Must be analytical and possess strong organization / problem-solving skills</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline"> •Perform implementation, maintenance, monitoring, performance analysis, proactive troubleshooting, and continual improvement of the storage and compute infrastructure
+•Drive automation of the implementation, maintenance, and alerting of the storage environment
+•Deploy and maintain a storage infrastructure that requires 24/7 global accessibility
+•Participate in programs to deploy POC systems for evaluation and testing
+•Review entire environment and execute initiatives to reduce failures, defects and improving overall performance
+•Perform tasks that require different perspectives and creative approaches
+•Participate in a regular on-call rotation
+</p>
+<h3>Education</h3>
+<p class="preline">•BS/MS Degree or equivalent experience</p>
+</div></body></html>

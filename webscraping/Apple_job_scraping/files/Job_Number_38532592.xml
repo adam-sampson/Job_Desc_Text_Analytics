@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-38532592">Software Development Engineer in Test</h2>
+<ul class="sosumi">
+<li>Job Number: 38532592</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Nov. 11, 2016</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Apple is looking for a software engineer to drive automation testing and corresponding infrastructure. We're looking for critical thinkers who would like to play a key role in qualifying critical pipelines that are responsible for managing data and integration workflow. As you’ll be working with an agile group, your background should be a good blend of programming and testing methodologies.
+
+This position requires a self-motivated individual with strong problem solving skills who can contribute in a dynamic team environment. You’ll have the opportunity to collaborate with cross-functional engineering teams that define and implement some of the core backend platform frameworks and systems that will power the next generation of Apple’s services.</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>Creative thinker and a strong problem solver.</li>
+<li>Strong understanding of software quality processes (test case planning, feature ownership, automation reporting and triage, bug reporting, regression &amp; isolation). </li>
+<li>Experience with Hadoop, Spark, or other big data systems.</li>
+<li>Test automation experience</li>
+<li>Familiar with Continuous Integration and software build processes.</li>
+<li>Strong testing experience with a proven track record of finding bugs.</li>
+<li>Strong understanding of Object-Oriented design concepts and coding skills in a language like Java, Objective-C, or C++.</li>
+<li>Understanding of performance issues and trade-offs.</li>
+<li>Strong analytical and debugging skills.</li>
+<li>Good verbal and written communication skills.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">In this role, you will be responsible for testing the services and pipelines that are used for managing sensitive data and integrations. You will be helping to define the strategy to ensure the pipeline functionality meets the quality bar, work in tandem and collaborate with the development team to ensure testability of the design, design and implement the automation framework as part of the CI infrastructure, and write automation to test components that make up this ecosystem to ensure integration works end-to-end. You’ll be expected to work with internal partners to understand the data set and scenarios that the pipeline will need to handle. We are looking for a candidate with strong computer science fundamentals, who is a strong coder, but prefers to focus on the testing-related problem that span across multiple teams, as well as a strong analytical mindset to investigate integration issues.
+</p>
+<h3>Education</h3>
+<p class="preline">BS/MS EE/CS/CE or equivalent experience.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Experience with Cloud based infrastructure.
+Knowledge of code coverage reporting tools.
+Understanding of information security considerations, risk analysis.
+</p>
+</div></body></html>

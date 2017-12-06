@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Charlotte, NC" id="estJLoc" type="hidden"><input value="Data Architect/Analyst (with QlikView)" id="estSkillText" type="hidden"><input value="Data Architect/Analyst (with QlikView)" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Data Architect/Analyst (with QlikView)
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+				
+					
+					
+						<span class="mL20">Depends On Experience</span>
+						<span itemprop="baseSalary" style="display:none"></span>
+					
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<p><strong>About Capgemini</strong>                                                                         </p>
+<p>With more than 193,000 people in over 44 countries, Capgemini is one of the world's foremost providers of consulting, technology and outsourcing services. The Group reported 2016 global revenues of EUR 12.539 billion. Together with its clients, Capgemini creates and delivers business and technology solutions that fit their needs and drive the results they want. A deeply multicultural organization, Capgemini has developed its own way of working, the Collaborative Business ExperienceTM, and draws on Rightshore®, its worldwide delivery model. Learn more about us at <a href="http://www.capgemini.com/">http://www.capgemini.com</a>.  <em>Rightshore ® is a trademark belonging to Capgemini</em> </p>
+<p><strong>Title: Data Architect/Analyst (with QlikView)</strong></p>
+<p><strong>Location: Charlotte, NC</strong></p>
+<p><strong>Job Responsibilities:</strong>1. Direct projects in the implementation and use of Qlikview, Business Intelligence software tool 2. Assist in the design of databases, data modelling, ETL and data warehouses to ensure interoperability with BI solution 3. New projects architecture has to be designed keeping in mind the user’s past experience with the interface and the ability to accommodate newer business 4. Strong ability to analyze user requirements and build front-end BI applications according to specifications 5. Support migration of BI models and reports from development/QA Stage to Production environment. 6. Experience in end-to-end implementation of BI projects for developing a portfolio of scorecards, KPIs, reports &amp; dashboards 7. DB Knowledge: Good understanding of Oracle and SQL 8. Good experience with SDLC</p>
+<p> </p>
+<p>Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.</p>
+<p>This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.</p>
+<p> </p>
+<p>Click the following link for more information on your rights as an Applicant: <a href="http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law">http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law</a></p>
+<p> </p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+	
+	
+		
+			
+				
+					
+						<button type="button" id="applybtn-2" class="btn btn-primary btn-lg dice-btn apply disableButton" onclick="signModule();">Apply Now</button>
+					
+					
+				
+			
+			
+		
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							Global leader in consulting, technology, outsourcing, and local professional services. Capgemini is headquartered in Paris, France and operates in over 40 countries. We are, above all, a people company — 180,000 people worldwide. Read more: www.capgemini.com/about
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/dvKC1Tl1cXE" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+				</div>
+</body></html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<input value="Denver, CO" id="estJLoc" type="hidden"><input value="Agile, Analysis, Analytical Skills, Architecture, Database, Database Administration, Data Warehouse, Developer, Development, Ecommerce, HTTP, Java, Lifecycle, Linux, Manager, Management, MySQL, mysql, NoSQL, Oracle, PL/SQL, Programming, Sales, Scrum, Shell Scripting, SOAP, SQL, SQL Server, Testing, Unix, XML" id="estSkillText" type="hidden"><input value="Data Warehouse, ETL Developer" id="estJTitle" type="hidden"><input value="Full Time" id="taxTermsTextId" type="hidden"><input value="99.104.168.146" id="pcip" type="hidden"><input id="easyapplyCountries" value="united states, canada" type="hidden"><input id="maxCountNonEasyApply" value="5" type="hidden"><div class="row job-info">
+		<div class="col-md-12">
+			<div class="pull-left">
+				<span class="icon-plugin-1 icons"></span>
+			</div>
+            <div class="iconsiblings" itemprop="skills">
+				Agile, Analysis, Analytical Skills, Architecture, Database, Database Administration, Data Warehouse, Developer, Development, Ecommerce, HTTP, Java, Lifecycle, Linux, Manager, Management, MySQL, mysql, NoSQL, Oracle, PL/SQL, Programming, Sales, Scrum, Shell Scripting, SOAP, SQL, SQL Server, Testing, Unix, XML
+			</div>
+		</div>
+	</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-briefcase"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span>Full Time, Full Time</span>
+					<meta itemprop="employmentType" content="full-time ">
+</div>
+	</div>
+</div>
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icon-bank-note icons"></span>
+		</div>
+		<div class="iconsiblings">
+			
+			
+		</div>
+	</div>
+</div>
+
+<div class="row job-info">
+	<div class="col-md-12">
+		<div class="pull-left">
+			<span class="icons icon-network-2"></span>
+		</div>
+		<div class="iconsiblings">
+			
+				
+				
+					<span class="mL20">Telecommuting not available</span>
+				
+			
+			
+				
+				
+					<span>Travel not required</span>
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<h2 class="jobdesc">Job Description</h2>
+		<div class="highlight-black" id="jobdescSec" itemprop="description">
+			<br><b>Position: </b><br><b>Data Warehouse, ETL Developer </b><br><br><b>Job Description: </b><br><br><br>Data Engineer/ETL Developer Arrow Electronics, Inc. - Englewood, CO Reports To: Manager, IT The Data Engineer will be a member of our Data Management team that is responsible for various system integrations, data transformations and reporting to support the arrow.com ecommerce platform. Our new team member will be responsible for ETL processes and general reporting. Essential Duties and Responsibilities This individual will be responsible for the entire lifecycle of each data task he/she is given: designing, developing, testing and deploying. One of the largest responsibilities for this individual will be moving around large amounts of data onboarding inventory from various suppliers. This individual will work closely with the pricing and big data teams ensuring the most competitive/strategic price for each item is listed on the website at all times. As a Data Engineer, this individual will provide support to our internal sales/operations team if they have questions around the data. The ideal candidate will have an eye for continual improvement. They will help to identify and create designs and architecture that help to make all systems and business processes scalable. This individual will be responsible for maintaining the existing ETL order fulfillment integrations as well as developing new ETL integrations. The majority of the time, the goal behind the new ETL integrations is to reduce the manual workload currently being done by our internal operations team. Gather data for reporting mission-critical information to be used in influencing the direction of the business. Architecting/Designing/Developing an infrastructure to implement and support a reporting new reporting system. Documentation and knowledge transfer. Qualifications Strong development background with RDBMS and coding in PL/SQL and T-SQL Experience with enterprise reporting systems Experience with ETL tools and processes Experience working within a development environment and with common tools such as code repositories and group collaboration applications Experience extracting data from a variety of relational databases for analysis (MySQL, SQL Server, Oracle, etc.). Query optimization and working knowledge of transaction isolation levels Ability to be self-driven, take initiative and resolve issues Proven ability and extensive experience gathering, understanding and documenting business needs, translating them into requirements, and implementing solutions. Excellent communication and analytical skills; ability to manage multiple projects simultaneously Experience working with SOAP and REST APIs Preferred Architectural knowledge to design, implement and maintain highly scalable, durable and performant RDBMS Experience with Kettle Experience with XML and JSON Unix shell scripting Familiarity with Linux Experience as a member of an Agile / Scrum development team Java Programming System or network administration, database administration and optimization Experience with NoSQL databases and big data concepts What is in it for you? Training Skills development Performance coaching Medical, dental, vision, paid time off, 401k domestic partners program and more. Community involvement opportunities Career advancement opportunities FUNCTION:IT At Arrow, we are driving innovation and choice by offering employees a variety of benefits designed to keep you and your family physically and financially healthy. Our comprehensive, competitive benefits program is an important part of your total compensation package. We offer a variety of plans and coverage including health and welfare, retirement, paid time off, and voluntary benefits as well as resources to help you make cost-effective decisions for you and your family. Everyone counts at Arrow, and our benefits enable you to achieve and maintain better health and plan for your future as we work together toward smarter solutions in tomorrow-s technology. Arrow offers competitive time off for you, which includes accrued vacation time, personal and floating holidays, in addition to other observed holidays. These are granted based on the date you join the company in any given year. http://benefits.arrow.com EOE Minorities/Females/Protected Veterans/Disabled Arrow Electronics, Inc. is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please refer to our Hiring Process &amp; Accommodations Request Instructions on our Career Site to let us know the nature of your request and your contact information. <br><br><br>#DICE# <br><br><b>Location: </b><br><b>Denver </b><br><br><b>Time Type: </b><br><b>Full time </b>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+		
+
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+
+	
+		
+			
+				<button type="button" class="btn btn-primary btn-lg dice-btn apply disableButton" id="applybtn" onclick="checkModalHTML();">Apply Now</button>
+			
+			
+		
+	
+	
+	
+
+
+		<button data-original-title="Save" type="button" id="saveBtn2" isclicksavedjob="false" class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" issavedjob="false" onclick="saveJob(this)">
+			
+				
+				
+					<span class="icon-star-1"></span> Save this job
+				
+			
+		</button>
+	</div>
+</div>
+
+
+<!-- DJV Estimated Salaries Section -->
+
+			<br><hr>
+<div class="row">
+					<div class="col-md-12">
+						<h1 class="jobdesc">Company Information</h1>
+						<div class="highlight-black mTB20">
+							The tension between possibility and practicality is what we resolve. At Arrow, we’ve come full circle— from being a parts supplier at the physical heart of the radio business to being a global partner in the ongoing transformation of the most complex and exciting business on the planet. We are visionaries. Innovators. Mentors. In order to thrive and survive in today’s marketplace, we anticipate what will come tomorrow for our forward-thinking partners. Arrow serves as a supply channel partner for over 100,000 original equipment manufacturers, contract manufacturers and commercial customers through a global network of more than 460 locations in 56 countries.
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					
+						<div class="col-md-6 wrap-l">
+							<iframe class="company-media" src="//www.youtube.com/embed/yueP7V6Wddc" allowfullscreen="" frameborder="0"></iframe>
+						</div>
+					
+					
+						<div class="col-md-6 wrap-l">
+							<img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/ArrowElectronics/rectangle-400.jpg">
+</div>
+					
+				</div>
+</body></html>

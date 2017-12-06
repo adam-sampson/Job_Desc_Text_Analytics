@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-113001331">Data Automation &amp; Machine Intelligence Engineer</h2>
+<ul class="sosumi">
+<li>Job Number: 113001331</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Oct. 24, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+</p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>•Strong acumen in Industrial Automation with a focus on design, development, qualification and deployment of custom automation work-cells for automated assembly and inspection</li>
+<li>•Experience working with system integrators on custom automated machinery design, development, qualification and roll-out</li>
+<li>•Experience in equipment life-cycle from concept development, prototyping, acceptance testing and qualification for mass production </li>
+<li>•Working knowledge of automation sub-systems viz. optical (cameras and laser scanners), motion (servos and steppers), robots (SCARA, 6-axis and others) and grippers (mechanical and otherwise)</li>
+<li>•Strong understanding of GD (geometric dimensioning) and TA (tolerance analysis) and translation into machine qualifications via GRR</li>
+<li>•Experience in programming of industrial automaton controllers (PLC and PC-based) and robot programming with an understanding of field-bus protocols and data exchange methods (OPC-UA)</li>
+<li>•Strong working knowledge of applied statistics (descriptive and inferential) with proven understanding of process capability analysis and factory physics (line balancing and KPIs such as OEE, UPH, Yield)</li>
+<li>•Strong working experience with variability analysis techniques such as PCA, ANOVA and ANOM for analyzing manufacturing process and product data (JMP or the equivalent)</li>
+<li>•Adept in the application of Artificial Intelligence, Machine Learning and Neural Networks - from model building, training, tuning, validation and scaling in an enterprise environment</li>
+<li>•Strong working knowledge of ML methods such as regression, classification, and SVMs along with development of CNN/RNN neural networks</li>
+<li>•Experience in applied ML in the domains of anomaly detection, image classifications, and leading indicator predictions</li>
+<li>•Knowledge in processing large data sets from querying (SQL based), collating and organizing towards development of a fully automated data analysis pipeline</li>
+<li>•Strong understanding of open source ML libraries such as Tensorflow, Keras and Scikit and data science libraries such as pandas, seaborn, dplyr (R), ggplot (R). </li>
+<li>•Adept at OO programing principles and software development for data automation in R, Python, Java and C/C++/Obj-C</li>
+<li>•Understanding of software development life-cycle and adept at prototype building from idea through concept and demonstration </li>
+<li>•Strong working knowledge of the Unix/Linux OS and shell scripting. Understanding of text parsers such as sed/awk are a bonus. </li>
+<li>•Experience working within a high-volume manufacturing production environment a plus</li>
+<li>•Able to communicate effectively in a worldwide environment</li>
+<li>•Willing to travel domestically within the US and internationally amounting to a 30-35% travel in a year</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Responsible for ideation, concept development, and scaling of an enterprise data automation system with specific focus on software integration with automated equipment, development of automated data analysis modules for the analysis of manufacturing process, product attributes and operational efficiencies in the manufacturing of Apple products. Perform research and development on new technologies necessary to solve complex analysis tasks that have a direct impact to the quality and delivery of Apple products.
+
+•Develop new and or improved software data automation modules for the standardization of machine data, integration with assembly or inspection equipment and collection thereafter
+•Train, educate, guide and qualify automation system integrators on machine software standardization for data generation, collection and integration with Apple’s data automation infrastructure
+•Develop data analysis modules through the application of theoretical and practical data science methods
+•Assemble large data sets for analysis either through direct SQL-based querying or development of scripts and code-modules to collate distributed and disparate data sources
+•Analyze large data sets towards the goal of identifying anomalies (pattern detection) and variabilities in a measure of interest
+•Proof-of-concept application of ML methods and Neural Networks for a wide range of prescriptive/predictive applications
+•Develops software components in Python, Java and/or C/C++/Obj-C towards roll-out of a data automation system
+•Works with software management tools for requirements definition, prototyping, version control, testing and release management
+•Works with automated process equipment vendors to prescribe data standards (formats and structures) that lend themselves well to automation up the data pipeline
+•Engage automated process equipment vendors for software code reviews, design reviews and development proposals
+•Travel to the machine supplier and contract manufacturer for equipment bring-up, qualification, acceptance testing and support during manufacturing build events
+•Drive failure analysis and machine issue resolution relating to the data automation software, working with the machine supplier and contract manufacturer
+•Communicate and collaborate effectively with the multiple, globally distributed cross functional teams
+</p>
+<h3>Education</h3>
+<p class="preline">Bachelor’s in Engineering with 7+ years, Master’s in Engineering/Data Science with 5+ years or a PhD in Engineering with 3+ years in a data science or analytics research environment</p>
+</div></body></html>

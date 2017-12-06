@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div id="job">
+<h2 id="title-86532475">Camera - Electrical Validation</h2>
+<ul class="sosumi">
+<li>Job Number: 86532475</li>
+<li title="Santa Clara Valley, California, United States">Santa Clara Valley, California, United States</li>
+<li>Posted: Jul. 21, 2017</li>
+<li>Weekly Hours: 40.00</li>
+</ul>
+<h3>Job Summary</h3>
+<p class="preline">In this role, you will contribute to camera hardware prototyping and test by developing interface and evaluation hardware and software for custom cameras. This role requires EE and software skills and offers a mixture of instrumentation development and on-bench test and debug. The candidate will architect camera test solutions; design acquisition hardware and software; and develop experimental setups and software to analyze camera performance. </p>
+<div class="callout">
+<h3>Key Qualifications</h3>
+<ul class="square">
+<li>EE fundamentals and excellent problem solving skills.</li>
+<li>Experience with camera interfaces such as MIPI, CameraLink, CoaXpress, GigE.</li>
+<li>Design of custom printed circuit boards from inception to test (Cadence Allegro preferred).</li>
+<li>Python to automate instruments and analyze data (including project packaging and distribution).</li>
+<li>Analysis of experiments to root-cause challenging electrical problems. </li>
+<li>Drivers and software for camera acquisition cards.</li>
+</ul>
+</div>
+<h3>Description</h3>
+<p class="preline">Core Responsibilities:
+Combining custom and off-the-shelf camera hardware to create high-performance and easy to use camera validation platforms. 
+Developing capture, automation, and analysis software.
+Quickly creating and evaluating hardware concept demonstrations. 
+Implementing and debugging designs using oscilloscopes, logic analyzers, and other instruments.
+Working with PCB design engineers to define test and acquisition electronics.
+</p>
+<h3>Education</h3>
+<p class="preline">BS, MS, or Ph.D. in CS, EE, physics or related discipline.</p>
+<h3>Additional Requirements</h3>
+<p class="preline">Preferred Qualifications:
+Understanding of cameras and CMOS image sensors.
+FPGA HDL for control and acquisition. 
+Familiarity with low-level programming and debug for embedded development.
+</p>
+</div></body></html>
