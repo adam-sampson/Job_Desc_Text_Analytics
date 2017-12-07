@@ -12,6 +12,7 @@ library(svDialogs)
 library(DBI)
 library(tm)
 library(class)
+library(RSQLite)
 
 ##  Saves the pathname for the data set folders
 pathcommon <- "C:/Users/natha/Documents/Bellarmine Advanced Analytics/2017-3 Fall Term Group Project/Job_Desc_Text_Analytics/webscraping/"
@@ -240,6 +241,10 @@ connection <- dbConnect(MySQL(),
 dbWriteTable(connection, value = data.frame, name = "Jobs_Table", append = TRUE )
 
 
+## Write to sqLite database
+# db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
+# 
+# copy_to(db.conn,text.df,"jobCleanedText",temporary=FALSE,overwrite=TRUE)
 
 
 ##########################################################################################################
