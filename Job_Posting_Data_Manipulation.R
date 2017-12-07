@@ -5,6 +5,7 @@ library(plyr)
 library(stringr)
 library(tidyr)
 library(dplyr)
+library(dbplyr)
 library(RMySQL)
 library(xlsx)
 library(readr)
@@ -13,6 +14,8 @@ library(DBI)
 library(tm)
 library(class)
 library(RSQLite)
+library(lsa)
+
 
 ##  Saves the pathname for the data set folders
 pathcommon <- "C:/Users/natha/Documents/Bellarmine Advanced Analytics/2017-3 Fall Term Group Project/Job_Desc_Text_Analytics/webscraping/"
@@ -226,56 +229,41 @@ walmart.db$company <- "Walmart"
 text.df <- rbind(apple.db, dice.db, humana.db, microsoft.db, walmart.db)
 
 
-###     FYI, this code is not working yet...  :-(   ###################
+#---
+# Load data from database
+#---
 
-write.csv(text.df, "text_df.csv")
-
-password1 <- dlgInput("Please enter your database password", Sys.info()["password"])$res
-
-connection <- dbConnect(MySQL(),
-                        user = 'nthomas',
-                        password = password1,
-                        host = 'jdbc:mysql://bu-iaa-db.cjoepp1m87gp.us-east-2.rds.amazonaws.com:3306',
-                        dbname='Bellarmine RDS main db')
-
-dbWriteTable(connection, value = data.frame, name = "Jobs_Table", append = TRUE )
-
-
-## Write to sqLite database
 db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
+jobs.df <- as.data.frame(tbl(db.conn,"jobCleanedText"))
+# rm(db.conn)
 
-copy_to(db.conn,text.df,"jobCleanedText",temporary=FALSE,overwrite=TRUE)
+#---
+# Clean data even more
+#---
+# Remove everything except for [a-zA-Z] [:space:] ' + - and replace with space
+text.df$jobdesc <- str_replace_all(text.df$jobdesc,"[^a-zA-Z[:space:]+\\-\']"," ")
+# Remove ' and replace with nothing.
+text.df$jobdesc <- str_replace_all(text.df$jobdesc,"\'","")
 
+#---
+# Prepare data for use as corpus and tdm
+#---
+jobs.corpus <- Corpus(DataframeSource(data.frame(doc_id = text.df$jobid,
+                                                 text = text.df$jobdesc,
+                                                 stringsAsFactors = FALSE)))
+# print(jobs.corpus)
+# inspect(jobs.corpus[1:5])
+# meta(jobs.corpus[[1]])
+# inspect(jobs.corpus[[1]])
+# lapply(jobs.corpus[[1]]$content[[2]],as.character)
 
-##########################################################################################################
-##  Cleansing the data and placing into corpus  ##########################################################
-##########################################################################################################
-
-options(stringsAsFactors = FALSE)
-
-jobtext <- text.df
-
-# clean texts
-cleanCorpus <- function (corpus) {
-  corpus.tmp <- tm_map(corpus,removePunctuation)
-  corpus.tmp <- tm_map(corpus.tmp,removePunctuation)
-  corpus.tmp <- tm_map(corpus.tmp,stripWhitespace)
-  corpus.tmp <- tm_map(corpus.tmp,content_transformer(tolower))
-  corpus.tmp <- tm_map(corpus.tmp,removeWords,stopwords ("english"))
-  return (corpus.tmp)
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+jobs.corpus <- tm_map(jobs.corpus,PlainTextDocument)
+jobs.corpus <- tm_map(jobs.corpus,content_transformer(tolower))
+jobs.corpus <- tm_map(jobs.corpus,removeWords,stopwords("english"))
+jobs.corpus <- tm_map(jobs.corpus,stripWhitespace)
+# print(jobs.corpus)
+# inspect(jobs.corpus[1:5])
+# meta(jobs.corpus[[1]])
+# inspect(jobs.corpus[[1]])
+# lapply(jobs.corpus[[1]]$content[[2]],as.character)
 
