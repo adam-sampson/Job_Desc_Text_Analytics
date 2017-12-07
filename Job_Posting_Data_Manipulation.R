@@ -49,8 +49,8 @@ apple_df$jobtitle <- sapply(seq(apple_df$filepath), function(i){
 apple_df$jobdesc <- sapply(seq(apple_df$filepath), function(i){
   apple_data <- htmlTreeParse(apple_df$filepath[i], useInternal = TRUE)
   apple_desc1 <- unlist(xpathApply(apple_data, '//p', xmlValue))
-  apple_desc1 <- gsub('\\n', '', apple_desc1)
-  apple_desc1 <- gsub('\\r', '', apple_desc1)
+  apple_desc1 <- gsub('\\n', ' ', apple_desc1)
+  apple_desc1 <- gsub('\\r', ' ', apple_desc1)
   apple_desc1 <- gsub("Ã¢Â€Â™",'\'', apple_desc1)
   apple_desc1 <- paste(apple_desc1, collapse = '')
   apple_desc2 <- unlist(xpathApply(apple_data, '//li', xmlValue))
@@ -95,8 +95,8 @@ ms_df$jobtitle <- sapply(seq(ms_df$filepath), function(i){
 ms_df$jobdesc <- sapply(seq(ms_df$filepath), function(i){
   ms_data <- htmlTreeParse(ms_df$filepath[i], useInternal = TRUE)
   ms_desc <- unlist(xpathApply(ms_data, '//p', xmlValue))
-  ms_desc <- gsub('\\n', '', ms_desc)
-  ms_desc <- gsub('\\r', '', ms_desc)
+  ms_desc <- gsub('\\n', ' ', ms_desc)
+  ms_desc <- gsub('\\r', ' ', ms_desc)
   ms_desc <- paste(ms_desc, collapse = '')
 })
 
@@ -142,11 +142,11 @@ humana_df$jobdesc <- sapply(seq(humana_df$filepath), function(i){
   humana_desc1 <- unlist(xpathApply(humana_data, '//div', xmlValue))
   humana_desc1a <- humana_desc1[[1]]
   humana_desc1 <- paste(humana_desc1a, sep = '')
-  humana_desc1 <- gsub('\\n', '', humana_desc1)
-  humana_desc1 <- gsub('\\r', '', humana_desc1)
+  humana_desc1 <- gsub('\\n', ' ', humana_desc1)
+  humana_desc1 <- gsub('\\r', ' ', humana_desc1)
   humana_desc2 <- unlist(xpathApply(humana_data, '//ul', xmlValue))
-  humana_desc2 <- gsub('\\n', '', humana_desc2)
-  humana_desc2 <- gsub('\\r', '', humana_desc2)
+  humana_desc2 <- gsub('\\n', ' ', humana_desc2)
+  humana_desc2 <- gsub('\\r', ' ', humana_desc2)
   humana_desc2 <- paste(humana_desc2, collapse = '')
   humana_desc <- paste(humana_desc1, humana_desc2, collapse = '')
 })
@@ -242,9 +242,9 @@ dbWriteTable(connection, value = data.frame, name = "Jobs_Table", append = TRUE 
 
 
 ## Write to sqLite database
-# db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
-# 
-# copy_to(db.conn,text.df,"jobCleanedText",temporary=FALSE,overwrite=TRUE)
+db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
+
+copy_to(db.conn,text.df,"jobCleanedText",temporary=FALSE,overwrite=TRUE)
 
 
 ##########################################################################################################
