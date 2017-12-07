@@ -7,6 +7,7 @@ library(stringr)
 library(wordcloud)
 library(SnowballC)
 library(ggplot2)
+library(readr)
 
 #---
 # Load data from database
@@ -15,7 +16,16 @@ library(ggplot2)
   db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
   jobs.df <- as.data.frame(tbl(db.conn,"jobCleanedText"))
   # rm(db.conn)
+  str(jobs.df)
   
+  # Load resume
+  resume.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
+    resume.df <- iconv(resume.df,to = "UTF-8")
+    resume.df <- str_replace_all(resume.df,"[\\r\\n\\t]"," ")
+    resume.df <- data.frame(jobid = "SampsonResume", jobtitle = "none",jobdesc = resume.df,company = "resume")
+  
+  jobs.df <- rbind(jobs.df,resume.df)
+    
 #---
 # Clean data even more
 #---
@@ -68,19 +78,26 @@ library(ggplot2)
 #---
 # Distance with raw tdm
 #---
+  jobs.td.mat <- as.matrix(jobs.tdm)
+    length(colnames(jobs.td.mat))
+    length(jobs.df$jobid)
+    colnames(jobs.td.mat) <- jobs.df$jobid
   jobs.td.mat <- as.textmatrix(as.matrix(jobs.tdm))
-  dist.jobs.td <- dist(t(as.matrix(jobs.td.mat)))
+  # dist.jobs.td <- dist(t(as.matrix(jobs.td.mat)))
     
 #---
 # Calculate Latent Semantic Analysis (on term document matrix (tdm))
 #---
   jobs.mat <- as.matrix(jobs.tdm)
+    length(colnames(jobs.mat))
+    length(jobs.df$jobid)
+    colnames(jobs.mat) <- jobs.df$jobid
   jobs.mat.lsa <- lw_bintf(jobs.mat) * gw_idf(jobs.mat) # weighting
   lsa_model <- lsa(jobs.mat.lsa)  
     dim(lsa_model$tk) #Terms x New LSA Space
     dim(lsa_model$dk) #Documents x New LSA Space
     length(lsa_model$sk) #Singular Values
-    lsa_model
+    # lsa_model
   lsa.text.mat <- as.textmatrix(lsa_model)
     lsa.text.mat
     print(lsa.text.mat)
@@ -95,38 +112,35 @@ library(ggplot2)
   #get cosine distance between terms
   cosine(lsa.text.mat[1,],lsa.text.mat[2,])
   #get cosine distance between documents
-  cosine(lsa.text.mat[,1],lsa.text.mat[,3])
+  cosine(lsa.text.mat[,1],lsa.text.mat[,1895])
   # get cosine for all documents in a matrix
   cos.lsa <- cosine(lsa.text.mat)
   
   associate(lsa.text.mat,"r", measure = "cosine", threshold = 0.7)
   
   # create a function to take the LSA and then compare one of the documents in it to all of the other documents and return a vector
-  corDocToLSA <- function() {
-    
+  cosDistAllJobs <- function(in.mat,col.of.resume) {
+    out.cos <- NULL
+    for(i in 1:length(in.mat[1,])) {
+      out.cos = c(out.cos,cosine(in.mat[,i],in.mat[,col.of.resume]))
+    }
+    return(out.cos)
   }
 
-
+  resume1.cos <- cosDistAllJobs(lsa.text.mat,1895)
+    resume1.cos <- data.frame(id = jobs.df$jobid, cosine = resume1.cos,stringsAsFactors = FALSE)
+    resume1.cos <- resume1.cos %>% arrange(desc(cosine))
+    
 #---
 # Perform Multi-dimensional Scaling (MDS)
 #---
-  plot_mds <- function(dist.mat.in) {
-    fit <- cmdscale(dist.mat.in, eig=TRUE, k=2)
-    points <- data.frame(x=fit$points[, 1], y=fit$points[, 2])
-    ggplot(points,aes(x=x, y=y)) + 
-      geom_point(data=points,aes(x=x, y=y, color=df$view)) + 
-      geom_text(data=points,aes(x=x, y=y-0.2, label=row.names(df)))
-  }
-  
-  plot_mds(dist.jobs.lsa)  
-
-#---
-# Fold in resumes
-#---
-  resume.text.mat <- textmatrix("./Resume/", 
-                                minWordLength = 1,
-                                stopwords = stopwords("english"),
-                                removeNumbers = TRUE)
-  
-  fold_in(resume.text.mat, lsa_model)
+  # plot_mds <- function(dist.mat.in) {
+  #   fit <- cmdscale(dist.mat.in, eig=TRUE, k=2)
+  #   points <- data.frame(x=fit$points[, 1], y=fit$points[, 2])
+  #   ggplot(points,aes(x=x, y=y)) + 
+  #     geom_point(data=points,aes(x=x, y=y, color=df$view)) + 
+  #     geom_text(data=points,aes(x=x, y=y-0.2, label=row.names(df)))
+  # }
+  # 
+  # plot_mds(dist.jobs.lsa)  
   
