@@ -7,6 +7,7 @@ library(stringr)
 library(wordcloud)
 library(ggplot2)
 library(readr)
+library(lsa)
 
 #---
 # Load data from database
@@ -120,9 +121,11 @@ library(readr)
           # estimates that only about ??% of the words in document 1 were 
           # generated from topic 1.
       # Probabilities associated with each term for each topic
-        termProbabilities <- as.matrix(jobs.lda@beta)
-          termProbabilities <- t(termProbabilities)
+        termProbabilities.lda <- as.matrix(jobs.lda@beta)
+          termProbabilities.lda <- t(termProbabilities.lda)
           rownames(termProbabilities) <- jobs.lda@terms
+          head(termProbabilities.lda)
+          summary(termProbabilities.lda)
       # Find relative importance of 2 topics
         topicProb <- function(x,t1,t2) {
           sort(topicProbabilities[x,])[k-(t1-1)]/sort(topicProbabilities[x,])[k-(t2-1)]
@@ -142,8 +145,21 @@ library(readr)
         
   resume.topics <- topicmodels::posterior(jobs.lda,newdata = resume.dtm)
     # Probabilities associeated with each topic assignment
-    topicProbabilities <- as.matrix(resume.topics$topics)
-      rownames(topicProbabilities) <- resume.df$jobid
-      colnames(topicProbabilities) <- paste("Topic",colnames(topicProbabilities))
-      head(as.data.frame(topicProbabilities,stringsAsFactors = FALSE),n=10)
+    topicProbabilities.resume <- as.matrix(resume.topics$topics)
+      rownames(topicProbabilities.resume) <- resume.df$jobid
+      colnames(topicProbabilities.resume) <- paste("Topic",colnames(topicProbabilities.resume))
+      head(as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE),n=10)
+    # Can we compare to termProbabilities instead?
+    termProbabilities.resume <- t(as.matrix(resume.topics$terms))
+      colnames(termProbabilities.resume) <- paste("Topic",colnames(termProbabilities.resume))
+      head(as.data.frame(termProbabilities.resume,stringsAsFactors = FALSE),n=10)
+      summary(termProbabilities.resume)
       
+  # Need to get a distance measure...not an assignment.
+  # Try cosine distance
+  cosine(termProbabilities.lda[,1],termProbabilities.resume[,1])
+  cosine(termProbabilities.lda[,2],termProbabilities.resume[,2])
+  cosine(termProbabilities.lda[,3],termProbabilities.resume[,3])
+  cosine(termProbabilities.lda[,4],termProbabilities.resume[,4])
+  cosine(termProbabilities.lda[,5],termProbabilities.resume[,5])
+  
