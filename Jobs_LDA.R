@@ -86,7 +86,10 @@ library(lsa)
     length(freq)
     freq <- freq[order(freq,decreasing = TRUE)]
     # View(as.data.frame(freq))
-    
+  
+  rowTotals <- apply(jobs.dtm , 1, sum) #Find the sum of words in each Document
+  jobs.dtm   <- jobs.dtm[rowTotals> 0, ]           #remove all docs without words
+  
 #---
 # Latent Dierichlet Analysis (LDA)
 #---
@@ -102,7 +105,11 @@ library(lsa)
     k <- 5  
     
     #jobs.lda <- LDA(jobs.dtm,k,method = "Gibbs",control=lda.control)
-    jobs.lda <- LDA(jobs.dtm,k)
+    jobs.k5.lda <- LDA(jobs.dtm,5)
+    jobs.k50.lda <- LDA(jobs.dtm,50)
+    saveRDS(jobs.k5.lda,file="jobs.k5.lda.RDS",compress = FALSE)
+    saveRDS(jobs.k50.lda,file="jobs.k50.lda.RDS",compress = FALSE)
+    jobs.lda <- jobs.k5.lda
       # Write out results
       jobs.lda.topics <- as.matrix(topics(jobs.lda))
       head(as.data.frame(jobs.lda.topics))
