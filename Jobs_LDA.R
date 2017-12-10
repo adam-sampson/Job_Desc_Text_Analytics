@@ -105,10 +105,12 @@ library(lsa)
     k <- 5  
     
     #jobs.lda <- LDA(jobs.dtm,k,method = "Gibbs",control=lda.control)
-    jobs.k5.lda <- LDA(jobs.dtm,5)
-    jobs.k50.lda <- LDA(jobs.dtm,50)
-    saveRDS(jobs.k5.lda,file="jobs.k5.lda.RDS",compress = FALSE)
-    saveRDS(jobs.k50.lda,file="jobs.k50.lda.RDS",compress = FALSE)
+    # jobs.k5.lda <- LDA(jobs.dtm,5)
+    # jobs.k50.lda <- LDA(jobs.dtm,50)
+    # saveRDS(jobs.k5.lda,file="jobs.k5.lda.RDS",compress = FALSE)
+    # saveRDS(jobs.k50.lda,file="jobs.k50.lda.RDS",compress = FALSE)
+    jobs.k5.lda <- readRDS('jobs.k5.lda.RDS')
+    jobs.k50.lda <- readRDS('jobs.k50.lda.RDS')
     jobs.lda <- jobs.k5.lda
       # Write out results
       jobs.lda.topics <- as.matrix(topics(jobs.lda))
