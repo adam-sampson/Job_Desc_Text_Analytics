@@ -5,11 +5,24 @@ library(wordcloud)
 library(cluster)
 library(tm)
 library(data.table)
+library(stringr)
 
 source("sqLite.R")
 
-jobs.df <- loadTextDfFromSqLite()
+db.conn = dbConnect(SQLite(), dbname="JobsTextData.sqlite")
+jobs.df <- as.data.frame(tbl(db.conn,"jobCleanedText"))
 
+dbDisconnect(db.conn)
+
+#---
+# Clean data even more
+#---
+# Remove everything except for [a-zA-Z] [:space:] ' + - and replace with space
+jobs.df$jobdesc <- str_replace_all(jobs.df$jobdesc,"[^a-zA-Z[:space:]+\\-\']"," ")
+# Remove ' and replace with nothing.
+jobs.df$jobdesc <- str_replace_all(jobs.df$jobdesc,"\'","")
+
+#Create the corpus
 jobs.corpus <- Corpus(DataframeSource(jobs.df))
 
 # Basic Cleaning the text for basic analysis
@@ -18,12 +31,15 @@ jobs.corpus <- tm_map(jobs.corpus,removeWords,stopwords("english"))
 jobs.corpus <- tm_map(jobs.corpus,removePunctuation)  
 jobs.corpus <- tm_map(jobs.corpus,stripWhitespace)  
 
+
 # Document Term Matrix
 #jobs.dtm <- DocumentTermMatrix(jobs.corpus)
 jobs.tdm <- TermDocumentMatrix(jobs.corpus)
 
+jobs.tdm
+
 # Looking at frequent terms
-freqterm <- findFreqTerms(jobs.tdm,lowfreq = 1700)
+freqterm <- findFreqTerms(jobs.tdm,lowfreq = 5000)
 termFreq <- rowSums(as.matrix(jobs.tdm[freqterm,]))
 termFreq <- data.table(term = names(termFreq), count = termFreq)
 termFreq <- termFreq %>% arrange(desc(count))
