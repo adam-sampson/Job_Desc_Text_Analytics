@@ -19,11 +19,11 @@ library(lsa)
   rm(db.conn)
   str(jobs.df)
 
-# Load resume
-  resume.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
-  resume.df <- iconv(resume.df,to = "UTF-8")
-  resume.df <- str_replace_all(resume.df,"[\\r\\n\\t]"," ")
-  resume.df <- data.frame(jobid = "SampsonResume", jobtitle = "none",jobdesc = resume.df,company = "resume")
+# # Load resume
+#   resume.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
+#   resume.df <- iconv(resume.df,to = "UTF-8")
+#   resume.df <- str_replace_all(resume.df,"[\\r\\n\\t]"," ")
+#   resume.df <- data.frame(jobid = "SampsonResume", jobtitle = "none",jobdesc = resume.df,company = "resume")
   
   # jobs.df <- rbind(jobs.df,resume.df)
 
@@ -43,7 +43,7 @@ library(lsa)
   }
   
   jobs.df <- cleanDataMore(jobs.df = jobs.df)
-  resume.df <- cleanDataMore(jobs.df = resume.df)
+  # resume.df <- cleanDataMore(jobs.df = resume.df)
   
 #---
 # Prepare data for use as corpus and tdm
@@ -122,7 +122,8 @@ library(lsa)
         head(as.data.frame(jobs.lda.terms),n=10)
       # Probabilities associeated with each topic assignment
         topicProbabilities <- as.matrix(jobs.lda@gamma)
-          rownames(topicProbabilities) <- jobs.df$jobid
+          # rownames(topicProbabilities) <- jobs.df$jobid
+          rownames(topicProbabilities) <- jobs.lda@documents
           head(as.data.frame(topicProbabilities,stringsAsFactors = FALSE),n=10)
           # View(as.data.frame(topicProbabilities,stringsAsFactors = FALSE))
           # Each of these values is an estimated proportion of words from that 
@@ -132,7 +133,7 @@ library(lsa)
       # Probabilities associated with each term for each topic
         termProbabilities.lda <- as.matrix(jobs.lda@beta)
           termProbabilities.lda <- t(termProbabilities.lda)
-          rownames(termProbabilities) <- jobs.lda@terms
+          rownames(termProbabilities.lda) <- jobs.lda@terms
           head(termProbabilities.lda)
           summary(termProbabilities.lda)
       # Find relative importance of 2 topics
@@ -148,9 +149,23 @@ library(lsa)
 # Comparing the LDA to new documents (resumes)
 # https://stackoverflow.com/questions/16115102/predicting-lda-topics-for-new-data
 #-
+  # Load resume
+  resume1.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
+  resume2.df <- read_file("./resume/Nathan_Thomas_Resume_20170201.txt")
+  resume3.df <- read_file("./resume/Resumetext_maxson.txt")
+  
+  resume.df <- resume1.df
+  resume.df <- resume2.df
+  resume.df <- resume3.df
+  resume.df <- iconv(resume.df,to = "UTF-8")
+  resume.df <- str_replace_all(resume.df,"[\\r\\n\\t]"," ")
+  resume.df <- data.frame(jobid = "Resume", jobtitle = "none",jobdesc = resume.df,company = "resume")
+        
   # Convert resume to dtm
   resume.corpus <- convertToCleanCorpus(resume.df)
   resume.dtm <- corpusToDTM(resume.corpus,resume.df)
+  
+  resume.dtm   <- resume.dtm[rowTotals> 0, ]           #remove all docs without words
         
   resume.topics <- topicmodels::posterior(jobs.lda,newdata = resume.dtm)
     # Probabilities associeated with each topic assignment
@@ -171,4 +186,5 @@ library(lsa)
   cosine(termProbabilities.lda[,3],termProbabilities.resume[,3])
   cosine(termProbabilities.lda[,4],termProbabilities.resume[,4])
   cosine(termProbabilities.lda[,5],termProbabilities.resume[,5])
+  
   
