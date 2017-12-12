@@ -113,6 +113,7 @@ library(lsa)
     jobs.k5.lda <- readRDS('jobs.k5.lda.RDS')
     jobs.k50.lda <- readRDS('jobs.k50.lda.RDS')
     jobs.lda <- jobs.k5.lda
+    # jobs.lda <- jobs.k50.lda
       # Write out results
       jobs.lda.topics <- as.matrix(topics(jobs.lda))
       head(as.data.frame(jobs.lda.topics))
@@ -195,6 +196,7 @@ library(lsa)
   resume.dtm   <- resume.dtm[rowTotals> 0, ]           #remove all docs without words
         
   resume.topics <- topicmodels::posterior(jobs.lda,newdata = resume.dtm)
+  
     # Probabilities associeated with each topic assignment
     topicProbabilities.resume <- as.matrix(resume.topics$topics)
       rownames(topicProbabilities.resume) <- resume.df$jobid
