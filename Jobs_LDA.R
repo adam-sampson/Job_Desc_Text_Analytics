@@ -30,54 +30,55 @@ library(lsa)
 #---
 # Clean data even more
 #---
-  cleanDataMore <- function(jobs.df) {
+  cleanDataMore <- function(in.df) {
     # Remove everything except for [a-zA-Z] [:space:] ' + - and replace with space
-    #jobs.df$jobdesc <- str_replace_all(jobs.df$jobdesc,"[^a-zA-Z[:space:]+\\-\']"," ")
+    #in.df$jobdesc <- str_replace_all(in.df$jobdesc,"[^a-zA-Z[:space:]+\\-\']"," ")
     # Remove everything except for [a-zA-Z] [:space:] ' + and replace with space
-    jobs.df$jobdesc <- str_replace_all(jobs.df$jobdesc,"[^a-zA-Z[:space:]+\']"," ")
+    in.df$jobdesc <- str_replace_all(in.df$jobdesc,"[^a-zA-Z[:space:]+\']"," ")
     # Remove ' and replace with nothing.
-    jobs.df$jobdesc <- str_replace_all(jobs.df$jobdesc,"\'","")
+    in.df$jobdesc <- str_replace_all(in.df$jobdesc,"\'","")
     # Convert to utf-8 explicitly
-    jobs.df$jobdesc <- iconv(jobs.df$jobdesc, to = "utf-8")
-    return(jobs.df)
+    in.df$jobdesc <- iconv(in.df$jobdesc, to = "utf-8")
+    return(in.df)
   }
   
-  jobs.df <- cleanDataMore(jobs.df = jobs.df)
+  jobs.df <- cleanDataMore(in.df = jobs.df)
   # resume.df <- cleanDataMore(jobs.df = resume.df)
   
 #---
 # Prepare data for use as corpus and tdm
 #---
-  convertToCleanCorpus <- function(jobs.df) {
-    jobs.corpus <- Corpus(DataframeSource(data.frame(doc_id = jobs.df$jobid,
-                                                     text = jobs.df$jobdesc,
+  convertToCleanCorpus <- function(in.df) {
+    in.corpus <- Corpus(DataframeSource(data.frame(doc_id = in.df$jobid,
+                                                     text = in.df$jobdesc,
                                                      stringsAsFactors = FALSE)))
-      # print(jobs.corpus)
-      # inspect(jobs.corpus[1:5])
-      # meta(jobs.corpus[[1]])
-      # inspect(jobs.corpus[[1]])
-      # lapply(jobs.corpus[[1]]$content[[2]],as.character)
+      # print(in.corpus)
+      # inspect(in.corpus[1:5])
+      # meta(in.corpus[[1]])
+      # inspect(in.corpus[[1]])
+      # lapply(in.corpus[[1]]$content[[2]],as.character)
     
-    jobs.corpus <- tm_map(jobs.corpus,PlainTextDocument)
-    jobs.corpus <- tm_map(jobs.corpus,content_transformer(tolower))
-    jobs.corpus <- tm_map(jobs.corpus,removeWords,stopwords("english"))
+    in.corpus <- tm_map(in.corpus,PlainTextDocument)
+    in.corpus <- tm_map(in.corpus,content_transformer(tolower))
+    in.corpus <- tm_map(in.corpus,removeWords,stopwords("english"))
       # remove the names of the company (I.E. apple or apple's) from the text 
-    jobs.corpus <- tm_map(jobs.corpus,removeWords,tolower(c(unique(jobs.df$company),paste0(unique(jobs.df$company),"s"))))
-    jobs.corpus <- tm_map(jobs.corpus,removeWords,c("ã‚â"))
-    jobs.corpus <- tm_map(jobs.corpus,stripWhitespace)
-      # print(jobs.corpus)
-      # inspect(jobs.corpus[[1]])
-      # lapply(jobs.corpus[[1]]$content[[2]],as.character)
-    return(jobs.corpus)
+    in.corpus <- tm_map(in.corpus,removeWords,tolower(c(unique(in.df$company),paste0(unique(in.df$company),"s"))))
+    in.corpus <- tm_map(in.corpus,removeWords,c("ã‚â"))
+    in.corpus <- tm_map(in.corpus,stripWhitespace)
+      # print(in.corpus)
+      # inspect(in.corpus[[1]])
+      # lapply(in.corpus[[1]]$content[[2]],as.character)
+    return(in.corpus)
   }
   
   jobs.corpus <- convertToCleanCorpus(jobs.df)
+    inspect(jobs.corpus)
   
-  corpusToDTM <- function(jobs.corpus,jobs.df) {
-    jobs.dtm <- DocumentTermMatrix(jobs.corpus)
-      rownames(jobs.dtm) <- jobs.df$jobid
-      rownames(jobs.dtm)
-    return(jobs.dtm)
+  corpusToDTM <- function(in.corpus,in.df) {
+    in.dtm <- DocumentTermMatrix(in.corpus)
+      rownames(in.dtm) <- in.df$jobid
+      rownames(in.dtm)
+    return(in.dtm)
   }
   
   jobs.dtm <- corpusToDTM(jobs.corpus,jobs.df)
@@ -149,20 +150,46 @@ library(lsa)
 # Comparing the LDA to new documents (resumes)
 # https://stackoverflow.com/questions/16115102/predicting-lda-topics-for-new-data
 #-
-  # Load resume
-  resume1.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
-  resume2.df <- read_file("./resume/Nathan_Thomas_Resume_20170201.txt")
-  resume3.df <- read_file("./resume/Resumetext_maxson.txt")
+  resume.dir <- "./Resume"
+  resume.df <- data.frame(jobid = character(),
+                          jobtitle = character(),
+                          jobdesc = character(),
+                          company = character(),
+                          stringsAsFactors = FALSE)
+  for(file in list.files(path=resume.dir)) {
+    resume.df <- rbind(resume.df,
+                       data.frame(jobid = file,
+                                  jobtitle = "none",
+                                  jobdesc = read_file(paste0(resume.dir,"/",file)),
+                                  company = "resume")
+                       )
+  }
   
-  resume.df <- resume1.df
-  resume.df <- resume2.df
-  resume.df <- resume3.df
-  resume.df <- iconv(resume.df,to = "UTF-8")
-  resume.df <- str_replace_all(resume.df,"[\\r\\n\\t]"," ")
-  resume.df <- data.frame(jobid = "Resume", jobtitle = "none",jobdesc = resume.df,company = "resume")
+  # Fix format error in resume 6
+  resume.df <- resume.df[c(1:5,7),]
         
+  # # Load resume
+  # resume1.df <- read_file("./resume/Sampson_Resume_DA_2017.txt")
+  # resume2.df <- read_file("./resume/Nathan_Thomas_Resume_20170201.txt")
+  # resume3.df <- read_file("./resume/Resumetext_maxson.txt")
+  # resume4.df <- read_file("./resume/Jack_Resume.txt")
+  # resume5.df <- read_file("./resume/Resume_Sample_Art1.txt")
+  # resume6.df <- read_file("./resume/Resume_Sample_Housekeeper1.txt")
+  # resume7.df <- read_file("./resume/Resume_Sample_Sales.txt")
+  # 
+  # resume.df <- resume1.df
+  # resume.df <- resume2.df
+  # resume.df <- resume3.df
+  
+  resume.df$jobdesc <- iconv(resume.df$jobdesc,to = "UTF-8")
+  resume.df$jobdesc <- str_replace_all(resume.df$jobdesc,"[\\r\\n\\t]"," ")
+  # resume.df <- data.frame(jobid = "Resume", jobtitle = "none",jobdesc = resume.df,company = "resume",stringsAsFactors = FALSE)
+        
+  resume.df <- cleanDataMore(resume.df)
+  
   # Convert resume to dtm
   resume.corpus <- convertToCleanCorpus(resume.df)
+    inspect(resume.corpus)
   resume.dtm <- corpusToDTM(resume.corpus,resume.df)
   
   resume.dtm   <- resume.dtm[rowTotals> 0, ]           #remove all docs without words
@@ -172,12 +199,18 @@ library(lsa)
     topicProbabilities.resume <- as.matrix(resume.topics$topics)
       rownames(topicProbabilities.resume) <- resume.df$jobid
       colnames(topicProbabilities.resume) <- paste("Topic",colnames(topicProbabilities.resume))
-      head(as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE),n=10)
+      (as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE))
+      write.csv(as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE),file = "resumeTopicProbabilities.csv")
+      
     # Can we compare to termProbabilities instead?
     termProbabilities.resume <- t(as.matrix(resume.topics$terms))
       colnames(termProbabilities.resume) <- paste("Topic",colnames(termProbabilities.resume))
-      head(as.data.frame(termProbabilities.resume,stringsAsFactors = FALSE),n=10)
-      summary(termProbabilities.resume)
+      head(termProbabilities.resume)
+      write.csv(as.data.frame(termProbabilities.resume,stringsAsFactors = FALSE),file="ldaTermProbabilities.csv")
+      # summary(termProbabilities.resume)
+      
+      head(termProbabilities.lda)    
+      write.csv(as.data.frame(termProbabilities.lda,stringsAsFactors = FALSE),file="originalTermProbabilities.csv")
       
   # Need to get a distance measure...not an assignment.
   # Try cosine distance
