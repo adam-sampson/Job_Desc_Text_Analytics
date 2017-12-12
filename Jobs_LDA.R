@@ -202,17 +202,17 @@ library(lsa)
       rownames(topicProbabilities.resume) <- resume.df$jobid
       colnames(topicProbabilities.resume) <- paste("Topic",colnames(topicProbabilities.resume))
       (as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE))
-      write.csv(as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE),file = "resumeTopicProbabilities.csv")
+      # write.csv(as.data.frame(topicProbabilities.resume,stringsAsFactors = FALSE),file = "k50resumeTopicProbabilities.csv")
       
     # Can we compare to termProbabilities instead?
     termProbabilities.resume <- t(as.matrix(resume.topics$terms))
       colnames(termProbabilities.resume) <- paste("Topic",colnames(termProbabilities.resume))
       head(termProbabilities.resume)
-      write.csv(as.data.frame(termProbabilities.resume,stringsAsFactors = FALSE),file="ldaTermProbabilities.csv")
+      # write.csv(as.data.frame(termProbabilities.resume,stringsAsFactors = FALSE),file="ldaTermProbabilities.csv")
       # summary(termProbabilities.resume)
       
       head(termProbabilities.lda)    
-      write.csv(as.data.frame(termProbabilities.lda,stringsAsFactors = FALSE),file="originalTermProbabilities.csv")
+      # write.csv(as.data.frame(termProbabilities.lda,stringsAsFactors = FALSE),file="k50originalTermProbabilities.csv")
       
   # Need to get a distance measure...not an assignment.
   # Try cosine distance
